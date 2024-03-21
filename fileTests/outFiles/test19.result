@@ -1,0 +1,89 @@
+Game is about to start!
+These are the players:
+
+1. Wongi, Warrior with Responsible behavior (level 1, force 5)
+2. Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. Gavan, Warrior with RiskTaking behavior (level 1, force 5)
+4. Michael, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: Wongi, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Wongi won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 82, loot 34, damage 170)
+Alex lost the encounter and took 170 damage!
+
+Turn: 3
+Player: Gavan, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Gavan lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: Michael, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+Michael was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           2         5     100   12
+2          Alex            1         5     0     10
+3          Gavan           1         5     0     10
+4          Michael         1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: Wongi, Warrior with Responsible behavior (level 2, force 5)
+Card: PotionsMerchant
+Wongi bought 0 potions!
+
+Turn: 6
+Player: Michael, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+Michael won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Michael         2         6     100   12
+2          Wongi           2         5     100   12
+3          Alex            1         5     0     10
+4          Gavan           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: Wongi, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 2 members (power 82, loot 34, damage 170)
+Wongi lost the encounter and took 170 damage!
+
+Turn: 8
+Player: Michael, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+Michael lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Michael         2         6     0     12
+2          Wongi           2         5     0     12
+3          Alex            1         5     0     10
+4          Gavan           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

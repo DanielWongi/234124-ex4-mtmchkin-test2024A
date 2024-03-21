@@ -1,0 +1,309 @@
+Game is about to start!
+These are the players:
+
+1. Wongi, Warrior with Responsible behavior (level 1, force 5)
+2. Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. Choppy, Sorcerer with Responsible behavior (level 1, force 5)
+4. Gavan, Warrior with RiskTaking behavior (level 1, force 5)
+5. Almog, Warrior with Responsible behavior (level 1, force 5)
+6. Tom, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: Wongi, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Wongi won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Alex lost the encounter and took 25 damage!
+
+Turn: 3
+Player: Choppy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Choppy lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: Gavan, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+Gavan was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: Almog, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Almog bought 0 potions!
+
+Turn: 6
+Player: Tom, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Tom won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Tom             2         5     100   12
+2          Wongi           2         5     100   12
+3          Alex            1         5     75    10
+4          Almog           1         5     100   10
+5          Choppy          1         5     0     10
+6          Gavan           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: Wongi, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Wongi lost the encounter and took 25 damage!
+
+Turn: 8
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Alex lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: Gavan, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+Gavan was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 10
+Player: Almog, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Almog bought 0 potions!
+
+Turn: 11
+Player: Tom, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Tom won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Tom             3         5     100   14
+2          Wongi           2         5     75    12
+3          Alex            1         5     0     10
+4          Almog           1         5     100   10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: Wongi, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Wongi lost the encounter and took 25 damage!
+
+Turn: 13
+Player: Gavan, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Dragon (power 17, loot 100, damage 9001)
+Gavan lost the encounter and took 9001 damage!
+
+Turn: 14
+Player: Almog, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+Almog was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 15
+Player: Tom, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: PotionsMerchant
+Tom bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Tom             3         5     100   14
+2          Wongi           2         5     50    12
+3          Alex            1         5     0     10
+4          Almog           1         4     100   10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: Wongi, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Wongi won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: Almog, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Almog lost the encounter and took 25 damage!
+
+Turn: 18
+Player: Tom, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Tom lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Tom             3         5     0     14
+2          Wongi           3         5     50    14
+3          Alex            1         5     0     10
+4          Almog           1         4     75    10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: Wongi, Warrior with Responsible behavior (level 3, force 5)
+Card: SolarEclipse
+Wongi was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 20
+Player: Almog, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+Almog bought 3 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Tom             3         5     0     14
+2          Wongi           3         4     50    14
+3          Alex            1         5     0     10
+4          Almog           1         4     100   10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: Wongi, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Wongi won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: Almog, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Almog lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           4         4     50    16
+2          Tom             3         5     0     14
+3          Alex            1         5     0     10
+4          Almog           1         4     75    10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: Wongi, Warrior with Responsible behavior (level 4, force 4)
+Card: Dragon (power 17, loot 100, damage 9001)
+Wongi lost the encounter and took 9001 damage!
+
+Turn: 24
+Player: Almog, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+Almog was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           4         4     0     16
+2          Tom             3         5     0     14
+3          Alex            1         5     0     10
+4          Almog           1         3     75    10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: Almog, Warrior with Responsible behavior (level 1, force 3)
+Card: PotionsMerchant
+Almog bought 3 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           4         4     0     16
+2          Tom             3         5     0     14
+3          Alex            1         5     0     10
+4          Almog           1         3     100   10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: Almog, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+Almog won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           4         4     0     16
+2          Tom             3         5     0     14
+3          Almog           2         3     100   12
+4          Alex            1         5     0     10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: Almog, Warrior with Responsible behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+Almog lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           4         4     0     16
+2          Tom             3         5     0     14
+3          Almog           2         3     75    12
+4          Alex            1         5     0     10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: Almog, Warrior with Responsible behavior (level 2, force 3)
+Card: Dragon (power 17, loot 100, damage 9001)
+Almog lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           4         4     0     16
+2          Tom             3         5     0     14
+3          Almog           2         3     0     12
+4          Alex            1         5     0     10
+5          Choppy          1         5     0     10
+6          Gavan           1         3     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!
