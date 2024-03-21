@@ -9,7 +9,7 @@ NC='\033[0m' # No Color
 FAILED_TESTS=0
 
 # Number of tests to run, can be increased as needed
-TESTS_TO_RUN=35
+TESTS_TO_RUN=1231
 
 # Main loop for running tests
 for i in fileTests/inFiles/test*.in; do
