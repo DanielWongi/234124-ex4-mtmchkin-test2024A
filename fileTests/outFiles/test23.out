@@ -1,0 +1,197 @@
+Game is about to start!
+These are the players:
+
+1. Wongi, Warrior with RiskTaking behavior (level 1, force 5)
+2. Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. Gavan, Warrior with Responsible behavior (level 1, force 5)
+4. Almog, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: Wongi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+Wongi lost the encounter and took 50 damage!
+
+Turn: 2
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Alex lost the encounter and took 60 damage!
+
+Turn: 3
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Gavan lost the encounter and took 60 damage!
+
+Turn: 4
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Almog lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     40    10
+2          Almog           1         5     40    10
+3          Gavan           1         5     40    10
+4          Wongi           1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: Wongi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+Wongi bought 0 potions!
+
+Turn: 6
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+Alex bought 1 potions!
+
+Turn: 7
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Gavan bought 6 potions!
+
+Turn: 8
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Almog bought 6 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     50    10
+2          Almog           1         5     100   10
+3          Gavan           1         5     100   10
+4          Wongi           1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: Wongi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+Wongi lost the encounter and took 50 damage!
+
+Turn: 10
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Alex lost the encounter and took 60 damage!
+
+Turn: 11
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Gavan lost the encounter and took 60 damage!
+
+Turn: 12
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Almog lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     0     10
+2          Almog           1         5     40    10
+3          Gavan           1         5     40    10
+4          Wongi           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Gavan bought 6 potions!
+
+Turn: 14
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Almog bought 6 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     0     10
+2          Almog           1         5     100   10
+3          Gavan           1         5     100   10
+4          Wongi           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Gavan bought 0 potions!
+
+Turn: 16
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Almog bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     0     10
+2          Almog           1         5     100   10
+3          Gavan           1         5     100   10
+4          Wongi           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+Gavan lost the encounter and took 50 damage!
+
+Turn: 18
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Almog lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     0     10
+2          Almog           1         5     40    10
+3          Gavan           1         5     50    10
+4          Wongi           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: Gavan, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Gavan lost the encounter and took 60 damage!
+
+Turn: 20
+Player: Almog, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+Almog lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Alex            1         5     0     10
+2          Almog           1         5     0     10
+3          Gavan           1         5     0     10
+4          Wongi           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!
