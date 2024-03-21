@@ -1,0 +1,29 @@
+CXX = g++
+CXXFLAGS = -std=c++11 -Wall -Werror -pedantic-errors -DNDEBUG
+INCLUDES = -I../ -I../Players -I../Cards
+OBJ_DIR = obj
+TEST_EXEC = FileTester
+
+# Find all .cpp files in specified directories, excluding the main application's main.cpp
+SRCS = $(filter-out ../main.cpp, $(wildcard ../*.cpp ../Players/*.cpp ../Cards/*.cpp ./*.cpp))
+
+# Convert source files to object file paths, prefixing with the object directory
+OBJS = $(patsubst ../%.cpp,$(OBJ_DIR)/%.o,$(SRCS))
+OBJS := $(patsubst ./%.cpp,$(OBJ_DIR)/%.o,$(OBJS))
+
+# Ensure directories exist and compile the source files into object files
+$(OBJ_DIR)/%.o: ../%.cpp
+	mkdir -p $(@D)
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -c $< -o $@
+
+$(OBJ_DIR)/%.o: ./%.cpp
+	mkdir -p $(@D)
+	$(CXX) $(CXXFLAGS) $(INCLUDES) -c $< -o $@
+
+# Link the object files to create the test executable
+$(TEST_EXEC): $(OBJS)
+	$(CXX) $(OBJS) -o $@
+
+.PHONY: clean
+clean:
+	rm -rf $(OBJ_DIR) $(TEST_EXEC)
