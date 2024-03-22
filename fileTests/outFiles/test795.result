@@ -1,0 +1,244 @@
+Game is about to start!
+These are the players:
+
+1. NeQQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. KHIPLcp, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. rLp, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. jAlawbI, Sorcerer with Responsible behavior (level 1, force 5)
+5. ElHOgBGEBSFdo, Sorcerer with Responsible behavior (level 1, force 5)
+6. klOqkZcJxyFW, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: NeQQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+NeQQ was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: KHIPLcp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KHIPLcp won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: rLp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+rLp lost the encounter and took 25 damage!
+
+Turn: 4
+Player: jAlawbI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jAlawbI lost the encounter and took 25 damage!
+
+Turn: 5
+Player: ElHOgBGEBSFdo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ElHOgBGEBSFdo lost the encounter and took 25 damage!
+
+Turn: 6
+Player: klOqkZcJxyFW, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+klOqkZcJxyFW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KHIPLcp         2         5     100   12
+2          klOqkZcJxyFW    2         5     100   12
+3          ElHOgBGEBSFdo   1         5     75    10
+4          NeQQ            1         6     100   10
+5          jAlawbI         1         5     75    10
+6          rLp             1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: NeQQ, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NeQQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: KHIPLcp, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KHIPLcp lost the encounter and took 25 damage!
+
+Turn: 9
+Player: rLp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+rLp lost the encounter and took 25 damage!
+
+Turn: 10
+Player: jAlawbI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jAlawbI lost the encounter and took 25 damage!
+
+Turn: 11
+Player: ElHOgBGEBSFdo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ElHOgBGEBSFdo lost the encounter and took 25 damage!
+
+Turn: 12
+Player: klOqkZcJxyFW, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+klOqkZcJxyFW lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KHIPLcp         2         5     75    12
+2          NeQQ            2         6     100   12
+3          klOqkZcJxyFW    2         5     75    12
+4          ElHOgBGEBSFdo   1         5     50    10
+5          jAlawbI         1         5     50    10
+6          rLp             1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: NeQQ, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NeQQ lost the encounter and took 25 damage!
+
+Turn: 14
+Player: KHIPLcp, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KHIPLcp lost the encounter and took 25 damage!
+
+Turn: 15
+Player: rLp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 99, loot 41, damage 205)
+rLp lost the encounter and took 205 damage!
+
+Turn: 16
+Player: jAlawbI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jAlawbI lost the encounter and took 25 damage!
+
+Turn: 17
+Player: ElHOgBGEBSFdo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+ElHOgBGEBSFdo lost the encounter and took 35 damage!
+
+Turn: 18
+Player: klOqkZcJxyFW, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+klOqkZcJxyFW lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KHIPLcp         2         5     50    12
+2          NeQQ            2         6     75    12
+3          klOqkZcJxyFW    2         5     15    12
+4          ElHOgBGEBSFdo   1         5     15    10
+5          jAlawbI         1         5     25    10
+6          rLp             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: NeQQ, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NeQQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: KHIPLcp, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KHIPLcp won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: jAlawbI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jAlawbI won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: ElHOgBGEBSFdo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ElHOgBGEBSFdo lost the encounter and took 25 damage!
+
+Turn: 23
+Player: klOqkZcJxyFW, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+klOqkZcJxyFW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KHIPLcp         3         5     50    14
+2          NeQQ            3         6     75    14
+3          klOqkZcJxyFW    3         5     15    14
+4          jAlawbI         2         5     25    12
+5          ElHOgBGEBSFdo   1         5     0     10
+6          rLp             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: NeQQ, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NeQQ lost the encounter and took 25 damage!
+
+Turn: 25
+Player: KHIPLcp, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+KHIPLcp lost the encounter and took 50 damage!
+
+Turn: 26
+Player: jAlawbI, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jAlawbI won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: klOqkZcJxyFW, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+klOqkZcJxyFW lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KHIPLcp         3         5     0     14
+2          NeQQ            3         6     50    14
+3          jAlawbI         3         5     25    14
+4          klOqkZcJxyFW    3         5     0     14
+5          ElHOgBGEBSFdo   1         5     0     10
+6          rLp             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: NeQQ, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Gang of 6 members (power 82, loot 34, damage 170)
+NeQQ lost the encounter and took 170 damage!
+
+Turn: 29
+Player: jAlawbI, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jAlawbI lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KHIPLcp         3         5     0     14
+2          NeQQ            3         6     0     14
+3          jAlawbI         3         5     0     14
+4          klOqkZcJxyFW    3         5     0     14
+5          ElHOgBGEBSFdo   1         5     0     10
+6          rLp             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

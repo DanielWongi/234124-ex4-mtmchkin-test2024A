@@ -1,0 +1,80 @@
+Game is about to start!
+These are the players:
+
+1. rERdMXTM, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. hwJNB, Sorcerer with Responsible behavior (level 1, force 5)
+3. SFR, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: rERdMXTM, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+rERdMXTM bought 0 potions!
+
+Turn: 2
+Player: hwJNB, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+hwJNB lost the encounter and took 35 damage!
+
+Turn: 3
+Player: SFR, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SFR lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SFR             1         5     75    10
+2          hwJNB           1         5     65    10
+3          rERdMXTM        1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: rERdMXTM, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+rERdMXTM lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: hwJNB, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+hwJNB lost the encounter and took 9001 damage!
+
+Turn: 6
+Player: SFR, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SFR won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SFR             2         5     75    12
+2          hwJNB           1         5     0     10
+3          rERdMXTM        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: SFR, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 68, loot 307, damage 27038)
+SFR lost the encounter and took 27038 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SFR             2         5     0     12
+2          hwJNB           1         5     0     10
+3          rERdMXTM        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

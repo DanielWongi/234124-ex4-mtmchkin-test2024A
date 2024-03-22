@@ -1,0 +1,355 @@
+Game is about to start!
+These are the players:
+
+1. srUTrlJ, Warrior with Responsible behavior (level 1, force 5)
+2. tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 1, force 5)
+3. PGkS, Warrior with Responsible behavior (level 1, force 5)
+4. tAKoE, Warrior with Responsible behavior (level 1, force 5)
+5. tLbB, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: srUTrlJ, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+srUTrlJ bought 0 potions!
+
+Turn: 2
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+tpAlZWxGiPPbbc bought 0 potions!
+
+Turn: 3
+Player: PGkS, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+PGkS was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: tAKoE, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+tAKoE bought 0 potions!
+
+Turn: 5
+Player: tLbB, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+tLbB bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PGkS            1         4     100   10
+2          srUTrlJ         1         5     100   10
+3          tAKoE           1         5     100   10
+4          tLbB            1         5     100   10
+5          tpAlZWxGiPPbbc  1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: srUTrlJ, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+srUTrlJ bought 0 potions!
+
+Turn: 7
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tpAlZWxGiPPbbc lost the encounter and took 25 damage!
+
+Turn: 8
+Player: PGkS, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PGkS won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: tAKoE, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tAKoE won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: tLbB, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tLbB lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PGkS            2         4     100   12
+2          tAKoE           2         5     100   12
+3          srUTrlJ         1         5     100   10
+4          tLbB            1         5     75    10
+5          tpAlZWxGiPPbbc  1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: srUTrlJ, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+srUTrlJ lost the encounter and took 25 damage!
+
+Turn: 12
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tpAlZWxGiPPbbc won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: PGkS, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+PGkS lost the encounter and took 25 damage!
+
+Turn: 14
+Player: tAKoE, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tAKoE won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: tLbB, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tLbB won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           3         5     100   14
+2          PGkS            2         4     75    12
+3          tLbB            2         5     75    12
+4          tpAlZWxGiPPbbc  2         5     75    12
+5          srUTrlJ         1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: srUTrlJ, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+srUTrlJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tpAlZWxGiPPbbc lost the encounter and took 25 damage!
+
+Turn: 18
+Player: PGkS, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+PGkS lost the encounter and took 25 damage!
+
+Turn: 19
+Player: tAKoE, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tAKoE won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: tLbB, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tLbB lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           4         5     100   16
+2          PGkS            2         4     50    12
+3          srUTrlJ         2         5     75    12
+4          tLbB            2         5     50    12
+5          tpAlZWxGiPPbbc  2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: srUTrlJ, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+srUTrlJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tpAlZWxGiPPbbc won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: PGkS, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+PGkS lost the encounter and took 25 damage!
+
+Turn: 24
+Player: tAKoE, Warrior with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tAKoE won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: tLbB, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tLbB lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           5         5     100   18
+2          srUTrlJ         3         5     75    14
+3          tpAlZWxGiPPbbc  3         5     50    14
+4          PGkS            2         4     25    12
+5          tLbB            2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: srUTrlJ, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+srUTrlJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tpAlZWxGiPPbbc won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: PGkS, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+PGkS lost the encounter and took 25 damage!
+
+Turn: 29
+Player: tAKoE, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tAKoE won the encounter, gained 5 coins and leveled up!
+
+Turn: 30
+Player: tLbB, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tLbB lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           6         5     100   23
+2          srUTrlJ         4         5     75    16
+3          tpAlZWxGiPPbbc  4         5     50    16
+4          PGkS            2         4     0     12
+5          tLbB            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: srUTrlJ, Warrior with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+srUTrlJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tpAlZWxGiPPbbc won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: tAKoE, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tAKoE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           7         5     100   25
+2          tpAlZWxGiPPbbc  5         5     50    21
+3          srUTrlJ         5         5     75    18
+4          PGkS            2         4     0     12
+5          tLbB            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: srUTrlJ, Warrior with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+srUTrlJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tpAlZWxGiPPbbc won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: tAKoE, Warrior with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tAKoE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           8         5     100   27
+2          tpAlZWxGiPPbbc  6         5     50    26
+3          srUTrlJ         6         5     75    20
+4          PGkS            2         4     0     12
+5          tLbB            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: srUTrlJ, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+srUTrlJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tpAlZWxGiPPbbc won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: tAKoE, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tAKoE won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           9         5     100   32
+2          tpAlZWxGiPPbbc  7         5     50    28
+3          srUTrlJ         7         5     75    22
+4          PGkS            2         4     0     12
+5          tLbB            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: srUTrlJ, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+srUTrlJ won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: tpAlZWxGiPPbbc, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tpAlZWxGiPPbbc won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: tAKoE, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tAKoE won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tAKoE           10        5     100   37
+2          tpAlZWxGiPPbbc  8         5     50    33
+3          srUTrlJ         8         5     75    27
+4          PGkS            2         4     0     12
+5          tLbB            2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: tAKoE
+Congratulations!
+

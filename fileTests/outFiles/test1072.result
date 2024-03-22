@@ -1,0 +1,267 @@
+Game is about to start!
+These are the players:
+
+1. WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 5)
+2. BzKCIxhu, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+WmCIzjaSNnt was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+BzKCIxhu was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        1         6     100   10
+2          WmCIzjaSNnt     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+WmCIzjaSNnt was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+BzKCIxhu bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        1         6     100   10
+2          WmCIzjaSNnt     1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 3)
+Card: SolarEclipse
+WmCIzjaSNnt was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+BzKCIxhu was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        1         7     100   10
+2          WmCIzjaSNnt     1         2     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 2)
+Card: Giant (power 12, loot 5, damage 25)
+WmCIzjaSNnt lost the encounter and took 25 damage!
+
+Turn: 8
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        2         7     100   12
+2          WmCIzjaSNnt     1         2     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 2)
+Card: Giant (power 12, loot 5, damage 25)
+WmCIzjaSNnt lost the encounter and took 25 damage!
+
+Turn: 10
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        3         7     100   14
+2          WmCIzjaSNnt     1         2     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 2)
+Card: Goblin (power 5, loot 2, damage 10)
+WmCIzjaSNnt lost the encounter and took 10 damage!
+
+Turn: 12
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        4         7     100   16
+2          WmCIzjaSNnt     1         2     40    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 2)
+Card: Goblin (power 5, loot 2, damage 10)
+WmCIzjaSNnt lost the encounter and took 10 damage!
+
+Turn: 14
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BzKCIxhu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        4         7     75    16
+2          WmCIzjaSNnt     1         2     30    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 2)
+Card: Giant (power 12, loot 5, damage 25)
+WmCIzjaSNnt lost the encounter and took 25 damage!
+
+Turn: 16
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        5         7     75    18
+2          WmCIzjaSNnt     1         2     5     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: WmCIzjaSNnt, Warrior with Responsible behavior (level 1, force 2)
+Card: Giant (power 12, loot 5, damage 25)
+WmCIzjaSNnt lost the encounter and took 25 damage!
+
+Turn: 18
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BzKCIxhu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        5         7     50    18
+2          WmCIzjaSNnt     1         2     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 5, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        6         7     50    20
+2          WmCIzjaSNnt     1         2     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 20
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 6, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        7         7     50    22
+2          WmCIzjaSNnt     1         2     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 7, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        8         7     50    24
+2          WmCIzjaSNnt     1         2     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 8, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BzKCIxhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        9         7     50    26
+2          WmCIzjaSNnt     1         2     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: BzKCIxhu, Sorcerer with RiskTaking behavior (level 9, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BzKCIxhu won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BzKCIxhu        10        7     50    31
+2          WmCIzjaSNnt     1         2     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: BzKCIxhu
+Congratulations!
+

@@ -1,0 +1,96 @@
+Game is about to start!
+These are the players:
+
+1. aIQ, Sorcerer with Responsible behavior (level 1, force 5)
+2. hfxGnuFXJTJoK, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: aIQ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+aIQ bought 0 potions!
+
+Turn: 2
+Player: hfxGnuFXJTJoK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+hfxGnuFXJTJoK bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aIQ             1         5     100   10
+2          hfxGnuFXJTJoK   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: aIQ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+aIQ lost the encounter and took 25 damage!
+
+Turn: 4
+Player: hfxGnuFXJTJoK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 4 members (power 63, loot 305, damage 27028)
+hfxGnuFXJTJoK lost the encounter and took 27028 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aIQ             1         5     75    10
+2          hfxGnuFXJTJoK   1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: aIQ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+aIQ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aIQ             2         5     75    12
+2          hfxGnuFXJTJoK   1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: aIQ, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+aIQ lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aIQ             2         5     15    12
+2          hfxGnuFXJTJoK   1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: aIQ, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+aIQ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aIQ             2         5     0     12
+2          hfxGnuFXJTJoK   1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,252 @@
+Game is about to start!
+These are the players:
+
+1. MKbf, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: MKbf, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+MKbf bought 0 potions!
+
+Turn: 2
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+sHBtvaWZIuuOcJ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MKbf            1         5     100   10
+2          sHBtvaWZIuuOcJ  1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: MKbf, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+MKbf was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+sHBtvaWZIuuOcJ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MKbf            1         6     100   10
+2          sHBtvaWZIuuOcJ  1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: MKbf, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+MKbf was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+sHBtvaWZIuuOcJ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MKbf            1         7     100   10
+2          sHBtvaWZIuuOcJ  1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: MKbf, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+MKbf lost the encounter and took 25 damage!
+
+Turn: 8
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sHBtvaWZIuuOcJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  2         5     100   12
+2          MKbf            1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: MKbf, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+MKbf won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sHBtvaWZIuuOcJ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MKbf            2         7     75    12
+2          sHBtvaWZIuuOcJ  2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: MKbf, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+MKbf won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sHBtvaWZIuuOcJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MKbf            3         7     75    14
+2          sHBtvaWZIuuOcJ  3         5     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: MKbf, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+MKbf lost the encounter and took 25 damage!
+
+Turn: 14
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sHBtvaWZIuuOcJ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  4         5     75    19
+2          MKbf            3         7     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: MKbf, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+MKbf lost the encounter and took 25 damage!
+
+Turn: 16
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sHBtvaWZIuuOcJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  5         5     75    21
+2          MKbf            3         7     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: MKbf, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+MKbf lost the encounter and took 25 damage!
+
+Turn: 18
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sHBtvaWZIuuOcJ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  6         5     75    26
+2          MKbf            3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sHBtvaWZIuuOcJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  7         5     75    28
+2          MKbf            3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 20
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sHBtvaWZIuuOcJ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  8         5     75    33
+2          MKbf            3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sHBtvaWZIuuOcJ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  9         5     75    38
+2          MKbf            3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: sHBtvaWZIuuOcJ, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sHBtvaWZIuuOcJ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sHBtvaWZIuuOcJ  10        5     75    43
+2          MKbf            3         7     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: sHBtvaWZIuuOcJ
+Congratulations!
+

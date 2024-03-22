@@ -1,0 +1,321 @@
+Game is about to start!
+These are the players:
+
+1. PfKB, Warrior with RiskTaking behavior (level 1, force 5)
+2. vrzr, Sorcerer with Responsible behavior (level 1, force 5)
+3. qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 1, force 5)
+4. tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: PfKB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+PfKB was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: vrzr, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+vrzr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+qiDvpsTfVaIN bought 0 potions!
+
+Turn: 4
+Player: tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+tvAdxNBljtOX bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            1         4     100   10
+2          qiDvpsTfVaIN    1         5     100   10
+3          tvAdxNBljtOX    1         5     100   10
+4          vrzr            1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: PfKB, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+PfKB bought 0 potions!
+
+Turn: 6
+Player: vrzr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+vrzr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tvAdxNBljtOX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          qiDvpsTfVaIN    2         5     100   12
+2          PfKB            1         4     100   10
+3          tvAdxNBljtOX    1         5     75    10
+4          vrzr            1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: PfKB, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: vrzr, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+vrzr lost the encounter and took 25 damage!
+
+Turn: 11
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tvAdxNBljtOX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          qiDvpsTfVaIN    3         5     100   14
+2          PfKB            2         4     100   12
+3          tvAdxNBljtOX    1         5     50    10
+4          vrzr            1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: PfKB, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: vrzr, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+vrzr lost the encounter and took 25 damage!
+
+Turn: 15
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qiDvpsTfVaIN lost the encounter and took 25 damage!
+
+Turn: 16
+Player: tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tvAdxNBljtOX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            3         4     100   14
+2          qiDvpsTfVaIN    3         5     75    14
+3          tvAdxNBljtOX    2         5     50    12
+4          vrzr            1         7     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: PfKB, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: vrzr, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+vrzr won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tvAdxNBljtOX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            4         4     100   16
+2          qiDvpsTfVaIN    4         5     75    16
+3          tvAdxNBljtOX    2         5     25    12
+4          vrzr            2         7     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: PfKB, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: vrzr, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+vrzr lost the encounter and took 25 damage!
+
+Turn: 23
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: tvAdxNBljtOX, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tvAdxNBljtOX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            5         4     100   18
+2          qiDvpsTfVaIN    5         5     75    18
+3          tvAdxNBljtOX    2         5     0     12
+4          vrzr            2         7     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: PfKB, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+PfKB won the encounter, gained 5 coins and leveled up!
+
+Turn: 26
+Player: vrzr, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+vrzr lost the encounter and took 25 damage!
+
+Turn: 27
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qiDvpsTfVaIN lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            6         4     100   23
+2          qiDvpsTfVaIN    5         5     50    18
+3          tvAdxNBljtOX    2         5     0     12
+4          vrzr            2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: PfKB, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            7         4     100   25
+2          qiDvpsTfVaIN    6         5     50    20
+3          tvAdxNBljtOX    2         5     0     12
+4          vrzr            2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: PfKB, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            8         4     100   27
+2          qiDvpsTfVaIN    7         5     50    22
+3          tvAdxNBljtOX    2         5     0     12
+4          vrzr            2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: PfKB, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+PfKB won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qiDvpsTfVaIN lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            9         4     100   32
+2          qiDvpsTfVaIN    7         5     25    22
+3          tvAdxNBljtOX    2         5     0     12
+4          vrzr            2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: PfKB, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+PfKB won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: qiDvpsTfVaIN, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qiDvpsTfVaIN won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PfKB            10        4     100   34
+2          qiDvpsTfVaIN    8         5     25    24
+3          tvAdxNBljtOX    2         5     0     12
+4          vrzr            2         7     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: PfKB
+Congratulations!
+

@@ -1,0 +1,61 @@
+Game is about to start!
+These are the players:
+
+1. hagjOTUtty, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. ChZjD, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: hagjOTUtty, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+hagjOTUtty lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: ChZjD, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ChZjD won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ChZjD           2         5     100   12
+2          hagjOTUtty      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: ChZjD, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ChZjD won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ChZjD           3         5     100   14
+2          hagjOTUtty      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: ChZjD, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Gang of 4 members (power 39, loot 109, damage 9046)
+ChZjD lost the encounter and took 9046 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ChZjD           3         5     0     14
+2          hagjOTUtty      1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

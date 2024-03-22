@@ -1,0 +1,281 @@
+Game is about to start!
+These are the players:
+
+1. owhtoyLutw, Warrior with Responsible behavior (level 1, force 5)
+2. MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+3. WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. IlIo, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: owhtoyLutw, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+owhtoyLutw bought 0 potions!
+
+Turn: 2
+Player: MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+MYRx bought 0 potions!
+
+Turn: 3
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+WoUzorRMrFnrwBU was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: IlIo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+IlIo was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IlIo            1         6     100   10
+2          MYRx            1         5     100   10
+3          WoUzorRMrFnrwBU 1         6     100   10
+4          owhtoyLutw      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: owhtoyLutw, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+owhtoyLutw was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+MYRx bought 0 potions!
+
+Turn: 7
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WoUzorRMrFnrwBU won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: IlIo, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+IlIo won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IlIo            2         6     100   12
+2          WoUzorRMrFnrwBU 2         6     100   12
+3          MYRx            1         5     100   10
+4          owhtoyLutw      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: owhtoyLutw, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+owhtoyLutw won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MYRx lost the encounter and took 25 damage!
+
+Turn: 11
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WoUzorRMrFnrwBU lost the encounter and took 25 damage!
+
+Turn: 12
+Player: IlIo, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+IlIo won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IlIo            3         6     100   14
+2          WoUzorRMrFnrwBU 2         6     75    12
+3          owhtoyLutw      2         4     100   12
+4          MYRx            1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: owhtoyLutw, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+owhtoyLutw won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MYRx lost the encounter and took 25 damage!
+
+Turn: 15
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WoUzorRMrFnrwBU lost the encounter and took 25 damage!
+
+Turn: 16
+Player: IlIo, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+IlIo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IlIo            3         6     75    14
+2          owhtoyLutw      3         4     100   14
+3          WoUzorRMrFnrwBU 2         6     50    12
+4          MYRx            1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: owhtoyLutw, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+owhtoyLutw won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MYRx lost the encounter and took 25 damage!
+
+Turn: 19
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WoUzorRMrFnrwBU won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: IlIo, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+IlIo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          owhtoyLutw      4         4     100   16
+2          IlIo            3         6     50    14
+3          WoUzorRMrFnrwBU 3         6     50    14
+4          MYRx            1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: owhtoyLutw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+owhtoyLutw lost the encounter and took 25 damage!
+
+Turn: 22
+Player: MYRx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MYRx lost the encounter and took 25 damage!
+
+Turn: 23
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WoUzorRMrFnrwBU won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: IlIo, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+IlIo won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IlIo            4         6     50    16
+2          WoUzorRMrFnrwBU 4         6     50    16
+3          owhtoyLutw      4         4     75    16
+4          MYRx            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: owhtoyLutw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+owhtoyLutw lost the encounter and took 25 damage!
+
+Turn: 26
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WoUzorRMrFnrwBU lost the encounter and took 25 damage!
+
+Turn: 27
+Player: IlIo, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+IlIo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IlIo            4         6     25    16
+2          WoUzorRMrFnrwBU 4         6     25    16
+3          owhtoyLutw      4         4     50    16
+4          MYRx            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: owhtoyLutw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+owhtoyLutw lost the encounter and took 25 damage!
+
+Turn: 29
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WoUzorRMrFnrwBU won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: IlIo, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+IlIo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WoUzorRMrFnrwBU 5         6     25    18
+2          IlIo            4         6     0     16
+3          owhtoyLutw      4         4     25    16
+4          MYRx            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: owhtoyLutw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+owhtoyLutw lost the encounter and took 25 damage!
+
+Turn: 32
+Player: WoUzorRMrFnrwBU, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WoUzorRMrFnrwBU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WoUzorRMrFnrwBU 5         6     0     18
+2          IlIo            4         6     0     16
+3          owhtoyLutw      4         4     0     16
+4          MYRx            1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

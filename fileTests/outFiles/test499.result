@@ -1,0 +1,70 @@
+Game is about to start!
+These are the players:
+
+1. SWvUKzpERyE, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. KkWJxCBbNVI, Warrior with Responsible behavior (level 1, force 5)
+3. gszQbQEvhis, Warrior with Responsible behavior (level 1, force 5)
+4. JJbVo, Sorcerer with Responsible behavior (level 1, force 5)
+5. OGLiTI, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: SWvUKzpERyE, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+SWvUKzpERyE lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: KkWJxCBbNVI, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KkWJxCBbNVI won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: gszQbQEvhis, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 27, loot 104, damage 9021)
+gszQbQEvhis lost the encounter and took 9021 damage!
+
+Turn: 4
+Player: JJbVo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 119, loot 421, damage 36109)
+JJbVo lost the encounter and took 36109 damage!
+
+Turn: 5
+Player: OGLiTI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 22, loot 102, damage 9011)
+OGLiTI lost the encounter and took 9011 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KkWJxCBbNVI     2         5     100   12
+2          JJbVo           1         5     0     10
+3          OGLiTI          1         5     0     10
+4          SWvUKzpERyE     1         5     0     10
+5          gszQbQEvhis     1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: KkWJxCBbNVI, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 472, loot 1775, damage 153392)
+KkWJxCBbNVI lost the encounter and took 153392 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KkWJxCBbNVI     2         5     0     12
+2          JJbVo           1         5     0     10
+3          OGLiTI          1         5     0     10
+4          SWvUKzpERyE     1         5     0     10
+5          gszQbQEvhis     1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

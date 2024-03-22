@@ -1,0 +1,96 @@
+Game is about to start!
+These are the players:
+
+1. ZZYNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. Ybq, Sorcerer with Responsible behavior (level 1, force 5)
+3. cdZ, Warrior with RiskTaking behavior (level 1, force 5)
+4. YrukI, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ZZYNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ZZYNo lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: Ybq, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Ybq won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: cdZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 102, loot 321, damage 27108)
+cdZ lost the encounter and took 27108 damage!
+
+Turn: 4
+Player: YrukI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+YrukI lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ybq             2         5     100   12
+2          YrukI           1         5     0     10
+3          ZZYNo           1         5     0     10
+4          cdZ             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: Ybq, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Ybq won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ybq             3         5     100   14
+2          YrukI           1         5     0     10
+3          ZZYNo           1         5     0     10
+4          cdZ             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: Ybq, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Ybq won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ybq             4         5     100   16
+2          YrukI           1         5     0     10
+3          ZZYNo           1         5     0     10
+4          cdZ             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: Ybq, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Ybq lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ybq             4         5     0     16
+2          YrukI           1         5     0     10
+3          ZZYNo           1         5     0     10
+4          cdZ             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

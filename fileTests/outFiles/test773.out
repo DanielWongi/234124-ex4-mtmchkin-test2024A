@@ -1,0 +1,161 @@
+Game is about to start!
+These are the players:
+
+1. UVMe, Warrior with RiskTaking behavior (level 1, force 5)
+2. tZbkcFy, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: UVMe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+UVMe was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: tZbkcFy, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tZbkcFy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         2         5     100   12
+2          UVMe            1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: UVMe, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UVMe lost the encounter and took 25 damage!
+
+Turn: 4
+Player: tZbkcFy, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tZbkcFy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         3         5     100   14
+2          UVMe            1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: UVMe, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+UVMe won the encounter, gained 2 coins and leveled up!
+
+Turn: 6
+Player: tZbkcFy, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tZbkcFy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         4         5     100   19
+2          UVMe            2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: UVMe, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UVMe lost the encounter and took 25 damage!
+
+Turn: 8
+Player: tZbkcFy, Warrior with Responsible behavior (level 4, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+tZbkcFy won the encounter, gained 4 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         5         5     100   23
+2          UVMe            2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: UVMe, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UVMe lost the encounter and took 25 damage!
+
+Turn: 10
+Player: tZbkcFy, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tZbkcFy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         6         5     100   28
+2          UVMe            2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: UVMe, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UVMe lost the encounter and took 25 damage!
+
+Turn: 12
+Player: tZbkcFy, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tZbkcFy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         7         5     100   30
+2          UVMe            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: tZbkcFy, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tZbkcFy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         8         5     100   35
+2          UVMe            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 14
+Player: tZbkcFy, Warrior with Responsible behavior (level 8, force 5)
+Card: Gang of 5 members (power 59, loot 24, damage 120)
+tZbkcFy lost the encounter and took 120 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tZbkcFy         8         5     0     35
+2          UVMe            2         4     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,307 @@
+Game is about to start!
+These are the players:
+
+1. OvCn, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. goqk, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: OvCn, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+OvCn was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: goqk, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+goqk was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+xPrqOCleHT was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OvCn            1         6     100   10
+2          goqk            1         6     100   10
+3          xPrqOCleHT      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: OvCn, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+OvCn bought 0 potions!
+
+Turn: 5
+Player: goqk, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+goqk bought 0 potions!
+
+Turn: 6
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+xPrqOCleHT was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OvCn            1         6     100   10
+2          goqk            1         6     100   10
+3          xPrqOCleHT      1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: OvCn, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OvCn lost the encounter and took 25 damage!
+
+Turn: 8
+Player: goqk, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+xPrqOCleHT lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            2         6     100   12
+2          OvCn            1         6     75    10
+3          xPrqOCleHT      1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: OvCn, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OvCn lost the encounter and took 25 damage!
+
+Turn: 11
+Player: goqk, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+xPrqOCleHT lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            3         6     100   14
+2          OvCn            1         6     50    10
+3          xPrqOCleHT      1         3     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: OvCn, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OvCn lost the encounter and took 25 damage!
+
+Turn: 14
+Player: goqk, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+goqk lost the encounter and took 25 damage!
+
+Turn: 15
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+xPrqOCleHT lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            3         6     75    14
+2          OvCn            1         6     25    10
+3          xPrqOCleHT      1         3     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: OvCn, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+OvCn won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: goqk, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+goqk lost the encounter and took 25 damage!
+
+Turn: 18
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+xPrqOCleHT won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            3         6     50    14
+2          OvCn            2         6     25    12
+3          xPrqOCleHT      2         3     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: OvCn, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OvCn lost the encounter and took 25 damage!
+
+Turn: 20
+Player: goqk, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: xPrqOCleHT, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+xPrqOCleHT lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            4         6     50    16
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: goqk, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            5         6     50    18
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: goqk, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            6         6     50    20
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: goqk, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+goqk lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            6         6     25    20
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: goqk, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            7         6     25    22
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: goqk, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+goqk won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            8         6     25    27
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: goqk, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+goqk won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            9         6     25    32
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: goqk, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+goqk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          goqk            10        6     25    34
+2          OvCn            2         6     0     12
+3          xPrqOCleHT      2         3     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: goqk
+Congratulations!
+

@@ -1,0 +1,414 @@
+Game is about to start!
+These are the players:
+
+1. ERGLYyeHAwD, Warrior with RiskTaking behavior (level 1, force 5)
+2. JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 1, force 5)
+3. iMKTIGK, Sorcerer with Responsible behavior (level 1, force 5)
+4. xjraYQdXSg, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. XYH, Warrior with Responsible behavior (level 1, force 5)
+6. ClKhYsLsgnu, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ERGLYyeHAwD was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+JEHSkNdNAkSkat was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: iMKTIGK, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+iMKTIGK was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+xjraYQdXSg bought 0 potions!
+
+Turn: 5
+Player: XYH, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+XYH bought 0 potions!
+
+Turn: 6
+Player: ClKhYsLsgnu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+ClKhYsLsgnu bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ClKhYsLsgnu     1         5     100   10
+2          ERGLYyeHAwD     1         4     100   10
+3          JEHSkNdNAkSkat  1         4     100   10
+4          XYH             1         5     100   10
+5          iMKTIGK         1         6     100   10
+6          xjraYQdXSg      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+JEHSkNdNAkSkat won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: iMKTIGK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iMKTIGK lost the encounter and took 25 damage!
+
+Turn: 10
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xjraYQdXSg lost the encounter and took 25 damage!
+
+Turn: 11
+Player: XYH, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+XYH won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: ClKhYsLsgnu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ClKhYsLsgnu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     2         4     100   12
+2          JEHSkNdNAkSkat  2         4     100   12
+3          XYH             2         5     100   12
+4          ClKhYsLsgnu     1         5     75    10
+5          iMKTIGK         1         6     75    10
+6          xjraYQdXSg      1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+JEHSkNdNAkSkat won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: iMKTIGK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iMKTIGK lost the encounter and took 25 damage!
+
+Turn: 16
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xjraYQdXSg won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: XYH, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XYH lost the encounter and took 25 damage!
+
+Turn: 18
+Player: ClKhYsLsgnu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ClKhYsLsgnu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     3         4     100   14
+2          JEHSkNdNAkSkat  3         4     100   14
+3          XYH             2         5     75    12
+4          xjraYQdXSg      2         5     75    12
+5          ClKhYsLsgnu     1         5     50    10
+6          iMKTIGK         1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ERGLYyeHAwD lost the encounter and took 25 damage!
+
+Turn: 20
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JEHSkNdNAkSkat lost the encounter and took 25 damage!
+
+Turn: 21
+Player: iMKTIGK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iMKTIGK lost the encounter and took 25 damage!
+
+Turn: 22
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xjraYQdXSg lost the encounter and took 25 damage!
+
+Turn: 23
+Player: XYH, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XYH lost the encounter and took 25 damage!
+
+Turn: 24
+Player: ClKhYsLsgnu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ClKhYsLsgnu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     3         4     75    14
+2          JEHSkNdNAkSkat  3         4     75    14
+3          ClKhYsLsgnu     2         5     50    12
+4          XYH             2         5     50    12
+5          xjraYQdXSg      2         5     50    12
+6          iMKTIGK         1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JEHSkNdNAkSkat lost the encounter and took 25 damage!
+
+Turn: 27
+Player: iMKTIGK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iMKTIGK lost the encounter and took 25 damage!
+
+Turn: 28
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xjraYQdXSg lost the encounter and took 25 damage!
+
+Turn: 29
+Player: XYH, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XYH lost the encounter and took 25 damage!
+
+Turn: 30
+Player: ClKhYsLsgnu, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ClKhYsLsgnu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     4         4     75    16
+2          JEHSkNdNAkSkat  3         4     50    14
+3          ClKhYsLsgnu     2         5     25    12
+4          XYH             2         5     25    12
+5          xjraYQdXSg      2         5     25    12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ERGLYyeHAwD lost the encounter and took 25 damage!
+
+Turn: 32
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JEHSkNdNAkSkat lost the encounter and took 25 damage!
+
+Turn: 33
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xjraYQdXSg won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: XYH, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XYH lost the encounter and took 25 damage!
+
+Turn: 35
+Player: ClKhYsLsgnu, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ClKhYsLsgnu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     4         4     50    16
+2          JEHSkNdNAkSkat  3         4     25    14
+3          xjraYQdXSg      3         5     25    14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: JEHSkNdNAkSkat, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JEHSkNdNAkSkat lost the encounter and took 25 damage!
+
+Turn: 38
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xjraYQdXSg won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     5         4     50    18
+2          xjraYQdXSg      4         5     25    16
+3          JEHSkNdNAkSkat  3         4     0     14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xjraYQdXSg won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     6         4     50    20
+2          xjraYQdXSg      5         5     25    18
+3          JEHSkNdNAkSkat  3         4     0     14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 42
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xjraYQdXSg won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     7         4     50    22
+2          xjraYQdXSg      6         5     25    20
+3          JEHSkNdNAkSkat  3         4     0     14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ERGLYyeHAwD won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: xjraYQdXSg, Sorcerer with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xjraYQdXSg lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     8         4     50    24
+2          xjraYQdXSg      6         5     0     20
+3          JEHSkNdNAkSkat  3         4     0     14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ERGLYyeHAwD won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     9         4     50    29
+2          xjraYQdXSg      6         5     0     20
+3          JEHSkNdNAkSkat  3         4     0     14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 46
+Player: ERGLYyeHAwD, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ERGLYyeHAwD won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ERGLYyeHAwD     10        4     50    34
+2          xjraYQdXSg      6         5     0     20
+3          JEHSkNdNAkSkat  3         4     0     14
+4          ClKhYsLsgnu     2         5     0     12
+5          XYH             2         5     0     12
+6          iMKTIGK         1         6     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: ERGLYyeHAwD
+Congratulations!
+

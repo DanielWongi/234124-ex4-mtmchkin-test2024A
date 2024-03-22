@@ -1,0 +1,103 @@
+Game is about to start!
+These are the players:
+
+1. zIlVg, Warrior with RiskTaking behavior (level 1, force 5)
+2. rWcSptVvWJtZly, Sorcerer with Responsible behavior (level 1, force 5)
+3. tOoFwW, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. JFPWksa, Sorcerer with Responsible behavior (level 1, force 5)
+5. KdIy, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: zIlVg, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+zIlVg lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: rWcSptVvWJtZly, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+rWcSptVvWJtZly lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: tOoFwW, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tOoFwW won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: JFPWksa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+JFPWksa lost the encounter and took 25 damage!
+
+Turn: 5
+Player: KdIy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KdIy lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tOoFwW          2         5     100   12
+2          JFPWksa         1         5     75    10
+3          KdIy            1         5     75    10
+4          rWcSptVvWJtZly  1         5     0     10
+5          zIlVg           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: tOoFwW, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+tOoFwW lost the encounter and took 9001 damage!
+
+Turn: 7
+Player: JFPWksa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+JFPWksa lost the encounter and took 25 damage!
+
+Turn: 8
+Player: KdIy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KdIy lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tOoFwW          2         5     0     12
+2          JFPWksa         1         5     50    10
+3          KdIy            1         5     50    10
+4          rWcSptVvWJtZly  1         5     0     10
+5          zIlVg           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: JFPWksa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 238, loot 842, damage 72218)
+JFPWksa lost the encounter and took 72218 damage!
+
+Turn: 10
+Player: KdIy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+KdIy lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tOoFwW          2         5     0     12
+2          JFPWksa         1         5     0     10
+3          KdIy            1         5     0     10
+4          rWcSptVvWJtZly  1         5     0     10
+5          zIlVg           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,136 @@
+Game is about to start!
+These are the players:
+
+1. tTB, Sorcerer with Responsible behavior (level 1, force 5)
+2. XBVwrU, Sorcerer with Responsible behavior (level 1, force 5)
+3. bFNMY, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. cII, Warrior with RiskTaking behavior (level 1, force 5)
+5. vHAPcNHw, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: tTB, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+tTB bought 0 potions!
+
+Turn: 2
+Player: XBVwrU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+XBVwrU bought 0 potions!
+
+Turn: 3
+Player: bFNMY, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bFNMY bought 0 potions!
+
+Turn: 4
+Player: cII, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+cII bought 0 potions!
+
+Turn: 5
+Player: vHAPcNHw, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+vHAPcNHw was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XBVwrU          1         5     100   10
+2          bFNMY           1         5     100   10
+3          cII             1         5     100   10
+4          tTB             1         5     100   10
+5          vHAPcNHw        1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: tTB, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+tTB was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: XBVwrU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+XBVwrU lost the encounter and took 60 damage!
+
+Turn: 8
+Player: bFNMY, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 117, loot 48, damage 240)
+bFNMY lost the encounter and took 240 damage!
+
+Turn: 9
+Player: cII, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 4 members (power 41, loot 17, damage 85)
+cII lost the encounter and took 85 damage!
+
+Turn: 10
+Player: vHAPcNHw, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+vHAPcNHw lost the encounter and took 105 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XBVwrU          1         5     40    10
+2          bFNMY           1         5     0     10
+3          cII             1         5     15    10
+4          tTB             1         6     100   10
+5          vHAPcNHw        1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: tTB, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+tTB lost the encounter and took 50 damage!
+
+Turn: 12
+Player: XBVwrU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+XBVwrU lost the encounter and took 45 damage!
+
+Turn: 13
+Player: cII, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 53, loot 22, damage 110)
+cII lost the encounter and took 110 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XBVwrU          1         5     0     10
+2          bFNMY           1         5     0     10
+3          cII             1         5     0     10
+4          tTB             1         6     50    10
+5          vHAPcNHw        1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 14
+Player: tTB, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 3 members (power 36, loot 15, damage 75)
+tTB lost the encounter and took 75 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XBVwrU          1         5     0     10
+2          bFNMY           1         5     0     10
+3          cII             1         5     0     10
+4          tTB             1         6     0     10
+5          vHAPcNHw        1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

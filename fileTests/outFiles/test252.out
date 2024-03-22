@@ -1,0 +1,83 @@
+Game is about to start!
+These are the players:
+
+1. RuMqa, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. wNc, Warrior with RiskTaking behavior (level 1, force 5)
+3. DmBzUBrtCgjXw, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. VcdNoa, Warrior with RiskTaking behavior (level 1, force 5)
+5. LnuAqNvMrFWj, Sorcerer with RiskTaking behavior (level 1, force 5)
+6. SlD, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: RuMqa, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RuMqa won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: wNc, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+wNc lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: DmBzUBrtCgjXw, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 316, loot 781, damage 63412)
+DmBzUBrtCgjXw lost the encounter and took 63412 damage!
+
+Turn: 4
+Player: VcdNoa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+VcdNoa lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: LnuAqNvMrFWj, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+LnuAqNvMrFWj lost the encounter and took 9001 damage!
+
+Turn: 6
+Player: SlD, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SlD won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RuMqa           2         5     100   12
+2          SlD             2         5     100   12
+3          DmBzUBrtCgjXw   1         5     0     10
+4          LnuAqNvMrFWj    1         5     0     10
+5          VcdNoa          1         5     0     10
+6          wNc             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: RuMqa, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 6 members (power 603, loot 2201, damage 189526)
+RuMqa lost the encounter and took 189526 damage!
+
+Turn: 8
+Player: SlD, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 2 members (power 29, loot 105, damage 9026)
+SlD lost the encounter and took 9026 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RuMqa           2         5     0     12
+2          SlD             2         5     0     12
+3          DmBzUBrtCgjXw   1         5     0     10
+4          LnuAqNvMrFWj    1         5     0     10
+5          VcdNoa          1         5     0     10
+6          wNc             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

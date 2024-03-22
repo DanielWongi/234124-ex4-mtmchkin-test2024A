@@ -1,0 +1,136 @@
+Game is about to start!
+These are the players:
+
+1. qwCaEOsH, Sorcerer with Responsible behavior (level 1, force 5)
+2. WNZjVxIlLQDEIZD, Sorcerer with Responsible behavior (level 1, force 5)
+3. gvzOXQKszUNU, Warrior with RiskTaking behavior (level 1, force 5)
+4. ueXKV, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: qwCaEOsH, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+qwCaEOsH was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: WNZjVxIlLQDEIZD, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+WNZjVxIlLQDEIZD was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: gvzOXQKszUNU, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+gvzOXQKszUNU was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: ueXKV, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+ueXKV bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WNZjVxIlLQDEIZD 1         6     100   10
+2          gvzOXQKszUNU    1         4     100   10
+3          qwCaEOsH        1         6     100   10
+4          ueXKV           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: qwCaEOsH, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+qwCaEOsH bought 0 potions!
+
+Turn: 6
+Player: WNZjVxIlLQDEIZD, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+WNZjVxIlLQDEIZD bought 0 potions!
+
+Turn: 7
+Player: gvzOXQKszUNU, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+gvzOXQKszUNU lost the encounter and took 20 damage!
+
+Turn: 8
+Player: ueXKV, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+ueXKV lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WNZjVxIlLQDEIZD 1         6     100   10
+2          gvzOXQKszUNU    1         4     80    10
+3          qwCaEOsH        1         6     100   10
+4          ueXKV           1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: qwCaEOsH, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+qwCaEOsH lost the encounter and took 80 damage!
+
+Turn: 10
+Player: WNZjVxIlLQDEIZD, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+WNZjVxIlLQDEIZD lost the encounter and took 35 damage!
+
+Turn: 11
+Player: gvzOXQKszUNU, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+gvzOXQKszUNU lost the encounter and took 35 damage!
+
+Turn: 12
+Player: ueXKV, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 53, loot 22, damage 110)
+ueXKV lost the encounter and took 110 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WNZjVxIlLQDEIZD 1         6     65    10
+2          gvzOXQKszUNU    1         4     45    10
+3          qwCaEOsH        1         6     20    10
+4          ueXKV           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: qwCaEOsH, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+qwCaEOsH lost the encounter and took 45 damage!
+
+Turn: 14
+Player: WNZjVxIlLQDEIZD, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+WNZjVxIlLQDEIZD lost the encounter and took 65 damage!
+
+Turn: 15
+Player: gvzOXQKszUNU, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+gvzOXQKszUNU lost the encounter and took 95 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WNZjVxIlLQDEIZD 1         6     0     10
+2          gvzOXQKszUNU    1         4     0     10
+3          qwCaEOsH        1         6     0     10
+4          ueXKV           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

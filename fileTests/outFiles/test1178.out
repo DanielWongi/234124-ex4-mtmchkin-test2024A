@@ -1,0 +1,377 @@
+Game is about to start!
+These are the players:
+
+1. nHH, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. GxeFZBSyTcn, Sorcerer with Responsible behavior (level 1, force 5)
+3. EpK, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. vztBONFZb, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: nHH, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+nHH bought 0 potions!
+
+Turn: 2
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+GxeFZBSyTcn was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: EpK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EpK bought 0 potions!
+
+Turn: 4
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+vztBONFZb was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EpK             1         5     100   10
+2          GxeFZBSyTcn     1         6     100   10
+3          nHH             1         5     100   10
+4          vztBONFZb       1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: nHH, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+nHH was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+GxeFZBSyTcn bought 0 potions!
+
+Turn: 7
+Player: EpK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EpK won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vztBONFZb won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EpK             2         5     100   12
+2          vztBONFZb       2         6     100   12
+3          GxeFZBSyTcn     1         6     100   10
+4          nHH             1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: nHH, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+nHH won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: EpK, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EpK lost the encounter and took 25 damage!
+
+Turn: 12
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vztBONFZb won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vztBONFZb       3         6     100   14
+2          EpK             2         5     75    12
+3          GxeFZBSyTcn     2         6     100   12
+4          nHH             2         6     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: nHH, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+nHH lost the encounter and took 25 damage!
+
+Turn: 14
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+GxeFZBSyTcn lost the encounter and took 25 damage!
+
+Turn: 15
+Player: EpK, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EpK won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vztBONFZb won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vztBONFZb       4         6     100   16
+2          EpK             3         5     75    14
+3          GxeFZBSyTcn     2         6     75    12
+4          nHH             2         6     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: nHH, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+nHH lost the encounter and took 25 damage!
+
+Turn: 18
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: EpK, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EpK lost the encounter and took 25 damage!
+
+Turn: 20
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vztBONFZb lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vztBONFZb       4         6     75    16
+2          EpK             3         5     50    14
+3          GxeFZBSyTcn     3         6     75    14
+4          nHH             2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: nHH, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+nHH won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: EpK, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EpK won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vztBONFZb lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EpK             4         5     50    16
+2          GxeFZBSyTcn     4         6     75    16
+3          vztBONFZb       4         6     50    16
+4          nHH             3         6     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: nHH, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+nHH lost the encounter and took 25 damage!
+
+Turn: 26
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+GxeFZBSyTcn lost the encounter and took 25 damage!
+
+Turn: 27
+Player: EpK, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EpK lost the encounter and took 25 damage!
+
+Turn: 28
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vztBONFZb lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EpK             4         5     25    16
+2          GxeFZBSyTcn     4         6     50    16
+3          vztBONFZb       4         6     25    16
+4          nHH             3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: nHH, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+nHH won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+GxeFZBSyTcn lost the encounter and took 25 damage!
+
+Turn: 31
+Player: EpK, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EpK lost the encounter and took 25 damage!
+
+Turn: 32
+Player: vztBONFZb, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vztBONFZb lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EpK             4         5     0     16
+2          GxeFZBSyTcn     4         6     25    16
+3          nHH             4         6     25    16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: nHH, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+nHH lost the encounter and took 25 damage!
+
+Turn: 34
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxeFZBSyTcn     5         6     25    18
+2          EpK             4         5     0     16
+3          nHH             4         6     0     16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxeFZBSyTcn     6         6     25    20
+2          EpK             4         5     0     16
+3          nHH             4         6     0     16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxeFZBSyTcn     7         6     25    22
+2          EpK             4         5     0     16
+3          nHH             4         6     0     16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+GxeFZBSyTcn won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxeFZBSyTcn     8         6     25    27
+2          EpK             4         5     0     16
+3          nHH             4         6     0     16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 38
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+GxeFZBSyTcn won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxeFZBSyTcn     9         6     25    29
+2          EpK             4         5     0     16
+3          nHH             4         6     0     16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: GxeFZBSyTcn, Sorcerer with Responsible behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+GxeFZBSyTcn won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxeFZBSyTcn     10        6     25    34
+2          EpK             4         5     0     16
+3          nHH             4         6     0     16
+4          vztBONFZb       4         6     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: GxeFZBSyTcn
+Congratulations!
+

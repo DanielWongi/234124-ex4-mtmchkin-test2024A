@@ -1,0 +1,355 @@
+Game is about to start!
+These are the players:
+
+1. YIUEAbPrPFG, Warrior with RiskTaking behavior (level 1, force 5)
+2. DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 1, force 5)
+3. JsMiOo, Sorcerer with Responsible behavior (level 1, force 5)
+4. IXB, Warrior with Responsible behavior (level 1, force 5)
+5. RCeqYfwSaVddC, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+YIUEAbPrPFG was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+DSsmvyvgsFVQIT was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: JsMiOo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+JsMiOo bought 0 potions!
+
+Turn: 4
+Player: IXB, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+IXB bought 0 potions!
+
+Turn: 5
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+RCeqYfwSaVddC bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DSsmvyvgsFVQIT  1         4     100   10
+2          IXB             1         5     100   10
+3          JsMiOo          1         5     100   10
+4          RCeqYfwSaVddC   1         5     100   10
+5          YIUEAbPrPFG     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+YIUEAbPrPFG was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DSsmvyvgsFVQIT lost the encounter and took 25 damage!
+
+Turn: 8
+Player: JsMiOo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+JsMiOo lost the encounter and took 25 damage!
+
+Turn: 9
+Player: IXB, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IXB won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RCeqYfwSaVddC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             2         5     100   12
+2          DSsmvyvgsFVQIT  1         4     75    10
+3          JsMiOo          1         5     75    10
+4          RCeqYfwSaVddC   1         5     75    10
+5          YIUEAbPrPFG     1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+YIUEAbPrPFG won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DSsmvyvgsFVQIT won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: JsMiOo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+JsMiOo lost the encounter and took 25 damage!
+
+Turn: 14
+Player: IXB, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IXB won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RCeqYfwSaVddC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             3         5     100   14
+2          DSsmvyvgsFVQIT  2         4     75    12
+3          YIUEAbPrPFG     2         3     100   12
+4          JsMiOo          1         5     50    10
+5          RCeqYfwSaVddC   1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+YIUEAbPrPFG won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DSsmvyvgsFVQIT lost the encounter and took 25 damage!
+
+Turn: 18
+Player: JsMiOo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+JsMiOo lost the encounter and took 25 damage!
+
+Turn: 19
+Player: IXB, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IXB won the encounter, gained 5 coins and leveled up!
+
+Turn: 20
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RCeqYfwSaVddC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             4         5     100   19
+2          YIUEAbPrPFG     3         3     100   14
+3          DSsmvyvgsFVQIT  2         4     50    12
+4          RCeqYfwSaVddC   2         5     50    12
+5          JsMiOo          1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+YIUEAbPrPFG won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DSsmvyvgsFVQIT lost the encounter and took 25 damage!
+
+Turn: 23
+Player: JsMiOo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+JsMiOo won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: IXB, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IXB won the encounter, gained 5 coins and leveled up!
+
+Turn: 25
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RCeqYfwSaVddC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             5         5     100   24
+2          YIUEAbPrPFG     4         3     100   16
+3          RCeqYfwSaVddC   3         5     50    14
+4          DSsmvyvgsFVQIT  2         4     25    12
+5          JsMiOo          2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+YIUEAbPrPFG lost the encounter and took 25 damage!
+
+Turn: 27
+Player: DSsmvyvgsFVQIT, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DSsmvyvgsFVQIT lost the encounter and took 25 damage!
+
+Turn: 28
+Player: JsMiOo, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+JsMiOo lost the encounter and took 25 damage!
+
+Turn: 29
+Player: IXB, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IXB won the encounter, gained 5 coins and leveled up!
+
+Turn: 30
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RCeqYfwSaVddC won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             6         5     100   29
+2          RCeqYfwSaVddC   4         5     50    19
+3          YIUEAbPrPFG     4         3     75    16
+4          DSsmvyvgsFVQIT  2         4     0     12
+5          JsMiOo          2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+YIUEAbPrPFG lost the encounter and took 25 damage!
+
+Turn: 32
+Player: IXB, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IXB won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RCeqYfwSaVddC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             7         5     100   31
+2          RCeqYfwSaVddC   5         5     50    21
+3          YIUEAbPrPFG     4         3     50    16
+4          DSsmvyvgsFVQIT  2         4     0     12
+5          JsMiOo          2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+YIUEAbPrPFG lost the encounter and took 25 damage!
+
+Turn: 35
+Player: IXB, Warrior with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IXB won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RCeqYfwSaVddC won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             8         5     100   33
+2          RCeqYfwSaVddC   6         5     50    26
+3          YIUEAbPrPFG     4         3     25    16
+4          DSsmvyvgsFVQIT  2         4     0     12
+5          JsMiOo          2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+YIUEAbPrPFG won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: IXB, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IXB won the encounter, gained 5 coins and leveled up!
+
+Turn: 39
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RCeqYfwSaVddC won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             9         5     100   38
+2          RCeqYfwSaVddC   7         5     50    31
+3          YIUEAbPrPFG     5         3     25    18
+4          DSsmvyvgsFVQIT  2         4     0     12
+5          JsMiOo          2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: YIUEAbPrPFG, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+YIUEAbPrPFG lost the encounter and took 25 damage!
+
+Turn: 41
+Player: IXB, Warrior with Responsible behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IXB won the encounter, gained 2 coins and leveled up!
+
+Turn: 42
+Player: RCeqYfwSaVddC, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RCeqYfwSaVddC won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IXB             10        5     100   40
+2          RCeqYfwSaVddC   8         5     50    36
+3          YIUEAbPrPFG     5         3     0     18
+4          DSsmvyvgsFVQIT  2         4     0     12
+5          JsMiOo          2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: IXB
+Congratulations!
+

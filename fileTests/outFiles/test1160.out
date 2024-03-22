@@ -1,0 +1,298 @@
+Game is about to start!
+These are the players:
+
+1. ylUOZWK, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. GKZxWwzXl, Sorcerer with Responsible behavior (level 1, force 5)
+3. oZYMSGmzF, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+ylUOZWK bought 0 potions!
+
+Turn: 2
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+GKZxWwzXl bought 0 potions!
+
+Turn: 3
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+oZYMSGmzF was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       1         5     100   10
+2          oZYMSGmzF       1         6     100   10
+3          ylUOZWK         1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ylUOZWK was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+GKZxWwzXl bought 0 potions!
+
+Turn: 6
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+oZYMSGmzF bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       1         5     100   10
+2          oZYMSGmzF       1         6     100   10
+3          ylUOZWK         1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ylUOZWK lost the encounter and took 25 damage!
+
+Turn: 8
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GKZxWwzXl won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oZYMSGmzF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       2         5     100   12
+2          oZYMSGmzF       1         6     75    10
+3          ylUOZWK         1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ylUOZWK won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GKZxWwzXl lost the encounter and took 25 damage!
+
+Turn: 12
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oZYMSGmzF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       2         5     75    12
+2          oZYMSGmzF       2         6     75    12
+3          ylUOZWK         2         6     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ylUOZWK won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GKZxWwzXl won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oZYMSGmzF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       3         5     75    14
+2          oZYMSGmzF       3         6     75    14
+3          ylUOZWK         3         6     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ylUOZWK won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GKZxWwzXl won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oZYMSGmzF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       4         5     75    16
+2          ylUOZWK         4         6     75    16
+3          oZYMSGmzF       3         6     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ylUOZWK lost the encounter and took 25 damage!
+
+Turn: 20
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GKZxWwzXl lost the encounter and took 25 damage!
+
+Turn: 21
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oZYMSGmzF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       4         5     50    16
+2          ylUOZWK         4         6     50    16
+3          oZYMSGmzF       3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ylUOZWK won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GKZxWwzXl won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oZYMSGmzF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       5         5     50    18
+2          ylUOZWK         5         6     50    18
+3          oZYMSGmzF       4         6     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ylUOZWK lost the encounter and took 25 damage!
+
+Turn: 26
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GKZxWwzXl won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oZYMSGmzF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       6         5     50    20
+2          oZYMSGmzF       5         6     25    18
+3          ylUOZWK         5         6     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ylUOZWK won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GKZxWwzXl lost the encounter and took 25 damage!
+
+Turn: 30
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oZYMSGmzF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       6         5     25    20
+2          oZYMSGmzF       6         6     25    20
+3          ylUOZWK         6         6     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: ylUOZWK, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ylUOZWK lost the encounter and took 25 damage!
+
+Turn: 32
+Player: GKZxWwzXl, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GKZxWwzXl lost the encounter and took 25 damage!
+
+Turn: 33
+Player: oZYMSGmzF, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oZYMSGmzF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GKZxWwzXl       6         5     0     20
+2          oZYMSGmzF       6         6     0     20
+3          ylUOZWK         6         6     0     20
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

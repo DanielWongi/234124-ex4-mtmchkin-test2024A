@@ -1,0 +1,226 @@
+Game is about to start!
+These are the players:
+
+1. wHL, Warrior with Responsible behavior (level 1, force 5)
+2. AmR, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: wHL, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+wHL was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: AmR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+AmR bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             1         5     100   10
+2          wHL             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: wHL, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+wHL bought 0 potions!
+
+Turn: 4
+Player: AmR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+AmR was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             1         6     100   10
+2          wHL             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: wHL, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+wHL was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: AmR, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+AmR was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             1         7     100   10
+2          wHL             1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: wHL, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+wHL won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: AmR, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+AmR won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             2         7     100   12
+2          wHL             2         3     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: wHL, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+wHL won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: AmR, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+AmR lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wHL             3         3     100   14
+2          AmR             2         7     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: wHL, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wHL lost the encounter and took 25 damage!
+
+Turn: 12
+Player: AmR, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+AmR won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             3         7     75    14
+2          wHL             3         3     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: wHL, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wHL lost the encounter and took 25 damage!
+
+Turn: 14
+Player: AmR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+AmR lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             3         7     50    14
+2          wHL             3         3     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: wHL, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+wHL won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: AmR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+AmR lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wHL             4         3     50    16
+2          AmR             3         7     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: wHL, Warrior with Responsible behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wHL lost the encounter and took 25 damage!
+
+Turn: 18
+Player: AmR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+AmR won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             4         7     25    16
+2          wHL             4         3     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: wHL, Warrior with Responsible behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wHL lost the encounter and took 25 damage!
+
+Turn: 20
+Player: AmR, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+AmR won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             5         7     25    18
+2          wHL             4         3     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: AmR, Sorcerer with RiskTaking behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+AmR lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AmR             5         7     0     18
+2          wHL             4         3     0     16
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

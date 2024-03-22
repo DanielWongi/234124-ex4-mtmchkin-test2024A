@@ -1,0 +1,116 @@
+Game is about to start!
+These are the players:
+
+1. VaUK, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. wHp, Warrior with RiskTaking behavior (level 1, force 5)
+3. yGqaJyIsSTen, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: VaUK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+VaUK was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: wHp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+wHp won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: yGqaJyIsSTen, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+yGqaJyIsSTen won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wHp             2         5     100   12
+2          yGqaJyIsSTen    2         5     100   12
+3          VaUK            1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: VaUK, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+VaUK won the encounter, gained 2 coins and leveled up!
+
+Turn: 5
+Player: wHp, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+wHp won the encounter, gained 2 coins and leveled up!
+
+Turn: 6
+Player: yGqaJyIsSTen, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+yGqaJyIsSTen won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wHp             3         5     100   14
+2          yGqaJyIsSTen    3         5     100   14
+3          VaUK            2         6     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: VaUK, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+VaUK lost the encounter and took 25 damage!
+
+Turn: 8
+Player: wHp, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+wHp won the encounter, gained 5 coins and leveled up!
+
+Turn: 9
+Player: yGqaJyIsSTen, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+yGqaJyIsSTen won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wHp             4         5     100   19
+2          yGqaJyIsSTen    4         5     100   16
+3          VaUK            2         6     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: VaUK, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+VaUK lost the encounter and took 9001 damage!
+
+Turn: 11
+Player: wHp, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+wHp lost the encounter and took 9001 damage!
+
+Turn: 12
+Player: yGqaJyIsSTen, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Gang of 2 members (power 22, loot 102, damage 9011)
+yGqaJyIsSTen lost the encounter and took 9011 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wHp             4         5     0     19
+2          yGqaJyIsSTen    4         5     0     16
+3          VaUK            2         6     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

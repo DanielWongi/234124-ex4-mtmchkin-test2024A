@@ -1,0 +1,366 @@
+Game is about to start!
+These are the players:
+
+1. WNgb, Warrior with Responsible behavior (level 1, force 5)
+2. yABjj, Warrior with Responsible behavior (level 1, force 5)
+3. SKw, Warrior with RiskTaking behavior (level 1, force 5)
+4. easiXKI, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WNgb, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+WNgb was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: yABjj, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+yABjj was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: SKw, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+SKw bought 0 potions!
+
+Turn: 4
+Player: easiXKI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+easiXKI was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             1         5     100   10
+2          WNgb            1         4     100   10
+3          easiXKI         1         6     100   10
+4          yABjj           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: WNgb, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+WNgb was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: yABjj, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+yABjj bought 0 potions!
+
+Turn: 7
+Player: SKw, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SKw won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: easiXKI, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+easiXKI won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             2         5     100   12
+2          easiXKI         2         6     100   12
+3          WNgb            1         3     100   10
+4          yABjj           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: WNgb, Warrior with Responsible behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WNgb lost the encounter and took 25 damage!
+
+Turn: 10
+Player: yABjj, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yABjj won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: SKw, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SKw lost the encounter and took 25 damage!
+
+Turn: 12
+Player: easiXKI, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+easiXKI won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          easiXKI         3         6     100   14
+2          SKw             2         5     75    12
+3          yABjj           2         4     100   12
+4          WNgb            1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: WNgb, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WNgb won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: yABjj, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+yABjj lost the encounter and took 25 damage!
+
+Turn: 15
+Player: SKw, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SKw won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: easiXKI, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+easiXKI lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             3         5     75    14
+2          easiXKI         3         6     75    14
+3          WNgb            2         3     75    12
+4          yABjj           2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: WNgb, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WNgb won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: yABjj, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+yABjj lost the encounter and took 25 damage!
+
+Turn: 19
+Player: SKw, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SKw won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: easiXKI, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+easiXKI won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             4         5     75    16
+2          easiXKI         4         6     75    16
+3          WNgb            3         3     75    14
+4          yABjj           2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: WNgb, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WNgb lost the encounter and took 25 damage!
+
+Turn: 22
+Player: yABjj, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yABjj won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: SKw, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SKw won the encounter, gained 5 coins and leveled up!
+
+Turn: 24
+Player: easiXKI, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+easiXKI won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             5         5     75    21
+2          easiXKI         5         6     75    18
+3          WNgb            3         3     50    14
+4          yABjj           3         4     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: WNgb, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WNgb won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: yABjj, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yABjj won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: SKw, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SKw won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: easiXKI, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+easiXKI lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             6         5     75    23
+2          easiXKI         5         6     50    18
+3          WNgb            4         3     50    16
+4          yABjj           4         4     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: WNgb, Warrior with Responsible behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WNgb won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: yABjj, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+yABjj lost the encounter and took 25 damage!
+
+Turn: 31
+Player: SKw, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SKw won the encounter, gained 5 coins and leveled up!
+
+Turn: 32
+Player: easiXKI, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+easiXKI lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             7         5     75    28
+2          WNgb            5         3     50    18
+3          easiXKI         5         6     25    18
+4          yABjj           4         4     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: WNgb, Warrior with Responsible behavior (level 5, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WNgb lost the encounter and took 25 damage!
+
+Turn: 34
+Player: yABjj, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yABjj won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: SKw, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SKw won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: easiXKI, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+easiXKI won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             8         5     75    33
+2          easiXKI         6         6     25    20
+3          WNgb            5         3     25    18
+4          yABjj           5         4     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: WNgb, Warrior with Responsible behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WNgb won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: yABjj, Warrior with Responsible behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yABjj won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: SKw, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SKw won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: easiXKI, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+easiXKI won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             9         5     75    35
+2          easiXKI         7         6     25    22
+3          WNgb            6         3     25    20
+4          yABjj           6         4     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: WNgb, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WNgb lost the encounter and took 25 damage!
+
+Turn: 42
+Player: yABjj, Warrior with Responsible behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yABjj won the encounter, gained 2 coins and leveled up!
+
+Turn: 43
+Player: SKw, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SKw won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: easiXKI, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+easiXKI won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SKw             10        5     75    37
+2          easiXKI         8         6     25    27
+3          yABjj           7         4     25    22
+4          WNgb            6         3     0     20
+
+----------------------------------------
+
+Game is over!
+The winner is: SKw
+Congratulations!
+

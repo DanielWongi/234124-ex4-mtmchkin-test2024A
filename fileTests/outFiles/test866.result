@@ -1,0 +1,386 @@
+Game is about to start!
+These are the players:
+
+1. oay, Sorcerer with Responsible behavior (level 1, force 5)
+2. ZNtPO, Sorcerer with Responsible behavior (level 1, force 5)
+3. PVMBNwb, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. fMBVOMnMyM, Warrior with RiskTaking behavior (level 1, force 5)
+5. UosSzFXlHp, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: oay, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+oay was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: ZNtPO, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+ZNtPO bought 0 potions!
+
+Turn: 3
+Player: PVMBNwb, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+PVMBNwb was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: fMBVOMnMyM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+fMBVOMnMyM bought 0 potions!
+
+Turn: 5
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+UosSzFXlHp was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PVMBNwb         1         6     100   10
+2          UosSzFXlHp      1         6     100   10
+3          ZNtPO           1         5     100   10
+4          fMBVOMnMyM      1         5     100   10
+5          oay             1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: oay, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+oay bought 0 potions!
+
+Turn: 7
+Player: ZNtPO, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: PVMBNwb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PVMBNwb lost the encounter and took 25 damage!
+
+Turn: 9
+Player: fMBVOMnMyM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fMBVOMnMyM lost the encounter and took 25 damage!
+
+Turn: 10
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+UosSzFXlHp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           2         5     100   12
+2          PVMBNwb         1         6     75    10
+3          UosSzFXlHp      1         6     75    10
+4          fMBVOMnMyM      1         5     75    10
+5          oay             1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: oay, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oay won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: ZNtPO, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: PVMBNwb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PVMBNwb lost the encounter and took 25 damage!
+
+Turn: 14
+Player: fMBVOMnMyM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fMBVOMnMyM lost the encounter and took 25 damage!
+
+Turn: 15
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+UosSzFXlHp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           3         5     100   14
+2          oay             2         6     100   12
+3          PVMBNwb         1         6     50    10
+4          UosSzFXlHp      1         6     50    10
+5          fMBVOMnMyM      1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: oay, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oay lost the encounter and took 25 damage!
+
+Turn: 17
+Player: ZNtPO, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: PVMBNwb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PVMBNwb lost the encounter and took 25 damage!
+
+Turn: 19
+Player: fMBVOMnMyM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+fMBVOMnMyM won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+UosSzFXlHp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           4         5     100   16
+2          fMBVOMnMyM      2         5     50    12
+3          oay             2         6     75    12
+4          PVMBNwb         1         6     25    10
+5          UosSzFXlHp      1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: oay, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oay lost the encounter and took 25 damage!
+
+Turn: 22
+Player: ZNtPO, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZNtPO lost the encounter and took 25 damage!
+
+Turn: 23
+Player: PVMBNwb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PVMBNwb won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: fMBVOMnMyM, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fMBVOMnMyM lost the encounter and took 25 damage!
+
+Turn: 25
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+UosSzFXlHp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           4         5     75    16
+2          PVMBNwb         2         6     25    12
+3          UosSzFXlHp      2         6     25    12
+4          fMBVOMnMyM      2         5     25    12
+5          oay             2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: oay, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oay won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: ZNtPO, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: PVMBNwb, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PVMBNwb lost the encounter and took 25 damage!
+
+Turn: 29
+Player: fMBVOMnMyM, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fMBVOMnMyM lost the encounter and took 25 damage!
+
+Turn: 30
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+UosSzFXlHp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           5         5     75    18
+2          UosSzFXlHp      3         6     25    14
+3          oay             3         6     50    14
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: oay, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oay won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: ZNtPO, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+UosSzFXlHp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           6         5     75    20
+2          UosSzFXlHp      4         6     25    16
+3          oay             4         6     50    16
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: oay, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oay won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: ZNtPO, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZNtPO lost the encounter and took 25 damage!
+
+Turn: 36
+Player: UosSzFXlHp, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+UosSzFXlHp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           6         5     50    20
+2          oay             5         6     50    18
+3          UosSzFXlHp      4         6     0     16
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: oay, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oay lost the encounter and took 25 damage!
+
+Turn: 38
+Player: ZNtPO, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           7         5     50    22
+2          oay             5         6     25    18
+3          UosSzFXlHp      4         6     0     16
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: oay, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oay won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: ZNtPO, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           8         5     50    24
+2          oay             6         6     25    20
+3          UosSzFXlHp      4         6     0     16
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: oay, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oay lost the encounter and took 25 damage!
+
+Turn: 42
+Player: ZNtPO, Sorcerer with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZNtPO won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           9         5     50    29
+2          oay             6         6     0     20
+3          UosSzFXlHp      4         6     0     16
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: ZNtPO, Sorcerer with Responsible behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZNtPO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZNtPO           10        5     50    31
+2          oay             6         6     0     20
+3          UosSzFXlHp      4         6     0     16
+4          PVMBNwb         2         6     0     12
+5          fMBVOMnMyM      2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: ZNtPO
+Congratulations!
+

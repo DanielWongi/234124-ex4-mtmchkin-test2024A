@@ -1,0 +1,81 @@
+Game is about to start!
+These are the players:
+
+1. tNRPPqNPKS, Warrior with RiskTaking behavior (level 1, force 5)
+2. QdvNYm, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: tNRPPqNPKS, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tNRPPqNPKS lost the encounter and took 25 damage!
+
+Turn: 2
+Player: QdvNYm, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QdvNYm lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QdvNYm          1         5     75    10
+2          tNRPPqNPKS      1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: tNRPPqNPKS, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tNRPPqNPKS lost the encounter and took 25 damage!
+
+Turn: 4
+Player: QdvNYm, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+QdvNYm lost the encounter and took 105 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QdvNYm          1         5     0     10
+2          tNRPPqNPKS      1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: tNRPPqNPKS, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tNRPPqNPKS won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tNRPPqNPKS      2         5     50    12
+2          QdvNYm          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: tNRPPqNPKS, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 3 members (power 42, loot 17, damage 85)
+tNRPPqNPKS lost the encounter and took 85 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tNRPPqNPKS      2         5     0     12
+2          QdvNYm          1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

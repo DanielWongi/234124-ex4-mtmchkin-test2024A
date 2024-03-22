@@ -1,0 +1,363 @@
+Game is about to start!
+These are the players:
+
+1. zYJFgVMbAe, Warrior with RiskTaking behavior (level 1, force 5)
+2. EippKEiQj, Warrior with RiskTaking behavior (level 1, force 5)
+3. wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. CFHOte, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+zYJFgVMbAe bought 0 potions!
+
+Turn: 2
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EippKEiQj bought 0 potions!
+
+Turn: 3
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+wbSZMsVvpQacK was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: CFHOte, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+CFHOte was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CFHOte          1         4     100   10
+2          EippKEiQj       1         5     100   10
+3          wbSZMsVvpQacK   1         6     100   10
+4          zYJFgVMbAe      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+zYJFgVMbAe was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EippKEiQj bought 0 potions!
+
+Turn: 7
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wbSZMsVvpQacK lost the encounter and took 25 damage!
+
+Turn: 8
+Player: CFHOte, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+CFHOte won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CFHOte          2         4     100   12
+2          EippKEiQj       1         5     100   10
+3          wbSZMsVvpQacK   1         6     75    10
+4          zYJFgVMbAe      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zYJFgVMbAe won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EippKEiQj lost the encounter and took 25 damage!
+
+Turn: 11
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+wbSZMsVvpQacK won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: CFHOte, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CFHOte lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CFHOte          2         4     75    12
+2          wbSZMsVvpQacK   2         6     75    12
+3          zYJFgVMbAe      2         4     100   12
+4          EippKEiQj       1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zYJFgVMbAe won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EippKEiQj won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+wbSZMsVvpQacK won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: CFHOte, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+CFHOte won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CFHOte          3         4     75    14
+2          wbSZMsVvpQacK   3         6     75    14
+3          zYJFgVMbAe      3         4     100   14
+4          EippKEiQj       2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zYJFgVMbAe lost the encounter and took 25 damage!
+
+Turn: 18
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EippKEiQj won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wbSZMsVvpQacK lost the encounter and took 25 damage!
+
+Turn: 20
+Player: CFHOte, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CFHOte lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CFHOte          3         4     50    14
+2          EippKEiQj       3         5     75    14
+3          wbSZMsVvpQacK   3         6     50    14
+4          zYJFgVMbAe      3         4     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zYJFgVMbAe won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EippKEiQj won the encounter, gained 5 coins and leveled up!
+
+Turn: 23
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wbSZMsVvpQacK lost the encounter and took 25 damage!
+
+Turn: 24
+Player: CFHOte, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+CFHOte won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       4         5     75    19
+2          CFHOte          4         4     50    16
+3          zYJFgVMbAe      4         4     75    16
+4          wbSZMsVvpQacK   3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zYJFgVMbAe lost the encounter and took 25 damage!
+
+Turn: 26
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EippKEiQj won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+wbSZMsVvpQacK won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: CFHOte, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CFHOte lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       5         5     75    21
+2          CFHOte          4         4     25    16
+3          wbSZMsVvpQacK   4         6     25    16
+4          zYJFgVMbAe      4         4     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zYJFgVMbAe lost the encounter and took 25 damage!
+
+Turn: 30
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EippKEiQj won the encounter, gained 5 coins and leveled up!
+
+Turn: 31
+Player: wbSZMsVvpQacK, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wbSZMsVvpQacK lost the encounter and took 25 damage!
+
+Turn: 32
+Player: CFHOte, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+CFHOte won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       6         5     75    26
+2          CFHOte          5         4     25    18
+3          wbSZMsVvpQacK   4         6     0     16
+4          zYJFgVMbAe      4         4     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: zYJFgVMbAe, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zYJFgVMbAe lost the encounter and took 25 damage!
+
+Turn: 34
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EippKEiQj won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: CFHOte, Warrior with Responsible behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+CFHOte won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       7         5     75    28
+2          CFHOte          6         4     25    20
+3          wbSZMsVvpQacK   4         6     0     16
+4          zYJFgVMbAe      4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EippKEiQj won the encounter, gained 5 coins and leveled up!
+
+Turn: 37
+Player: CFHOte, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CFHOte won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       8         5     75    33
+2          CFHOte          7         4     25    25
+3          wbSZMsVvpQacK   4         6     0     16
+4          zYJFgVMbAe      4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 38
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EippKEiQj won the encounter, gained 5 coins and leveled up!
+
+Turn: 39
+Player: CFHOte, Warrior with Responsible behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CFHOte won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       9         5     75    38
+2          CFHOte          8         4     25    30
+3          wbSZMsVvpQacK   4         6     0     16
+4          zYJFgVMbAe      4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: EippKEiQj, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EippKEiQj won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: CFHOte, Warrior with Responsible behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CFHOte won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EippKEiQj       10        5     75    43
+2          CFHOte          9         4     25    35
+3          wbSZMsVvpQacK   4         6     0     16
+4          zYJFgVMbAe      4         4     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: EippKEiQj
+Congratulations!
+

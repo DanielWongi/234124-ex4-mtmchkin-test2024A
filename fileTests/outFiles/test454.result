@@ -1,0 +1,64 @@
+Game is about to start!
+These are the players:
+
+1. VjtcxkLqWi, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. TdLqZfwiwKvMF, Warrior with Responsible behavior (level 1, force 5)
+3. ZYQVmkIRfAeUA, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: VjtcxkLqWi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+VjtcxkLqWi was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: TdLqZfwiwKvMF, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+TdLqZfwiwKvMF won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: ZYQVmkIRfAeUA, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZYQVmkIRfAeUA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TdLqZfwiwKvMF   2         5     100   12
+2          ZYQVmkIRfAeUA   2         5     100   12
+3          VjtcxkLqWi      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: VjtcxkLqWi, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+VjtcxkLqWi lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: TdLqZfwiwKvMF, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+TdLqZfwiwKvMF lost the encounter and took 9001 damage!
+
+Turn: 6
+Player: ZYQVmkIRfAeUA, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ZYQVmkIRfAeUA lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TdLqZfwiwKvMF   2         5     0     12
+2          ZYQVmkIRfAeUA   2         5     0     12
+3          VjtcxkLqWi      1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,166 @@
+Game is about to start!
+These are the players:
+
+1. lXOatwP, Warrior with RiskTaking behavior (level 1, force 5)
+2. kQUvPPD, Warrior with Responsible behavior (level 1, force 5)
+3. KqpdrnvVFZiS, Sorcerer with Responsible behavior (level 1, force 5)
+4. yZbNrM, Warrior with RiskTaking behavior (level 1, force 5)
+5. rhHjsTDBEuwLU, Sorcerer with Responsible behavior (level 1, force 5)
+6. hajRfsozOfUjBx, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: lXOatwP, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+lXOatwP won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: kQUvPPD, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kQUvPPD lost the encounter and took 25 damage!
+
+Turn: 3
+Player: KqpdrnvVFZiS, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 51, loot 114, damage 9071)
+KqpdrnvVFZiS lost the encounter and took 9071 damage!
+
+Turn: 4
+Player: yZbNrM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+yZbNrM won the encounter, gained 2 coins and leveled up!
+
+Turn: 5
+Player: rhHjsTDBEuwLU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+rhHjsTDBEuwLU lost the encounter and took 25 damage!
+
+Turn: 6
+Player: hajRfsozOfUjBx, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+hajRfsozOfUjBx lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          lXOatwP         2         5     100   12
+2          yZbNrM          2         5     100   12
+3          KqpdrnvVFZiS    1         5     0     10
+4          hajRfsozOfUjBx  1         5     75    10
+5          kQUvPPD         1         5     75    10
+6          rhHjsTDBEuwLU   1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: lXOatwP, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+lXOatwP won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: kQUvPPD, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kQUvPPD lost the encounter and took 25 damage!
+
+Turn: 9
+Player: yZbNrM, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+yZbNrM lost the encounter and took 9001 damage!
+
+Turn: 10
+Player: rhHjsTDBEuwLU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+rhHjsTDBEuwLU won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: hajRfsozOfUjBx, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+hajRfsozOfUjBx won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          lXOatwP         3         5     100   14
+2          hajRfsozOfUjBx  2         5     75    12
+3          rhHjsTDBEuwLU   2         5     75    12
+4          yZbNrM          2         5     0     12
+5          KqpdrnvVFZiS    1         5     0     10
+6          kQUvPPD         1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: lXOatwP, Warrior with RiskTaking behavior (level 3, force 5)
+Card: PotionsMerchant
+lXOatwP bought 0 potions!
+
+Turn: 13
+Player: kQUvPPD, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+kQUvPPD was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 14
+Player: rhHjsTDBEuwLU, Sorcerer with Responsible behavior (level 2, force 5)
+Card: PotionsMerchant
+rhHjsTDBEuwLU bought 3 potions!
+
+Turn: 15
+Player: hajRfsozOfUjBx, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+hajRfsozOfUjBx lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          lXOatwP         3         5     100   14
+2          hajRfsozOfUjBx  2         5     55    12
+3          rhHjsTDBEuwLU   2         5     100   12
+4          yZbNrM          2         5     0     12
+5          KqpdrnvVFZiS    1         5     0     10
+6          kQUvPPD         1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: lXOatwP, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+lXOatwP lost the encounter and took 9001 damage!
+
+Turn: 17
+Player: kQUvPPD, Warrior with Responsible behavior (level 1, force 4)
+Card: Dragon (power 17, loot 100, damage 9001)
+kQUvPPD lost the encounter and took 9001 damage!
+
+Turn: 18
+Player: rhHjsTDBEuwLU, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+rhHjsTDBEuwLU lost the encounter and took 9001 damage!
+
+Turn: 19
+Player: hajRfsozOfUjBx, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 4 members (power 85, loot 128, damage 9141)
+hajRfsozOfUjBx lost the encounter and took 9141 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          lXOatwP         3         5     0     14
+2          hajRfsozOfUjBx  2         5     0     12
+3          rhHjsTDBEuwLU   2         5     0     12
+4          yZbNrM          2         5     0     12
+5          KqpdrnvVFZiS    1         5     0     10
+6          kQUvPPD         1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

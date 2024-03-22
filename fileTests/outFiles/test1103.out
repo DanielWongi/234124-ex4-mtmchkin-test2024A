@@ -1,0 +1,418 @@
+Game is about to start!
+These are the players:
+
+1. DcJyKOji, Warrior with RiskTaking behavior (level 1, force 5)
+2. xqTofSQqqjW, Warrior with Responsible behavior (level 1, force 5)
+3. EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 1, force 5)
+4. bIyTYMFl, Warrior with RiskTaking behavior (level 1, force 5)
+5. NYfnAvIO, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+DcJyKOji bought 0 potions!
+
+Turn: 2
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+xqTofSQqqjW was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+EDpSfkpAsxwlG was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+bIyTYMFl was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+NYfnAvIO was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DcJyKOji        1         5     100   10
+2          EDpSfkpAsxwlG   1         6     100   10
+3          NYfnAvIO        1         4     100   10
+4          bIyTYMFl        1         4     100   10
+5          xqTofSQqqjW     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+DcJyKOji bought 0 potions!
+
+Turn: 7
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xqTofSQqqjW lost the encounter and took 25 damage!
+
+Turn: 8
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EDpSfkpAsxwlG lost the encounter and took 25 damage!
+
+Turn: 9
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bIyTYMFl won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NYfnAvIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NYfnAvIO        2         4     100   12
+2          bIyTYMFl        2         4     100   12
+3          DcJyKOji        1         5     100   10
+4          EDpSfkpAsxwlG   1         6     75    10
+5          xqTofSQqqjW     1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+DcJyKOji won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xqTofSQqqjW won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EDpSfkpAsxwlG won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bIyTYMFl lost the encounter and took 25 damage!
+
+Turn: 15
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NYfnAvIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NYfnAvIO        3         4     100   14
+2          DcJyKOji        2         5     100   12
+3          EDpSfkpAsxwlG   2         6     75    12
+4          bIyTYMFl        2         4     75    12
+5          xqTofSQqqjW     2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DcJyKOji lost the encounter and took 25 damage!
+
+Turn: 17
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xqTofSQqqjW won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EDpSfkpAsxwlG won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bIyTYMFl won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NYfnAvIO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EDpSfkpAsxwlG   3         6     75    14
+2          NYfnAvIO        3         4     75    14
+3          bIyTYMFl        3         4     75    14
+4          xqTofSQqqjW     3         4     75    14
+5          DcJyKOji        2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DcJyKOji lost the encounter and took 25 damage!
+
+Turn: 22
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xqTofSQqqjW won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EDpSfkpAsxwlG won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bIyTYMFl won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NYfnAvIO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EDpSfkpAsxwlG   4         6     75    16
+2          bIyTYMFl        4         4     75    16
+3          xqTofSQqqjW     4         4     75    16
+4          NYfnAvIO        3         4     50    14
+5          DcJyKOji        2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+DcJyKOji won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xqTofSQqqjW won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EDpSfkpAsxwlG lost the encounter and took 25 damage!
+
+Turn: 29
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bIyTYMFl won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NYfnAvIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bIyTYMFl        5         4     75    18
+2          xqTofSQqqjW     5         4     75    18
+3          EDpSfkpAsxwlG   4         6     50    16
+4          NYfnAvIO        4         4     50    16
+5          DcJyKOji        3         5     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+DcJyKOji won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xqTofSQqqjW won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EDpSfkpAsxwlG lost the encounter and took 25 damage!
+
+Turn: 34
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bIyTYMFl won the encounter, gained 5 coins and leveled up!
+
+Turn: 35
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NYfnAvIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bIyTYMFl        6         4     75    23
+2          xqTofSQqqjW     6         4     75    23
+3          NYfnAvIO        5         4     50    18
+4          DcJyKOji        4         5     50    16
+5          EDpSfkpAsxwlG   4         6     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+DcJyKOji won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xqTofSQqqjW won the encounter, gained 5 coins and leveled up!
+
+Turn: 38
+Player: EDpSfkpAsxwlG, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EDpSfkpAsxwlG lost the encounter and took 25 damage!
+
+Turn: 39
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bIyTYMFl won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NYfnAvIO won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xqTofSQqqjW     7         4     75    28
+2          bIyTYMFl        7         4     75    25
+3          NYfnAvIO        6         4     50    23
+4          DcJyKOji        5         5     50    18
+5          EDpSfkpAsxwlG   4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DcJyKOji won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xqTofSQqqjW won the encounter, gained 2 coins and leveled up!
+
+Turn: 43
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bIyTYMFl won the encounter, gained 5 coins and leveled up!
+
+Turn: 44
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NYfnAvIO won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bIyTYMFl        8         4     75    30
+2          xqTofSQqqjW     8         4     75    30
+3          NYfnAvIO        7         4     50    28
+4          DcJyKOji        6         5     50    23
+5          EDpSfkpAsxwlG   4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DcJyKOji won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xqTofSQqqjW won the encounter, gained 5 coins and leveled up!
+
+Turn: 47
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bIyTYMFl won the encounter, gained 5 coins and leveled up!
+
+Turn: 48
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NYfnAvIO won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bIyTYMFl        9         4     75    35
+2          xqTofSQqqjW     9         4     75    35
+3          NYfnAvIO        8         4     50    33
+4          DcJyKOji        7         5     50    28
+5          EDpSfkpAsxwlG   4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 49
+Player: DcJyKOji, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+DcJyKOji won the encounter, gained 2 coins and leveled up!
+
+Turn: 50
+Player: xqTofSQqqjW, Warrior with Responsible behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xqTofSQqqjW won the encounter, gained 5 coins and leveled up!
+
+Turn: 51
+Player: bIyTYMFl, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bIyTYMFl won the encounter, gained 5 coins and leveled up!
+
+Turn: 52
+Player: NYfnAvIO, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NYfnAvIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bIyTYMFl        10        4     75    40
+2          xqTofSQqqjW     10        4     75    40
+3          NYfnAvIO        9         4     50    35
+4          DcJyKOji        8         5     50    30
+5          EDpSfkpAsxwlG   4         6     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: xqTofSQqqjW
+Congratulations!
+

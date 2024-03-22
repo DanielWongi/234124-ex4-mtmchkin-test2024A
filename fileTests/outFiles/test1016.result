@@ -1,0 +1,375 @@
+Game is about to start!
+These are the players:
+
+1. vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. tACA, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. VqNF, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+vFsigkPYhJGMDeS bought 0 potions!
+
+Turn: 2
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+pJwhcTDAIphI bought 0 potions!
+
+Turn: 3
+Player: tACA, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+tACA bought 0 potions!
+
+Turn: 4
+Player: VqNF, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+VqNF bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VqNF            1         5     100   10
+2          pJwhcTDAIphI    1         5     100   10
+3          tACA            1         5     100   10
+4          vFsigkPYhJGMDeS 1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+vFsigkPYhJGMDeS was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+pJwhcTDAIphI was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: tACA, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: VqNF, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VqNF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VqNF            2         5     100   12
+2          tACA            2         5     100   12
+3          pJwhcTDAIphI    1         6     100   10
+4          vFsigkPYhJGMDeS 1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vFsigkPYhJGMDeS won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+pJwhcTDAIphI lost the encounter and took 25 damage!
+
+Turn: 11
+Player: tACA, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tACA lost the encounter and took 25 damage!
+
+Turn: 12
+Player: VqNF, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VqNF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VqNF            2         5     75    12
+2          tACA            2         5     75    12
+3          vFsigkPYhJGMDeS 2         6     100   12
+4          pJwhcTDAIphI    1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vFsigkPYhJGMDeS lost the encounter and took 25 damage!
+
+Turn: 14
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: tACA, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tACA lost the encounter and took 25 damage!
+
+Turn: 16
+Player: VqNF, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VqNF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VqNF            2         5     50    12
+2          pJwhcTDAIphI    2         6     75    12
+3          tACA            2         5     50    12
+4          vFsigkPYhJGMDeS 2         6     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vFsigkPYhJGMDeS lost the encounter and took 25 damage!
+
+Turn: 18
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: tACA, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: VqNF, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VqNF won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VqNF            3         5     50    14
+2          pJwhcTDAIphI    3         6     75    14
+3          tACA            3         5     50    14
+4          vFsigkPYhJGMDeS 2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vFsigkPYhJGMDeS won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: tACA, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: VqNF, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VqNF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pJwhcTDAIphI    4         6     75    16
+2          tACA            4         5     50    16
+3          VqNF            3         5     25    14
+4          vFsigkPYhJGMDeS 3         6     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vFsigkPYhJGMDeS lost the encounter and took 25 damage!
+
+Turn: 26
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: tACA, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: VqNF, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VqNF lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pJwhcTDAIphI    5         6     75    18
+2          tACA            5         5     50    18
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: vFsigkPYhJGMDeS, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vFsigkPYhJGMDeS lost the encounter and took 25 damage!
+
+Turn: 30
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: tACA, Sorcerer with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pJwhcTDAIphI    6         6     75    20
+2          tACA            6         5     50    20
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+pJwhcTDAIphI lost the encounter and took 25 damage!
+
+Turn: 33
+Player: tACA, Sorcerer with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tACA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pJwhcTDAIphI    6         6     50    20
+2          tACA            6         5     25    20
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+pJwhcTDAIphI lost the encounter and took 25 damage!
+
+Turn: 35
+Player: tACA, Sorcerer with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tACA            7         5     25    22
+2          pJwhcTDAIphI    6         6     25    20
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: tACA, Sorcerer with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+tACA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tACA            8         5     25    24
+2          pJwhcTDAIphI    7         6     25    22
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 38
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pJwhcTDAIphI won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: tACA, Sorcerer with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tACA won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tACA            9         5     25    29
+2          pJwhcTDAIphI    8         6     25    24
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: pJwhcTDAIphI, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+pJwhcTDAIphI won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: tACA, Sorcerer with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+tACA won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          tACA            10        5     25    34
+2          pJwhcTDAIphI    9         6     25    29
+3          VqNF            3         5     0     14
+4          vFsigkPYhJGMDeS 3         6     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: tACA
+Congratulations!
+

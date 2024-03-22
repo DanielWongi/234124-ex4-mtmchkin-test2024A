@@ -1,0 +1,272 @@
+Game is about to start!
+These are the players:
+
+1. iYzxWNa, Sorcerer with Responsible behavior (level 1, force 5)
+2. vjueJoSe, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+iYzxWNa bought 0 potions!
+
+Turn: 2
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+vjueJoSe bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         1         5     100   10
+2          vjueJoSe        1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+iYzxWNa was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+vjueJoSe was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         1         6     100   10
+2          vjueJoSe        1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+iYzxWNa was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+vjueJoSe bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         1         7     100   10
+2          vjueJoSe        1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vjueJoSe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         2         7     100   12
+2          vjueJoSe        2         6     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+iYzxWNa lost the encounter and took 25 damage!
+
+Turn: 10
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vjueJoSe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vjueJoSe        3         6     100   14
+2          iYzxWNa         2         7     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vjueJoSe lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         3         7     75    14
+2          vjueJoSe        3         6     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vjueJoSe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         4         7     75    16
+2          vjueJoSe        4         6     75    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vjueJoSe lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         5         7     75    18
+2          vjueJoSe        4         6     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vjueJoSe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         6         7     75    20
+2          vjueJoSe        5         6     50    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 6, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vjueJoSe lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         7         7     75    22
+2          vjueJoSe        5         6     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 7, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+iYzxWNa won the encounter, gained 5 coins and leveled up!
+
+Turn: 22
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vjueJoSe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         8         7     75    27
+2          vjueJoSe        6         6     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 8, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+iYzxWNa won the encounter, gained 5 coins and leveled up!
+
+Turn: 24
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vjueJoSe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         9         7     75    32
+2          vjueJoSe        7         6     25    22
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: iYzxWNa, Sorcerer with Responsible behavior (level 9, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+iYzxWNa won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: vjueJoSe, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vjueJoSe won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iYzxWNa         10        7     75    34
+2          vjueJoSe        8         6     25    27
+
+----------------------------------------
+
+Game is over!
+The winner is: iYzxWNa
+Congratulations!
+

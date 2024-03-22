@@ -1,0 +1,54 @@
+Game is about to start!
+These are the players:
+
+1. tXoWGpcHZSVS, Warrior with RiskTaking behavior (level 1, force 5)
+2. ARQvYIHP, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. jXrFpFaPorToigs, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: tXoWGpcHZSVS, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+tXoWGpcHZSVS was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: ARQvYIHP, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ARQvYIHP lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: jXrFpFaPorToigs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+jXrFpFaPorToigs lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ARQvYIHP        1         5     0     10
+2          jXrFpFaPorToigs 1         5     0     10
+3          tXoWGpcHZSVS    1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: tXoWGpcHZSVS, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Dragon (power 17, loot 100, damage 9001)
+tXoWGpcHZSVS lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ARQvYIHP        1         5     0     10
+2          jXrFpFaPorToigs 1         5     0     10
+3          tXoWGpcHZSVS    1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

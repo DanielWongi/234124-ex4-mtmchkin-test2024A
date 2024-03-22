@@ -1,0 +1,316 @@
+Game is about to start!
+These are the players:
+
+1. cgCt, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. MXIl, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. ptSesL, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: cgCt, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+cgCt was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: MXIl, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+MXIl bought 0 potions!
+
+Turn: 3
+Player: ptSesL, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ptSesL was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            1         5     100   10
+2          cgCt            1         6     100   10
+3          ptSesL          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: cgCt, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+cgCt was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: MXIl, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+MXIl was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: ptSesL, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+ptSesL bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            1         6     100   10
+2          cgCt            1         7     100   10
+3          ptSesL          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: cgCt, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+cgCt won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: MXIl, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MXIl won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: ptSesL, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ptSesL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            2         6     100   12
+2          cgCt            2         7     100   12
+3          ptSesL          2         4     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: cgCt, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cgCt lost the encounter and took 25 damage!
+
+Turn: 11
+Player: MXIl, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MXIl won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: ptSesL, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ptSesL lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            3         6     100   14
+2          cgCt            2         7     75    12
+3          ptSesL          2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: cgCt, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+cgCt won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: MXIl, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MXIl lost the encounter and took 25 damage!
+
+Turn: 15
+Player: ptSesL, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ptSesL lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            3         6     75    14
+2          cgCt            3         7     75    14
+3          ptSesL          2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: cgCt, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cgCt lost the encounter and took 25 damage!
+
+Turn: 17
+Player: MXIl, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MXIl won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: ptSesL, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ptSesL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            4         6     75    16
+2          cgCt            3         7     50    14
+3          ptSesL          3         4     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: cgCt, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+cgCt won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: MXIl, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MXIl lost the encounter and took 25 damage!
+
+Turn: 21
+Player: ptSesL, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ptSesL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MXIl            4         6     50    16
+2          cgCt            4         7     50    16
+3          ptSesL          4         4     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: cgCt, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cgCt lost the encounter and took 25 damage!
+
+Turn: 23
+Player: MXIl, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MXIl lost the encounter and took 25 damage!
+
+Turn: 24
+Player: ptSesL, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ptSesL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ptSesL          5         4     50    18
+2          MXIl            4         6     25    16
+3          cgCt            4         7     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: cgCt, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cgCt lost the encounter and took 25 damage!
+
+Turn: 26
+Player: MXIl, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MXIl won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: ptSesL, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ptSesL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ptSesL          6         4     50    20
+2          MXIl            5         6     25    18
+3          cgCt            4         7     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: MXIl, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MXIl lost the encounter and took 25 damage!
+
+Turn: 29
+Player: ptSesL, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ptSesL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ptSesL          7         4     50    25
+2          MXIl            5         6     0     18
+3          cgCt            4         7     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: ptSesL, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ptSesL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ptSesL          8         4     50    30
+2          MXIl            5         6     0     18
+3          cgCt            4         7     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: ptSesL, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ptSesL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ptSesL          9         4     50    35
+2          MXIl            5         6     0     18
+3          cgCt            4         7     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: ptSesL, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ptSesL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ptSesL          10        4     50    37
+2          MXIl            5         6     0     18
+3          cgCt            4         7     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: ptSesL
+Congratulations!
+

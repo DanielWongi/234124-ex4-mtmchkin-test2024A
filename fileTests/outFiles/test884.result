@@ -1,0 +1,106 @@
+Game is about to start!
+These are the players:
+
+1. nTAGVHbYm, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. qAQqkdptGxyZZ, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: nTAGVHbYm, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+nTAGVHbYm bought 0 potions!
+
+Turn: 2
+Player: qAQqkdptGxyZZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+qAQqkdptGxyZZ was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nTAGVHbYm       1         5     100   10
+2          qAQqkdptGxyZZ   1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: nTAGVHbYm, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+nTAGVHbYm was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: qAQqkdptGxyZZ, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+qAQqkdptGxyZZ was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nTAGVHbYm       1         6     100   10
+2          qAQqkdptGxyZZ   1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: nTAGVHbYm, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+nTAGVHbYm bought 0 potions!
+
+Turn: 6
+Player: qAQqkdptGxyZZ, Warrior with RiskTaking behavior (level 1, force 3)
+Card: SolarEclipse
+qAQqkdptGxyZZ was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nTAGVHbYm       1         6     100   10
+2          qAQqkdptGxyZZ   1         2     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: nTAGVHbYm, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 3 members (power 66, loot 27, damage 135)
+nTAGVHbYm lost the encounter and took 135 damage!
+
+Turn: 8
+Player: qAQqkdptGxyZZ, Warrior with RiskTaking behavior (level 1, force 2)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+qAQqkdptGxyZZ lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nTAGVHbYm       1         6     0     10
+2          qAQqkdptGxyZZ   1         2     35    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: qAQqkdptGxyZZ, Warrior with RiskTaking behavior (level 1, force 2)
+Card: Gang of 4 members (power 27, loot 11, damage 55)
+qAQqkdptGxyZZ lost the encounter and took 55 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nTAGVHbYm       1         6     0     10
+2          qAQqkdptGxyZZ   1         2     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,91 @@
+Game is about to start!
+These are the players:
+
+1. AefiperZSxSgW, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. EVOcgxRJLODTX, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: AefiperZSxSgW, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+AefiperZSxSgW was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: EVOcgxRJLODTX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EVOcgxRJLODTX bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AefiperZSxSgW   1         6     100   10
+2          EVOcgxRJLODTX   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: AefiperZSxSgW, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+AefiperZSxSgW bought 0 potions!
+
+Turn: 4
+Player: EVOcgxRJLODTX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EVOcgxRJLODTX bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AefiperZSxSgW   1         6     100   10
+2          EVOcgxRJLODTX   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: AefiperZSxSgW, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+AefiperZSxSgW was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: EVOcgxRJLODTX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+EVOcgxRJLODTX was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AefiperZSxSgW   1         7     100   10
+2          EVOcgxRJLODTX   1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: AefiperZSxSgW, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 3 members (power 112, loot 46, damage 230)
+AefiperZSxSgW lost the encounter and took 230 damage!
+
+Turn: 8
+Player: EVOcgxRJLODTX, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 4 members (power 369, loot 152, damage 760)
+EVOcgxRJLODTX lost the encounter and took 760 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AefiperZSxSgW   1         7     0     10
+2          EVOcgxRJLODTX   1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

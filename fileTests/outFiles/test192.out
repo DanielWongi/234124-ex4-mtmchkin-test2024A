@@ -1,0 +1,117 @@
+Game is about to start!
+These are the players:
+
+1. ElfZrPon, Warrior with Responsible behavior (level 1, force 5)
+2. vbaYDhFr, Warrior with RiskTaking behavior (level 1, force 5)
+3. VLZZOmqSvj, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ElfZrPon, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ElfZrPon won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: vbaYDhFr, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+vbaYDhFr won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: VLZZOmqSvj, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VLZZOmqSvj won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ElfZrPon        2         5     100   12
+2          VLZZOmqSvj      2         5     100   12
+3          vbaYDhFr        2         5     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: ElfZrPon, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ElfZrPon lost the encounter and took 25 damage!
+
+Turn: 5
+Player: vbaYDhFr, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+vbaYDhFr lost the encounter and took 9001 damage!
+
+Turn: 6
+Player: VLZZOmqSvj, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+VLZZOmqSvj lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ElfZrPon        2         5     75    12
+2          VLZZOmqSvj      2         5     80    12
+3          vbaYDhFr        2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: ElfZrPon, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ElfZrPon lost the encounter and took 9001 damage!
+
+Turn: 8
+Player: VLZZOmqSvj, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: SolarEclipse
+VLZZOmqSvj was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ElfZrPon        2         5     0     12
+2          VLZZOmqSvj      2         6     80    12
+3          vbaYDhFr        2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: VLZZOmqSvj, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+VLZZOmqSvj won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VLZZOmqSvj      3         6     80    14
+2          ElfZrPon        2         5     0     12
+3          vbaYDhFr        2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: VLZZOmqSvj, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+VLZZOmqSvj lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VLZZOmqSvj      3         6     0     14
+2          ElfZrPon        2         5     0     12
+3          vbaYDhFr        2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

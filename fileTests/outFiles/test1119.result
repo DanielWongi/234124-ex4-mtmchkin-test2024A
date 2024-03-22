@@ -1,0 +1,393 @@
+Game is about to start!
+These are the players:
+
+1. tVZrgTTr, Warrior with Responsible behavior (level 1, force 5)
+2. NqDevckf, Warrior with RiskTaking behavior (level 1, force 5)
+3. Crn, Warrior with RiskTaking behavior (level 1, force 5)
+4. SnNdA, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: tVZrgTTr, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+tVZrgTTr was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: NqDevckf, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+NqDevckf bought 0 potions!
+
+Turn: 3
+Player: Crn, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+Crn was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+SnNdA was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             1         4     100   10
+2          NqDevckf        1         5     100   10
+3          SnNdA           1         6     100   10
+4          tVZrgTTr        1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: tVZrgTTr, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+tVZrgTTr was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: NqDevckf, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+NqDevckf bought 0 potions!
+
+Turn: 7
+Player: Crn, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Crn won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+SnNdA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             2         4     100   12
+2          NqDevckf        1         5     100   10
+3          SnNdA           1         6     75    10
+4          tVZrgTTr        1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: tVZrgTTr, Warrior with Responsible behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+tVZrgTTr lost the encounter and took 25 damage!
+
+Turn: 10
+Player: NqDevckf, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+NqDevckf lost the encounter and took 25 damage!
+
+Turn: 11
+Player: Crn, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Crn lost the encounter and took 25 damage!
+
+Turn: 12
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             2         4     75    12
+2          SnNdA           2         6     75    12
+3          NqDevckf        1         5     75    10
+4          tVZrgTTr        1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: tVZrgTTr, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+tVZrgTTr won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: NqDevckf, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+NqDevckf lost the encounter and took 25 damage!
+
+Turn: 15
+Player: Crn, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Crn lost the encounter and took 25 damage!
+
+Turn: 16
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SnNdA           3         6     75    14
+2          Crn             2         4     50    12
+3          tVZrgTTr        2         3     75    12
+4          NqDevckf        1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: tVZrgTTr, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+tVZrgTTr won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: NqDevckf, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: Crn, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Crn won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SnNdA           4         6     75    16
+2          Crn             3         4     50    14
+3          tVZrgTTr        3         3     75    14
+4          NqDevckf        2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: tVZrgTTr, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+tVZrgTTr won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: NqDevckf, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: Crn, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Crn won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+SnNdA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             4         4     50    16
+2          SnNdA           4         6     50    16
+3          tVZrgTTr        4         3     75    16
+4          NqDevckf        3         5     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: tVZrgTTr, Warrior with Responsible behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+tVZrgTTr won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: NqDevckf, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+NqDevckf won the encounter, gained 5 coins and leveled up!
+
+Turn: 27
+Player: Crn, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Crn won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             5         4     50    18
+2          SnNdA           5         6     50    18
+3          tVZrgTTr        5         3     75    18
+4          NqDevckf        4         5     50    19
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: tVZrgTTr, Warrior with Responsible behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+tVZrgTTr won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: NqDevckf, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: Crn, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Crn won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             6         4     50    20
+2          SnNdA           6         6     50    20
+3          tVZrgTTr        6         3     75    20
+4          NqDevckf        5         5     50    21
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: tVZrgTTr, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+tVZrgTTr lost the encounter and took 25 damage!
+
+Turn: 34
+Player: NqDevckf, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: Crn, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Crn won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+SnNdA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             7         4     50    25
+2          NqDevckf        6         5     50    23
+3          SnNdA           6         6     25    20
+4          tVZrgTTr        6         3     50    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: tVZrgTTr, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+tVZrgTTr lost the encounter and took 25 damage!
+
+Turn: 38
+Player: NqDevckf, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: Crn, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Crn won the encounter, gained 5 coins and leveled up!
+
+Turn: 40
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             8         4     50    30
+2          NqDevckf        7         5     50    25
+3          SnNdA           7         6     25    22
+4          tVZrgTTr        6         3     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: tVZrgTTr, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+tVZrgTTr lost the encounter and took 25 damage!
+
+Turn: 42
+Player: NqDevckf, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 43
+Player: Crn, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+Crn won the encounter, gained 5 coins and leveled up!
+
+Turn: 44
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+SnNdA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             9         4     50    35
+2          NqDevckf        8         5     50    27
+3          SnNdA           8         6     25    24
+4          tVZrgTTr        6         3     0     20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: NqDevckf, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NqDevckf won the encounter, gained 2 coins and leveled up!
+
+Turn: 46
+Player: Crn, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+Crn won the encounter, gained 2 coins and leveled up!
+
+Turn: 47
+Player: SnNdA, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+SnNdA won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Crn             10        4     50    37
+2          NqDevckf        9         5     50    29
+3          SnNdA           9         6     25    29
+4          tVZrgTTr        6         3     0     20
+
+----------------------------------------
+
+Game is over!
+The winner is: Crn
+Congratulations!
+

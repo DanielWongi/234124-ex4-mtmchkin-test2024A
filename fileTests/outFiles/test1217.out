@@ -1,0 +1,426 @@
+Game is about to start!
+These are the players:
+
+1. EwPBp, Warrior with RiskTaking behavior (level 1, force 5)
+2. dLmspTP, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. efr, Sorcerer with Responsible behavior (level 1, force 5)
+4. GdLRpVpD, Warrior with Responsible behavior (level 1, force 5)
+5. eoqAkbiu, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: EwPBp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EwPBp bought 0 potions!
+
+Turn: 2
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+dLmspTP was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: efr, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+efr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: GdLRpVpD, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+GdLRpVpD bought 0 potions!
+
+Turn: 5
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+eoqAkbiu was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EwPBp           1         5     100   10
+2          GdLRpVpD        1         5     100   10
+3          dLmspTP         1         6     100   10
+4          efr             1         6     100   10
+5          eoqAkbiu        1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: EwPBp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EwPBp bought 0 potions!
+
+Turn: 7
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dLmspTP lost the encounter and took 25 damage!
+
+Turn: 8
+Player: efr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+efr lost the encounter and took 25 damage!
+
+Turn: 9
+Player: GdLRpVpD, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD lost the encounter and took 25 damage!
+
+Turn: 10
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eoqAkbiu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eoqAkbiu        2         4     100   12
+2          EwPBp           1         5     100   10
+3          GdLRpVpD        1         5     75    10
+4          dLmspTP         1         6     75    10
+5          efr             1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: EwPBp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EwPBp lost the encounter and took 25 damage!
+
+Turn: 12
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dLmspTP won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: efr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+efr lost the encounter and took 25 damage!
+
+Turn: 14
+Player: GdLRpVpD, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD lost the encounter and took 25 damage!
+
+Turn: 15
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eoqAkbiu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dLmspTP         2         6     75    12
+2          eoqAkbiu        2         4     75    12
+3          EwPBp           1         5     75    10
+4          GdLRpVpD        1         5     50    10
+5          efr             1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: EwPBp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EwPBp lost the encounter and took 25 damage!
+
+Turn: 17
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dLmspTP lost the encounter and took 25 damage!
+
+Turn: 18
+Player: efr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+efr won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: GdLRpVpD, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GdLRpVpD won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eoqAkbiu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        2         5     50    12
+2          dLmspTP         2         6     50    12
+3          efr             2         6     50    12
+4          eoqAkbiu        2         4     50    12
+5          EwPBp           1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: EwPBp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EwPBp won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dLmspTP won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: efr, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+efr won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: GdLRpVpD, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GdLRpVpD won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eoqAkbiu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        3         5     50    14
+2          dLmspTP         3         6     50    14
+3          efr             3         6     50    14
+4          eoqAkbiu        3         4     50    14
+5          EwPBp           2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: EwPBp, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EwPBp lost the encounter and took 25 damage!
+
+Turn: 27
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dLmspTP won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: efr, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+efr lost the encounter and took 25 damage!
+
+Turn: 29
+Player: GdLRpVpD, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD won the encounter, gained 5 coins and leveled up!
+
+Turn: 30
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eoqAkbiu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        4         5     50    19
+2          dLmspTP         4         6     50    16
+3          eoqAkbiu        4         4     50    16
+4          efr             3         6     25    14
+5          EwPBp           2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: EwPBp, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EwPBp lost the encounter and took 25 damage!
+
+Turn: 32
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dLmspTP lost the encounter and took 25 damage!
+
+Turn: 33
+Player: efr, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+efr won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: GdLRpVpD, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD won the encounter, gained 5 coins and leveled up!
+
+Turn: 35
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eoqAkbiu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        5         5     50    24
+2          dLmspTP         4         6     25    16
+3          efr             4         6     25    16
+4          eoqAkbiu        4         4     25    16
+5          EwPBp           2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dLmspTP won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: efr, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+efr lost the encounter and took 25 damage!
+
+Turn: 38
+Player: GdLRpVpD, Warrior with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GdLRpVpD won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eoqAkbiu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        6         5     50    26
+2          dLmspTP         5         6     25    18
+3          eoqAkbiu        5         4     25    18
+4          efr             4         6     0     16
+5          EwPBp           2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dLmspTP won the encounter, gained 2 coins and leveled up!
+
+Turn: 41
+Player: GdLRpVpD, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eoqAkbiu won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        7         5     50    31
+2          eoqAkbiu        6         4     25    23
+3          dLmspTP         6         6     25    20
+4          efr             4         6     0     16
+5          EwPBp           2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dLmspTP won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: GdLRpVpD, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD won the encounter, gained 5 coins and leveled up!
+
+Turn: 45
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eoqAkbiu won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        8         5     50    36
+2          eoqAkbiu        7         4     25    28
+3          dLmspTP         7         6     25    22
+4          efr             4         6     0     16
+5          EwPBp           2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 46
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dLmspTP won the encounter, gained 5 coins and leveled up!
+
+Turn: 47
+Player: GdLRpVpD, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD won the encounter, gained 5 coins and leveled up!
+
+Turn: 48
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eoqAkbiu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        9         5     50    41
+2          eoqAkbiu        8         4     25    30
+3          dLmspTP         8         6     25    27
+4          efr             4         6     0     16
+5          EwPBp           2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 49
+Player: dLmspTP, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dLmspTP won the encounter, gained 5 coins and leveled up!
+
+Turn: 50
+Player: GdLRpVpD, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GdLRpVpD won the encounter, gained 5 coins and leveled up!
+
+Turn: 51
+Player: eoqAkbiu, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eoqAkbiu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GdLRpVpD        10        5     50    46
+2          dLmspTP         9         6     25    32
+3          eoqAkbiu        9         4     25    32
+4          efr             4         6     0     16
+5          EwPBp           2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: GdLRpVpD
+Congratulations!
+

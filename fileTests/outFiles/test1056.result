@@ -1,0 +1,360 @@
+Game is about to start!
+These are the players:
+
+1. bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 1, force 5)
+2. xuT, Warrior with RiskTaking behavior (level 1, force 5)
+3. xMfaZrsHMBJff, Warrior with Responsible behavior (level 1, force 5)
+4. WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 1, force 5)
+5. iltpA, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bSQiamSzooHvZ bought 0 potions!
+
+Turn: 2
+Player: xuT, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+xuT was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: xMfaZrsHMBJff, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+xMfaZrsHMBJff bought 0 potions!
+
+Turn: 4
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+WXIpksiFneCoJqL was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: iltpA, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+iltpA bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WXIpksiFneCoJqL 1         6     100   10
+2          bSQiamSzooHvZ   1         5     100   10
+3          iltpA           1         5     100   10
+4          xMfaZrsHMBJff   1         5     100   10
+5          xuT             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+bSQiamSzooHvZ was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: xuT, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xuT won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: xMfaZrsHMBJff, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xMfaZrsHMBJff lost the encounter and took 25 damage!
+
+Turn: 9
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WXIpksiFneCoJqL won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: iltpA, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+iltpA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WXIpksiFneCoJqL 2         6     100   12
+2          iltpA           2         5     100   12
+3          xuT             2         4     100   12
+4          bSQiamSzooHvZ   1         4     100   10
+5          xMfaZrsHMBJff   1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bSQiamSzooHvZ won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: xuT, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xuT won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: xMfaZrsHMBJff, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xMfaZrsHMBJff lost the encounter and took 25 damage!
+
+Turn: 14
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WXIpksiFneCoJqL lost the encounter and took 25 damage!
+
+Turn: 15
+Player: iltpA, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+iltpA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iltpA           3         5     100   14
+2          xuT             3         4     100   14
+3          WXIpksiFneCoJqL 2         6     75    12
+4          bSQiamSzooHvZ   2         4     100   12
+5          xMfaZrsHMBJff   1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bSQiamSzooHvZ lost the encounter and took 25 damage!
+
+Turn: 17
+Player: xuT, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xuT won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: xMfaZrsHMBJff, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xMfaZrsHMBJff lost the encounter and took 25 damage!
+
+Turn: 19
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WXIpksiFneCoJqL lost the encounter and took 25 damage!
+
+Turn: 20
+Player: iltpA, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+iltpA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             4         4     100   16
+2          iltpA           3         5     75    14
+3          WXIpksiFneCoJqL 2         6     50    12
+4          bSQiamSzooHvZ   2         4     75    12
+5          xMfaZrsHMBJff   1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bSQiamSzooHvZ lost the encounter and took 25 damage!
+
+Turn: 22
+Player: xuT, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xuT won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: xMfaZrsHMBJff, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xMfaZrsHMBJff won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WXIpksiFneCoJqL won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: iltpA, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+iltpA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             5         4     100   18
+2          iltpA           4         5     75    16
+3          WXIpksiFneCoJqL 3         6     50    14
+4          bSQiamSzooHvZ   2         4     50    12
+5          xMfaZrsHMBJff   2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bSQiamSzooHvZ won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: xuT, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+xuT won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: xMfaZrsHMBJff, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xMfaZrsHMBJff lost the encounter and took 25 damage!
+
+Turn: 29
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WXIpksiFneCoJqL lost the encounter and took 25 damage!
+
+Turn: 30
+Player: iltpA, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+iltpA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             6         4     100   20
+2          iltpA           5         5     75    18
+3          WXIpksiFneCoJqL 3         6     25    14
+4          bSQiamSzooHvZ   3         4     50    14
+5          xMfaZrsHMBJff   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+bSQiamSzooHvZ won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: xuT, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xuT won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+WXIpksiFneCoJqL won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: iltpA, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+iltpA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             7         4     100   25
+2          iltpA           5         5     50    18
+3          WXIpksiFneCoJqL 4         6     25    16
+4          bSQiamSzooHvZ   4         4     50    16
+5          xMfaZrsHMBJff   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bSQiamSzooHvZ lost the encounter and took 25 damage!
+
+Turn: 36
+Player: xuT, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xuT won the encounter, gained 5 coins and leveled up!
+
+Turn: 37
+Player: WXIpksiFneCoJqL, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+WXIpksiFneCoJqL lost the encounter and took 25 damage!
+
+Turn: 38
+Player: iltpA, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+iltpA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             8         4     100   30
+2          iltpA           5         5     25    18
+3          WXIpksiFneCoJqL 4         6     0     16
+4          bSQiamSzooHvZ   4         4     25    16
+5          xMfaZrsHMBJff   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: bSQiamSzooHvZ, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+bSQiamSzooHvZ lost the encounter and took 25 damage!
+
+Turn: 40
+Player: xuT, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xuT won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: iltpA, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+iltpA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             9         4     100   35
+2          iltpA           6         5     25    20
+3          WXIpksiFneCoJqL 4         6     0     16
+4          bSQiamSzooHvZ   4         4     0     16
+5          xMfaZrsHMBJff   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 42
+Player: xuT, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+xuT won the encounter, gained 5 coins and leveled up!
+
+Turn: 43
+Player: iltpA, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+iltpA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xuT             10        4     100   40
+2          iltpA           7         5     25    22
+3          WXIpksiFneCoJqL 4         6     0     16
+4          bSQiamSzooHvZ   4         4     0     16
+5          xMfaZrsHMBJff   2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: xuT
+Congratulations!
+

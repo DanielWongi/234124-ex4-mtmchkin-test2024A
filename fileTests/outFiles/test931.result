@@ -1,0 +1,363 @@
+Game is about to start!
+These are the players:
+
+1. dASP, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. rsDwcSKNyFB, Warrior with Responsible behavior (level 1, force 5)
+3. GxhoeRKlEcQO, Warrior with Responsible behavior (level 1, force 5)
+4. VjwPALs, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: dASP, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+dASP bought 0 potions!
+
+Turn: 2
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+rsDwcSKNyFB was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: GxhoeRKlEcQO, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+GxhoeRKlEcQO bought 0 potions!
+
+Turn: 4
+Player: VjwPALs, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+VjwPALs bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxhoeRKlEcQO    1         5     100   10
+2          VjwPALs         1         5     100   10
+3          dASP            1         5     100   10
+4          rsDwcSKNyFB     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: dASP, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+dASP was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+rsDwcSKNyFB bought 0 potions!
+
+Turn: 7
+Player: GxhoeRKlEcQO, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GxhoeRKlEcQO lost the encounter and took 25 damage!
+
+Turn: 8
+Player: VjwPALs, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VjwPALs lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GxhoeRKlEcQO    1         5     75    10
+2          VjwPALs         1         5     75    10
+3          dASP            1         6     100   10
+4          rsDwcSKNyFB     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: dASP, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+rsDwcSKNyFB won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: GxhoeRKlEcQO, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GxhoeRKlEcQO lost the encounter and took 25 damage!
+
+Turn: 12
+Player: VjwPALs, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VjwPALs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         2         5     75    12
+2          dASP            2         6     100   12
+3          rsDwcSKNyFB     2         4     100   12
+4          GxhoeRKlEcQO    1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: dASP, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dASP lost the encounter and took 25 damage!
+
+Turn: 14
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+rsDwcSKNyFB won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: GxhoeRKlEcQO, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GxhoeRKlEcQO lost the encounter and took 25 damage!
+
+Turn: 16
+Player: VjwPALs, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VjwPALs lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          rsDwcSKNyFB     3         4     100   14
+2          VjwPALs         2         5     50    12
+3          dASP            2         6     75    12
+4          GxhoeRKlEcQO    1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: dASP, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+rsDwcSKNyFB lost the encounter and took 25 damage!
+
+Turn: 19
+Player: GxhoeRKlEcQO, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GxhoeRKlEcQO lost the encounter and took 25 damage!
+
+Turn: 20
+Player: VjwPALs, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VjwPALs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         3         5     50    14
+2          dASP            3         6     75    14
+3          rsDwcSKNyFB     3         4     75    14
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: dASP, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+dASP lost the encounter and took 25 damage!
+
+Turn: 22
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+rsDwcSKNyFB lost the encounter and took 25 damage!
+
+Turn: 23
+Player: VjwPALs, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VjwPALs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         4         5     50    16
+2          dASP            3         6     50    14
+3          rsDwcSKNyFB     3         4     50    14
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: dASP, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+rsDwcSKNyFB won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: VjwPALs, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VjwPALs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         5         5     50    18
+2          dASP            4         6     50    16
+3          rsDwcSKNyFB     4         4     50    16
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: dASP, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+rsDwcSKNyFB won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: VjwPALs, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VjwPALs won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         6         5     50    23
+2          dASP            5         6     50    18
+3          rsDwcSKNyFB     5         4     50    18
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: dASP, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+rsDwcSKNyFB won the encounter, gained 5 coins and leveled up!
+
+Turn: 32
+Player: VjwPALs, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VjwPALs won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         7         5     50    28
+2          rsDwcSKNyFB     6         4     50    23
+3          dASP            6         6     50    20
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: dASP, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+rsDwcSKNyFB won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: VjwPALs, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VjwPALs won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         8         5     50    33
+2          rsDwcSKNyFB     7         4     50    25
+3          dASP            7         6     50    22
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: dASP, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+rsDwcSKNyFB won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: VjwPALs, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VjwPALs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         9         5     50    35
+2          rsDwcSKNyFB     8         4     50    27
+3          dASP            8         6     50    24
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: dASP, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+dASP won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: rsDwcSKNyFB, Warrior with Responsible behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+rsDwcSKNyFB won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: VjwPALs, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VjwPALs won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VjwPALs         10        5     50    40
+2          rsDwcSKNyFB     9         4     50    32
+3          dASP            9         6     50    26
+4          GxhoeRKlEcQO    1         5     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: VjwPALs
+Congratulations!
+

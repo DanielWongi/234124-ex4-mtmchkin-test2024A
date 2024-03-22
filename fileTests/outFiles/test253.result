@@ -1,0 +1,103 @@
+Game is about to start!
+These are the players:
+
+1. WJT, Warrior with RiskTaking behavior (level 1, force 5)
+2. aWv, Warrior with Responsible behavior (level 1, force 5)
+3. dyWuv, Warrior with Responsible behavior (level 1, force 5)
+4. AmqIgXDVitdJFZ, Warrior with RiskTaking behavior (level 1, force 5)
+5. FkRFzTiMBkTAuXl, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WJT, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+WJT lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: aWv, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+aWv lost the encounter and took 25 damage!
+
+Turn: 3
+Player: dyWuv, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+dyWuv won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: AmqIgXDVitdJFZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AmqIgXDVitdJFZ lost the encounter and took 25 damage!
+
+Turn: 5
+Player: FkRFzTiMBkTAuXl, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FkRFzTiMBkTAuXl lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dyWuv           2         5     100   12
+2          AmqIgXDVitdJFZ  1         5     75    10
+3          FkRFzTiMBkTAuXl 1         5     75    10
+4          WJT             1         5     0     10
+5          aWv             1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: aWv, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+aWv lost the encounter and took 9001 damage!
+
+Turn: 7
+Player: dyWuv, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+dyWuv lost the encounter and took 25 damage!
+
+Turn: 8
+Player: AmqIgXDVitdJFZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 107, loot 509, damage 45050)
+AmqIgXDVitdJFZ lost the encounter and took 45050 damage!
+
+Turn: 9
+Player: FkRFzTiMBkTAuXl, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 34, loot 200, damage 18002)
+FkRFzTiMBkTAuXl lost the encounter and took 18002 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dyWuv           2         5     75    12
+2          AmqIgXDVitdJFZ  1         5     0     10
+3          FkRFzTiMBkTAuXl 1         5     0     10
+4          WJT             1         5     0     10
+5          aWv             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: dyWuv, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+dyWuv lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dyWuv           2         5     0     12
+2          AmqIgXDVitdJFZ  1         5     0     10
+3          FkRFzTiMBkTAuXl 1         5     0     10
+4          WJT             1         5     0     10
+5          aWv             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

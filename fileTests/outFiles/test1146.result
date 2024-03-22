@@ -1,0 +1,231 @@
+Game is about to start!
+These are the players:
+
+1. kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. PoJ, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+kkZKXZcudSy was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: PoJ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+PoJ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             1         5     100   10
+2          kkZKXZcudSy     1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+kkZKXZcudSy bought 0 potions!
+
+Turn: 4
+Player: PoJ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+PoJ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             1         5     100   10
+2          kkZKXZcudSy     1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+kkZKXZcudSy bought 0 potions!
+
+Turn: 6
+Player: PoJ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+PoJ was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             1         6     100   10
+2          kkZKXZcudSy     1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kkZKXZcudSy won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: PoJ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             2         6     100   12
+2          kkZKXZcudSy     2         6     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kkZKXZcudSy lost the encounter and took 25 damage!
+
+Turn: 10
+Player: PoJ, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             3         6     100   14
+2          kkZKXZcudSy     2         6     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kkZKXZcudSy lost the encounter and took 25 damage!
+
+Turn: 12
+Player: PoJ, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoJ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             3         6     75    14
+2          kkZKXZcudSy     2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kkZKXZcudSy won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: PoJ, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoJ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             3         6     50    14
+2          kkZKXZcudSy     3         6     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kkZKXZcudSy lost the encounter and took 25 damage!
+
+Turn: 16
+Player: PoJ, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             4         6     50    16
+2          kkZKXZcudSy     3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kkZKXZcudSy won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: PoJ, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoJ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             5         6     50    18
+2          kkZKXZcudSy     4         6     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kkZKXZcudSy won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: PoJ, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoJ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             5         6     25    18
+2          kkZKXZcudSy     5         6     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: kkZKXZcudSy, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kkZKXZcudSy lost the encounter and took 25 damage!
+
+Turn: 22
+Player: PoJ, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoJ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PoJ             5         6     0     18
+2          kkZKXZcudSy     5         6     0     18
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

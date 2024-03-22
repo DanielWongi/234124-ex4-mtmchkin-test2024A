@@ -1,0 +1,70 @@
+Game is about to start!
+These are the players:
+
+1. aRIwVnYQ, Sorcerer with Responsible behavior (level 1, force 5)
+2. jEfhLMLKO, Warrior with RiskTaking behavior (level 1, force 5)
+3. DOBtHNJlEtf, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: aRIwVnYQ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+aRIwVnYQ lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: jEfhLMLKO, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jEfhLMLKO lost the encounter and took 25 damage!
+
+Turn: 3
+Player: DOBtHNJlEtf, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+DOBtHNJlEtf lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DOBtHNJlEtf     1         5     0     10
+2          aRIwVnYQ        1         5     0     10
+3          jEfhLMLKO       1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: jEfhLMLKO, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jEfhLMLKO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jEfhLMLKO       2         5     75    12
+2          DOBtHNJlEtf     1         5     0     10
+3          aRIwVnYQ        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: jEfhLMLKO, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+jEfhLMLKO lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jEfhLMLKO       2         5     0     12
+2          DOBtHNJlEtf     1         5     0     10
+3          aRIwVnYQ        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

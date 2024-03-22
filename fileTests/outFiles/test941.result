@@ -1,0 +1,351 @@
+Game is about to start!
+These are the players:
+
+1. cplSH, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. HFeU, Warrior with RiskTaking behavior (level 1, force 5)
+3. IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 1, force 5)
+4. BWBwJlREE, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: cplSH, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+cplSH bought 0 potions!
+
+Turn: 2
+Player: HFeU, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+HFeU bought 0 potions!
+
+Turn: 3
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+IeFRCHuRRlHa bought 0 potions!
+
+Turn: 4
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+BWBwJlREE was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BWBwJlREE       1         6     100   10
+2          HFeU            1         5     100   10
+3          IeFRCHuRRlHa    1         5     100   10
+4          cplSH           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: cplSH, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+cplSH was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: HFeU, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+HFeU bought 0 potions!
+
+Turn: 7
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IeFRCHuRRlHa lost the encounter and took 25 damage!
+
+Turn: 8
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+BWBwJlREE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BWBwJlREE       2         6     100   12
+2          HFeU            1         5     100   10
+3          IeFRCHuRRlHa    1         5     75    10
+4          cplSH           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: cplSH, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+cplSH lost the encounter and took 25 damage!
+
+Turn: 10
+Player: HFeU, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HFeU lost the encounter and took 25 damage!
+
+Turn: 11
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IeFRCHuRRlHa won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+BWBwJlREE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BWBwJlREE       3         6     100   14
+2          IeFRCHuRRlHa    2         5     75    12
+3          HFeU            1         5     75    10
+4          cplSH           1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: cplSH, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+cplSH won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: HFeU, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HFeU won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IeFRCHuRRlHa won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+BWBwJlREE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BWBwJlREE       4         6     100   16
+2          IeFRCHuRRlHa    3         5     75    14
+3          HFeU            2         5     75    12
+4          cplSH           2         6     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: cplSH, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+cplSH lost the encounter and took 25 damage!
+
+Turn: 18
+Player: HFeU, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HFeU won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IeFRCHuRRlHa won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+BWBwJlREE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BWBwJlREE       5         6     100   18
+2          IeFRCHuRRlHa    4         5     75    16
+3          HFeU            3         5     75    14
+4          cplSH           2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: cplSH, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+cplSH won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: HFeU, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HFeU won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IeFRCHuRRlHa won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+BWBwJlREE lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BWBwJlREE       5         6     75    18
+2          IeFRCHuRRlHa    5         5     75    18
+3          HFeU            4         5     75    16
+4          cplSH           3         6     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: cplSH, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+cplSH won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: HFeU, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HFeU won the encounter, gained 5 coins and leveled up!
+
+Turn: 27
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IeFRCHuRRlHa won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+BWBwJlREE lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IeFRCHuRRlHa    6         5     75    20
+2          HFeU            5         5     75    21
+3          BWBwJlREE       5         6     50    18
+4          cplSH           4         6     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: cplSH, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+cplSH lost the encounter and took 25 damage!
+
+Turn: 30
+Player: HFeU, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HFeU won the encounter, gained 5 coins and leveled up!
+
+Turn: 31
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IeFRCHuRRlHa won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+BWBwJlREE won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IeFRCHuRRlHa    7         5     75    22
+2          HFeU            6         5     75    26
+3          BWBwJlREE       6         6     50    20
+4          cplSH           4         6     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: cplSH, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+cplSH lost the encounter and took 25 damage!
+
+Turn: 34
+Player: HFeU, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HFeU won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IeFRCHuRRlHa won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+BWBwJlREE lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IeFRCHuRRlHa    8         5     75    27
+2          HFeU            7         5     75    28
+3          BWBwJlREE       6         6     25    20
+4          cplSH           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: HFeU, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HFeU won the encounter, gained 5 coins and leveled up!
+
+Turn: 38
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IeFRCHuRRlHa won the encounter, gained 5 coins and leveled up!
+
+Turn: 39
+Player: BWBwJlREE, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+BWBwJlREE lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IeFRCHuRRlHa    9         5     75    32
+2          HFeU            8         5     75    33
+3          BWBwJlREE       6         6     0     20
+4          cplSH           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: HFeU, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HFeU won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: IeFRCHuRRlHa, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IeFRCHuRRlHa won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IeFRCHuRRlHa    10        5     75    37
+2          HFeU            9         5     75    38
+3          BWBwJlREE       6         6     0     20
+4          cplSH           4         6     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: IeFRCHuRRlHa
+Congratulations!
+

@@ -1,0 +1,449 @@
+Game is about to start!
+These are the players:
+
+1. fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 1, force 5)
+2. MdPV, Warrior with RiskTaking behavior (level 1, force 5)
+3. UIdnFSnX, Warrior with Responsible behavior (level 1, force 5)
+4. MNunoPo, Sorcerer with Responsible behavior (level 1, force 5)
+5. aii, Warrior with Responsible behavior (level 1, force 5)
+6. FFfnKhQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+fVfNiJQlHGCaB bought 0 potions!
+
+Turn: 2
+Player: MdPV, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+MdPV was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: UIdnFSnX, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+UIdnFSnX was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: MNunoPo, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+MNunoPo was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: aii, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+aii was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+FFfnKhQ was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FFfnKhQ         1         6     100   10
+2          MNunoPo         1         6     100   10
+3          MdPV            1         4     100   10
+4          UIdnFSnX        1         4     100   10
+5          aii             1         4     100   10
+6          fVfNiJQlHGCaB   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fVfNiJQlHGCaB lost the encounter and took 25 damage!
+
+Turn: 8
+Player: MdPV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: UIdnFSnX, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+UIdnFSnX won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: MNunoPo, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MNunoPo lost the encounter and took 25 damage!
+
+Turn: 11
+Player: aii, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+aii lost the encounter and took 25 damage!
+
+Turn: 12
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FFfnKhQ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            2         4     100   12
+2          UIdnFSnX        2         4     100   12
+3          FFfnKhQ         1         6     75    10
+4          MNunoPo         1         6     75    10
+5          aii             1         4     75    10
+6          fVfNiJQlHGCaB   1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fVfNiJQlHGCaB lost the encounter and took 25 damage!
+
+Turn: 14
+Player: MdPV, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+MdPV lost the encounter and took 25 damage!
+
+Turn: 15
+Player: UIdnFSnX, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UIdnFSnX lost the encounter and took 25 damage!
+
+Turn: 16
+Player: MNunoPo, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MNunoPo won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: aii, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+aii won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FFfnKhQ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MNunoPo         2         6     75    12
+2          MdPV            2         4     75    12
+3          UIdnFSnX        2         4     75    12
+4          aii             2         4     75    12
+5          FFfnKhQ         1         6     50    10
+6          fVfNiJQlHGCaB   1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+fVfNiJQlHGCaB won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: MdPV, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+MdPV lost the encounter and took 25 damage!
+
+Turn: 21
+Player: UIdnFSnX, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UIdnFSnX lost the encounter and took 25 damage!
+
+Turn: 22
+Player: MNunoPo, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MNunoPo won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: aii, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+aii lost the encounter and took 25 damage!
+
+Turn: 24
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FFfnKhQ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MNunoPo         3         6     75    14
+2          MdPV            2         4     50    12
+3          UIdnFSnX        2         4     50    12
+4          aii             2         4     50    12
+5          fVfNiJQlHGCaB   2         5     50    12
+6          FFfnKhQ         1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fVfNiJQlHGCaB lost the encounter and took 25 damage!
+
+Turn: 26
+Player: MdPV, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: UIdnFSnX, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+UIdnFSnX won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: MNunoPo, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MNunoPo won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: aii, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+aii lost the encounter and took 25 damage!
+
+Turn: 30
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FFfnKhQ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MNunoPo         4         6     75    16
+2          MdPV            3         4     50    14
+3          UIdnFSnX        3         4     50    14
+4          FFfnKhQ         2         6     25    12
+5          aii             2         4     25    12
+6          fVfNiJQlHGCaB   2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: fVfNiJQlHGCaB, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fVfNiJQlHGCaB lost the encounter and took 25 damage!
+
+Turn: 32
+Player: MdPV, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: UIdnFSnX, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UIdnFSnX lost the encounter and took 25 damage!
+
+Turn: 34
+Player: MNunoPo, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MNunoPo lost the encounter and took 25 damage!
+
+Turn: 35
+Player: aii, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+aii won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FFfnKhQ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MNunoPo         4         6     50    16
+2          MdPV            4         4     50    16
+3          FFfnKhQ         3         6     25    14
+4          UIdnFSnX        3         4     25    14
+5          aii             3         4     25    14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: MdPV, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: UIdnFSnX, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+UIdnFSnX won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: MNunoPo, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MNunoPo lost the encounter and took 25 damage!
+
+Turn: 40
+Player: aii, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+aii won the encounter, gained 2 coins and leveled up!
+
+Turn: 41
+Player: FFfnKhQ, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FFfnKhQ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            5         4     50    18
+2          MNunoPo         4         6     25    16
+3          UIdnFSnX        4         4     25    16
+4          aii             4         4     25    16
+5          FFfnKhQ         3         6     0     14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 42
+Player: MdPV, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+MdPV won the encounter, gained 5 coins and leveled up!
+
+Turn: 43
+Player: UIdnFSnX, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UIdnFSnX lost the encounter and took 25 damage!
+
+Turn: 44
+Player: MNunoPo, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MNunoPo lost the encounter and took 25 damage!
+
+Turn: 45
+Player: aii, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+aii won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            6         4     50    23
+2          aii             5         4     25    18
+3          MNunoPo         4         6     0     16
+4          UIdnFSnX        4         4     0     16
+5          FFfnKhQ         3         6     0     14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 46
+Player: MdPV, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 47
+Player: aii, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+aii won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            7         4     50    25
+2          aii             6         4     25    23
+3          MNunoPo         4         6     0     16
+4          UIdnFSnX        4         4     0     16
+5          FFfnKhQ         3         6     0     14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 48
+Player: MdPV, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 49
+Player: aii, Warrior with Responsible behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+aii won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            8         4     50    27
+2          aii             7         4     25    25
+3          MNunoPo         4         6     0     16
+4          UIdnFSnX        4         4     0     16
+5          FFfnKhQ         3         6     0     14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 50
+Player: MdPV, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+MdPV won the encounter, gained 2 coins and leveled up!
+
+Turn: 51
+Player: aii, Warrior with Responsible behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+aii won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            9         4     50    29
+2          aii             8         4     25    30
+3          MNunoPo         4         6     0     16
+4          UIdnFSnX        4         4     0     16
+5          FFfnKhQ         3         6     0     14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 52
+Player: MdPV, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+MdPV won the encounter, gained 5 coins and leveled up!
+
+Turn: 53
+Player: aii, Warrior with Responsible behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+aii won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MdPV            10        4     50    34
+2          aii             9         4     25    35
+3          MNunoPo         4         6     0     16
+4          UIdnFSnX        4         4     0     16
+5          FFfnKhQ         3         6     0     14
+6          fVfNiJQlHGCaB   2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: MdPV
+Congratulations!
+

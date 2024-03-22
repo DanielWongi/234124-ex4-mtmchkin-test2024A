@@ -1,0 +1,368 @@
+Game is about to start!
+These are the players:
+
+1. GeQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. tsQJX, Warrior with RiskTaking behavior (level 1, force 5)
+3. ZoSTK, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: GeQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+GeQ was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: tsQJX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+tsQJX was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+ZoSTK bought 0 potions!
+
+Turn: 4
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+FTZfLvyesWfZfY bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  1         5     100   10
+2          GeQ             1         6     100   10
+3          ZoSTK           1         5     100   10
+4          tsQJX           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: GeQ, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+GeQ was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: tsQJX, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+tsQJX bought 0 potions!
+
+Turn: 7
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZoSTK lost the encounter and took 25 damage!
+
+Turn: 8
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FTZfLvyesWfZfY won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  2         5     100   12
+2          GeQ             1         7     100   10
+3          ZoSTK           1         5     75    10
+4          tsQJX           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: GeQ, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+GeQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: tsQJX, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+tsQJX lost the encounter and took 25 damage!
+
+Turn: 11
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FTZfLvyesWfZfY lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  2         5     75    12
+2          GeQ             2         7     100   12
+3          ZoSTK           2         5     75    12
+4          tsQJX           1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: GeQ, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+GeQ lost the encounter and took 25 damage!
+
+Turn: 14
+Player: tsQJX, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+tsQJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FTZfLvyesWfZfY won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  3         5     75    14
+2          ZoSTK           3         5     75    14
+3          GeQ             2         7     75    12
+4          tsQJX           2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: GeQ, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+GeQ lost the encounter and took 25 damage!
+
+Turn: 18
+Player: tsQJX, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+tsQJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZoSTK lost the encounter and took 25 damage!
+
+Turn: 20
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FTZfLvyesWfZfY won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  4         5     75    16
+2          ZoSTK           3         5     50    14
+3          tsQJX           3         4     75    14
+4          GeQ             2         7     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: GeQ, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+GeQ lost the encounter and took 25 damage!
+
+Turn: 22
+Player: tsQJX, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+tsQJX lost the encounter and took 25 damage!
+
+Turn: 23
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FTZfLvyesWfZfY lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  4         5     50    16
+2          ZoSTK           4         5     50    16
+3          tsQJX           3         4     50    14
+4          GeQ             2         7     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: GeQ, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+GeQ lost the encounter and took 25 damage!
+
+Turn: 26
+Player: tsQJX, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+tsQJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FTZfLvyesWfZfY won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  5         5     50    18
+2          ZoSTK           5         5     50    18
+3          tsQJX           4         4     50    16
+4          GeQ             2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: tsQJX, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+tsQJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FTZfLvyesWfZfY won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  6         5     50    20
+2          ZoSTK           6         5     50    20
+3          tsQJX           5         4     50    18
+4          GeQ             2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: tsQJX, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+tsQJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FTZfLvyesWfZfY won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FTZfLvyesWfZfY  7         5     50    22
+2          ZoSTK           7         5     50    22
+3          tsQJX           6         4     50    20
+4          GeQ             2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: tsQJX, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+tsQJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FTZfLvyesWfZfY lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZoSTK           8         5     50    24
+2          FTZfLvyesWfZfY  7         5     25    22
+3          tsQJX           7         4     50    22
+4          GeQ             2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 38
+Player: tsQJX, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+tsQJX won the encounter, gained 5 coins and leveled up!
+
+Turn: 39
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZoSTK won the encounter, gained 5 coins and leveled up!
+
+Turn: 40
+Player: FTZfLvyesWfZfY, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FTZfLvyesWfZfY lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZoSTK           9         5     50    29
+2          tsQJX           8         4     50    27
+3          FTZfLvyesWfZfY  7         5     0     22
+4          GeQ             2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: tsQJX, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+tsQJX won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: ZoSTK, Sorcerer with RiskTaking behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZoSTK won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZoSTK           10        5     50    31
+2          tsQJX           9         4     50    32
+3          FTZfLvyesWfZfY  7         5     0     22
+4          GeQ             2         7     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: ZoSTK
+Congratulations!
+

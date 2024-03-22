@@ -1,0 +1,319 @@
+Game is about to start!
+These are the players:
+
+1. WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 5)
+2. wxIsQVxh, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. etGAddbde, Warrior with RiskTaking behavior (level 1, force 5)
+4. qRALgLiW, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+WmCKCiaFOKUZzF was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+wxIsQVxh was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: etGAddbde, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+etGAddbde was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+qRALgLiW was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WmCKCiaFOKUZzF  1         4     100   10
+2          etGAddbde       1         4     100   10
+3          qRALgLiW        1         4     100   10
+4          wxIsQVxh        1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+WmCKCiaFOKUZzF was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+wxIsQVxh was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: etGAddbde, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qRALgLiW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       2         4     100   12
+2          qRALgLiW        2         4     100   12
+3          WmCKCiaFOKUZzF  1         3     100   10
+4          wxIsQVxh        1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WmCKCiaFOKUZzF lost the encounter and took 25 damage!
+
+Turn: 10
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+wxIsQVxh won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: etGAddbde, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qRALgLiW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       3         4     100   14
+2          qRALgLiW        3         4     100   14
+3          wxIsQVxh        2         7     100   12
+4          WmCKCiaFOKUZzF  1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WmCKCiaFOKUZzF lost the encounter and took 25 damage!
+
+Turn: 14
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+wxIsQVxh lost the encounter and took 25 damage!
+
+Turn: 15
+Player: etGAddbde, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qRALgLiW lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       4         4     100   16
+2          qRALgLiW        3         4     75    14
+3          wxIsQVxh        2         7     75    12
+4          WmCKCiaFOKUZzF  1         3     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WmCKCiaFOKUZzF lost the encounter and took 25 damage!
+
+Turn: 18
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+wxIsQVxh won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: etGAddbde, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qRALgLiW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       5         4     100   18
+2          qRALgLiW        4         4     75    16
+3          wxIsQVxh        3         7     75    14
+4          WmCKCiaFOKUZzF  1         3     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WmCKCiaFOKUZzF won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+wxIsQVxh won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: etGAddbde, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qRALgLiW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       6         4     100   20
+2          qRALgLiW        5         4     75    18
+3          wxIsQVxh        4         7     75    16
+4          WmCKCiaFOKUZzF  2         3     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: WmCKCiaFOKUZzF, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WmCKCiaFOKUZzF lost the encounter and took 25 damage!
+
+Turn: 26
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+wxIsQVxh won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: etGAddbde, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qRALgLiW won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       7         4     100   22
+2          qRALgLiW        6         4     75    23
+3          wxIsQVxh        5         7     75    18
+4          WmCKCiaFOKUZzF  2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 5, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+wxIsQVxh won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: etGAddbde, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+etGAddbde won the encounter, gained 5 coins and leveled up!
+
+Turn: 31
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qRALgLiW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       8         4     100   27
+2          qRALgLiW        7         4     75    25
+3          wxIsQVxh        6         7     75    20
+4          WmCKCiaFOKUZzF  2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 6, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+wxIsQVxh won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: etGAddbde, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qRALgLiW won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       9         4     100   29
+2          qRALgLiW        8         4     75    30
+3          wxIsQVxh        7         7     75    25
+4          WmCKCiaFOKUZzF  2         3     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: wxIsQVxh, Sorcerer with RiskTaking behavior (level 7, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+wxIsQVxh won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: etGAddbde, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+etGAddbde won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: qRALgLiW, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qRALgLiW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          etGAddbde       10        4     100   31
+2          qRALgLiW        9         4     75    32
+3          wxIsQVxh        8         7     75    27
+4          WmCKCiaFOKUZzF  2         3     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: etGAddbde
+Congratulations!
+

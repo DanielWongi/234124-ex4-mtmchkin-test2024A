@@ -1,0 +1,396 @@
+Game is about to start!
+These are the players:
+
+1. FnQxjFfhwi, Sorcerer with Responsible behavior (level 1, force 5)
+2. MFDTaR, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. mhTc, Warrior with RiskTaking behavior (level 1, force 5)
+4. XbmWgAvHvbd, Warrior with RiskTaking behavior (level 1, force 5)
+5. gMhLl, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+FnQxjFfhwi was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+MFDTaR was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: mhTc, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+mhTc was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+XbmWgAvHvbd was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: gMhLl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+gMhLl bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FnQxjFfhwi      1         6     100   10
+2          MFDTaR          1         6     100   10
+3          XbmWgAvHvbd     1         4     100   10
+4          gMhLl           1         5     100   10
+5          mhTc            1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+FnQxjFfhwi was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: mhTc, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+mhTc lost the encounter and took 25 damage!
+
+Turn: 9
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XbmWgAvHvbd lost the encounter and took 25 damage!
+
+Turn: 10
+Player: gMhLl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+gMhLl lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          2         6     100   12
+2          FnQxjFfhwi      1         7     100   10
+3          XbmWgAvHvbd     1         4     75    10
+4          gMhLl           1         5     75    10
+5          mhTc            1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+FnQxjFfhwi won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: mhTc, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+mhTc won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XbmWgAvHvbd won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: gMhLl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+gMhLl won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          3         6     100   14
+2          FnQxjFfhwi      2         7     100   12
+3          XbmWgAvHvbd     2         4     75    12
+4          gMhLl           2         5     75    12
+5          mhTc            2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+FnQxjFfhwi lost the encounter and took 25 damage!
+
+Turn: 17
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MFDTaR lost the encounter and took 25 damage!
+
+Turn: 18
+Player: mhTc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+mhTc lost the encounter and took 25 damage!
+
+Turn: 19
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XbmWgAvHvbd won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: gMhLl, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+gMhLl lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          3         6     75    14
+2          XbmWgAvHvbd     3         4     75    14
+3          FnQxjFfhwi      2         7     75    12
+4          gMhLl           2         5     50    12
+5          mhTc            2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+FnQxjFfhwi won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: mhTc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+mhTc lost the encounter and took 25 damage!
+
+Turn: 24
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XbmWgAvHvbd won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: gMhLl, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+gMhLl lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          4         6     75    16
+2          XbmWgAvHvbd     4         4     75    16
+3          FnQxjFfhwi      3         7     75    14
+4          gMhLl           2         5     25    12
+5          mhTc            2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+FnQxjFfhwi lost the encounter and took 25 damage!
+
+Turn: 27
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MFDTaR lost the encounter and took 25 damage!
+
+Turn: 28
+Player: mhTc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+mhTc lost the encounter and took 25 damage!
+
+Turn: 29
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XbmWgAvHvbd lost the encounter and took 25 damage!
+
+Turn: 30
+Player: gMhLl, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+gMhLl lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          4         6     50    16
+2          XbmWgAvHvbd     4         4     50    16
+3          FnQxjFfhwi      3         7     50    14
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+FnQxjFfhwi won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XbmWgAvHvbd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          5         6     50    18
+2          XbmWgAvHvbd     5         4     50    18
+3          FnQxjFfhwi      4         7     50    16
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+FnQxjFfhwi lost the encounter and took 25 damage!
+
+Turn: 35
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XbmWgAvHvbd won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XbmWgAvHvbd     6         4     50    23
+2          MFDTaR          6         6     50    20
+3          FnQxjFfhwi      4         7     25    16
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: FnQxjFfhwi, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+FnQxjFfhwi lost the encounter and took 25 damage!
+
+Turn: 38
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XbmWgAvHvbd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XbmWgAvHvbd     7         4     50    25
+2          MFDTaR          7         6     50    22
+3          FnQxjFfhwi      4         7     0     16
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MFDTaR won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XbmWgAvHvbd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          8         6     50    27
+2          XbmWgAvHvbd     8         4     50    27
+3          FnQxjFfhwi      4         7     0     16
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 42
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+MFDTaR won the encounter, gained 5 coins and leveled up!
+
+Turn: 43
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XbmWgAvHvbd won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MFDTaR          9         6     50    32
+2          XbmWgAvHvbd     9         4     50    32
+3          FnQxjFfhwi      4         7     0     16
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 44
+Player: MFDTaR, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+MFDTaR won the encounter, gained 2 coins and leveled up!
+
+Turn: 45
+Player: XbmWgAvHvbd, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XbmWgAvHvbd won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XbmWgAvHvbd     10        4     50    37
+2          MFDTaR          10        6     50    34
+3          FnQxjFfhwi      4         7     0     16
+4          gMhLl           2         5     0     12
+5          mhTc            2         4     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: MFDTaR
+Congratulations!
+

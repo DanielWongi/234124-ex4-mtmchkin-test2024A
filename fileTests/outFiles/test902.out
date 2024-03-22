@@ -1,0 +1,272 @@
+Game is about to start!
+These are the players:
+
+1. cXjBitiVeG, Sorcerer with Responsible behavior (level 1, force 5)
+2. KukhUjZ, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+cXjBitiVeG was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: KukhUjZ, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+KukhUjZ was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         1         4     100   10
+2          cXjBitiVeG      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+cXjBitiVeG was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: KukhUjZ, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+KukhUjZ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         1         4     100   10
+2          cXjBitiVeG      1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 1, force 7)
+Card: SolarEclipse
+cXjBitiVeG was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: KukhUjZ, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+KukhUjZ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         1         4     100   10
+2          cXjBitiVeG      1         8     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 1, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: KukhUjZ, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+KukhUjZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         2         4     100   12
+2          cXjBitiVeG      2         8     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 2, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+cXjBitiVeG lost the encounter and took 25 damage!
+
+Turn: 10
+Player: KukhUjZ, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+KukhUjZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         3         4     100   14
+2          cXjBitiVeG      2         8     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 2, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: KukhUjZ, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+KukhUjZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         3         4     75    14
+2          cXjBitiVeG      3         8     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 3, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+cXjBitiVeG lost the encounter and took 25 damage!
+
+Turn: 14
+Player: KukhUjZ, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+KukhUjZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KukhUjZ         3         4     50    14
+2          cXjBitiVeG      3         8     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 3, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: KukhUjZ, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+KukhUjZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      4         8     50    16
+2          KukhUjZ         3         4     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 4, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: KukhUjZ, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+KukhUjZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      5         8     50    18
+2          KukhUjZ         4         4     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 5, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: KukhUjZ, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+KukhUjZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      6         8     50    20
+2          KukhUjZ         4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 6, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+cXjBitiVeG won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      7         8     50    25
+2          KukhUjZ         4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 7, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      8         8     50    27
+2          KukhUjZ         4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 8, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+cXjBitiVeG won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      9         8     50    29
+2          KukhUjZ         4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: cXjBitiVeG, Sorcerer with Responsible behavior (level 9, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+cXjBitiVeG won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cXjBitiVeG      10        8     50    34
+2          KukhUjZ         4         4     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: cXjBitiVeG
+Congratulations!
+

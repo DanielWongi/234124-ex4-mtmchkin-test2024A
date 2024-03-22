@@ -1,0 +1,287 @@
+Game is about to start!
+These are the players:
+
+1. kYCaq, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+kYCaq was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+aMfyoBEsZOuWhu bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  1         5     100   10
+2          kYCaq           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+kYCaq bought 0 potions!
+
+Turn: 4
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+aMfyoBEsZOuWhu was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  1         4     100   10
+2          kYCaq           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+kYCaq bought 0 potions!
+
+Turn: 6
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+aMfyoBEsZOuWhu was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  1         3     100   10
+2          kYCaq           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kYCaq lost the encounter and took 25 damage!
+
+Turn: 8
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  2         3     100   12
+2          kYCaq           1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kYCaq lost the encounter and took 25 damage!
+
+Turn: 10
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  3         3     100   14
+2          kYCaq           1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kYCaq lost the encounter and took 25 damage!
+
+Turn: 12
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+aMfyoBEsZOuWhu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  3         3     75    14
+2          kYCaq           1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kYCaq won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+aMfyoBEsZOuWhu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  3         3     50    14
+2          kYCaq           2         6     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kYCaq won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  4         3     50    16
+2          kYCaq           3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+kYCaq won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  5         3     50    18
+2          kYCaq           4         6     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: kYCaq, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+kYCaq lost the encounter and took 25 damage!
+
+Turn: 20
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+aMfyoBEsZOuWhu lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  5         3     25    18
+2          kYCaq           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  6         3     25    20
+2          kYCaq           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  7         3     25    22
+2          kYCaq           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 7, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+aMfyoBEsZOuWhu won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  8         3     25    27
+2          kYCaq           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 8, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+aMfyoBEsZOuWhu won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  9         3     25    29
+2          kYCaq           4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: aMfyoBEsZOuWhu, Warrior with RiskTaking behavior (level 9, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+aMfyoBEsZOuWhu won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aMfyoBEsZOuWhu  10        3     25    34
+2          kYCaq           4         6     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: aMfyoBEsZOuWhu
+Congratulations!
+

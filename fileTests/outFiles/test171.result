@@ -1,0 +1,81 @@
+Game is about to start!
+These are the players:
+
+1. bCecpbuHCMq, Warrior with Responsible behavior (level 1, force 5)
+2. Drc, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: bCecpbuHCMq, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bCecpbuHCMq won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: Drc, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Drc won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Drc             2         5     100   12
+2          bCecpbuHCMq     2         5     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: bCecpbuHCMq, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+bCecpbuHCMq lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: Drc, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Drc won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Drc             3         5     100   14
+2          bCecpbuHCMq     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: Drc, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Drc lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Drc             3         5     75    14
+2          bCecpbuHCMq     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: Drc, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Drc lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Drc             3         5     0     14
+2          bCecpbuHCMq     2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

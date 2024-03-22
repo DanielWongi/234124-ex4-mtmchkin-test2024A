@@ -1,0 +1,141 @@
+Game is about to start!
+These are the players:
+
+1. RZRMCbwwtjSX, Warrior with Responsible behavior (level 1, force 5)
+2. wNrbe, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. lCNGbRgXhSRfh, Warrior with Responsible behavior (level 1, force 5)
+4. comQvvrJY, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. tCdBRjsgkv, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: RZRMCbwwtjSX, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+RZRMCbwwtjSX bought 0 potions!
+
+Turn: 2
+Player: wNrbe, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+wNrbe was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: lCNGbRgXhSRfh, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+lCNGbRgXhSRfh bought 0 potions!
+
+Turn: 4
+Player: comQvvrJY, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+comQvvrJY bought 0 potions!
+
+Turn: 5
+Player: tCdBRjsgkv, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+tCdBRjsgkv bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RZRMCbwwtjSX    1         5     100   10
+2          comQvvrJY       1         5     100   10
+3          lCNGbRgXhSRfh   1         5     100   10
+4          tCdBRjsgkv      1         5     100   10
+5          wNrbe           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: RZRMCbwwtjSX, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+RZRMCbwwtjSX was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: wNrbe, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+wNrbe lost the encounter and took 20 damage!
+
+Turn: 8
+Player: lCNGbRgXhSRfh, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+lCNGbRgXhSRfh lost the encounter and took 105 damage!
+
+Turn: 9
+Player: comQvvrJY, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 60, loot 25, damage 125)
+comQvvrJY lost the encounter and took 125 damage!
+
+Turn: 10
+Player: tCdBRjsgkv, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+tCdBRjsgkv lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RZRMCbwwtjSX    1         4     100   10
+2          comQvvrJY       1         5     0     10
+3          lCNGbRgXhSRfh   1         5     0     10
+4          tCdBRjsgkv      1         5     65    10
+5          wNrbe           1         6     80    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: RZRMCbwwtjSX, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+RZRMCbwwtjSX lost the encounter and took 45 damage!
+
+Turn: 12
+Player: wNrbe, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+wNrbe lost the encounter and took 45 damage!
+
+Turn: 13
+Player: tCdBRjsgkv, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+tCdBRjsgkv lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RZRMCbwwtjSX    1         4     55    10
+2          comQvvrJY       1         5     0     10
+3          lCNGbRgXhSRfh   1         5     0     10
+4          tCdBRjsgkv      1         5     0     10
+5          wNrbe           1         6     35    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 14
+Player: RZRMCbwwtjSX, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 6 members (power 58, loot 24, damage 120)
+RZRMCbwwtjSX lost the encounter and took 120 damage!
+
+Turn: 15
+Player: wNrbe, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 58, loot 24, damage 120)
+wNrbe lost the encounter and took 120 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RZRMCbwwtjSX    1         4     0     10
+2          comQvvrJY       1         5     0     10
+3          lCNGbRgXhSRfh   1         5     0     10
+4          tCdBRjsgkv      1         5     0     10
+5          wNrbe           1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,211 @@
+Game is about to start!
+These are the players:
+
+1. OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+OfPy bought 0 potions!
+
+Turn: 2
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+nhcuDcNcHyIqpIw was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OfPy            1         5     100   10
+2          nhcuDcNcHyIqpIw 1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+OfPy bought 0 potions!
+
+Turn: 4
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+nhcuDcNcHyIqpIw bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OfPy            1         5     100   10
+2          nhcuDcNcHyIqpIw 1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+OfPy bought 0 potions!
+
+Turn: 6
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+nhcuDcNcHyIqpIw bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OfPy            1         5     100   10
+2          nhcuDcNcHyIqpIw 1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OfPy lost the encounter and took 25 damage!
+
+Turn: 8
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+nhcuDcNcHyIqpIw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nhcuDcNcHyIqpIw 2         4     100   12
+2          OfPy            1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OfPy lost the encounter and took 25 damage!
+
+Turn: 10
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+nhcuDcNcHyIqpIw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nhcuDcNcHyIqpIw 3         4     100   14
+2          OfPy            1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OfPy lost the encounter and took 25 damage!
+
+Turn: 12
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+nhcuDcNcHyIqpIw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nhcuDcNcHyIqpIw 4         4     100   16
+2          OfPy            1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: OfPy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+OfPy won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+nhcuDcNcHyIqpIw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nhcuDcNcHyIqpIw 4         4     75    16
+2          OfPy            2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: OfPy, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+OfPy won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+nhcuDcNcHyIqpIw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nhcuDcNcHyIqpIw 4         4     50    16
+2          OfPy            3         5     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: OfPy, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+OfPy won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+nhcuDcNcHyIqpIw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OfPy            4         5     25    16
+2          nhcuDcNcHyIqpIw 4         4     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: OfPy, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OfPy lost the encounter and took 25 damage!
+
+Turn: 20
+Player: nhcuDcNcHyIqpIw, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+nhcuDcNcHyIqpIw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OfPy            4         5     0     16
+2          nhcuDcNcHyIqpIw 4         4     0     16
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

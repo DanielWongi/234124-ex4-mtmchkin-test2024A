@@ -1,0 +1,277 @@
+Game is about to start!
+These are the players:
+
+1. NNyFXtBTab, Warrior with RiskTaking behavior (level 1, force 5)
+2. IBdMFjVxM, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+NNyFXtBTab bought 0 potions!
+
+Turn: 2
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+IBdMFjVxM bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IBdMFjVxM       1         5     100   10
+2          NNyFXtBTab      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+NNyFXtBTab was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+IBdMFjVxM was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IBdMFjVxM       1         4     100   10
+2          NNyFXtBTab      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+NNyFXtBTab bought 0 potions!
+
+Turn: 6
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+IBdMFjVxM bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IBdMFjVxM       1         4     100   10
+2          NNyFXtBTab      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NNyFXtBTab won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IBdMFjVxM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      2         4     100   12
+2          IBdMFjVxM       1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NNyFXtBTab lost the encounter and took 25 damage!
+
+Turn: 10
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IBdMFjVxM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      2         4     75    12
+2          IBdMFjVxM       1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NNyFXtBTab won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IBdMFjVxM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      3         4     75    14
+2          IBdMFjVxM       2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NNyFXtBTab won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IBdMFjVxM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      4         4     75    16
+2          IBdMFjVxM       2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NNyFXtBTab lost the encounter and took 25 damage!
+
+Turn: 16
+Player: IBdMFjVxM, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IBdMFjVxM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      4         4     50    16
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NNyFXtBTab lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      4         4     25    16
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 18
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NNyFXtBTab won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      5         4     25    18
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NNyFXtBTab won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      6         4     25    23
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 20
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NNyFXtBTab won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      7         4     25    28
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NNyFXtBTab won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      8         4     25    30
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+NNyFXtBTab won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      9         4     25    32
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: NNyFXtBTab, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+NNyFXtBTab won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NNyFXtBTab      10        4     25    37
+2          IBdMFjVxM       2         4     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: NNyFXtBTab
+Congratulations!
+

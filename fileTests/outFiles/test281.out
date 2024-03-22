@@ -1,0 +1,81 @@
+Game is about to start!
+These are the players:
+
+1. PVMi, Warrior with RiskTaking behavior (level 1, force 5)
+2. whpv, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: PVMi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+PVMi won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: whpv, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+whpv won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PVMi            2         5     100   12
+2          whpv            2         5     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: PVMi, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+PVMi lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: whpv, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+whpv won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          whpv            3         5     100   14
+2          PVMi            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: whpv, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+whpv won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          whpv            4         5     100   16
+2          PVMi            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: whpv, Warrior with Responsible behavior (level 4, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+whpv lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          whpv            4         5     0     16
+2          PVMi            2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

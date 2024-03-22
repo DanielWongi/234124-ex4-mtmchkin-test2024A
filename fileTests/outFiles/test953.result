@@ -1,0 +1,346 @@
+Game is about to start!
+These are the players:
+
+1. afowHrToCK, Sorcerer with Responsible behavior (level 1, force 5)
+2. qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 1, force 5)
+3. KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. GEta, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+afowHrToCK bought 0 potions!
+
+Turn: 2
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+qbOJPszNVEFWSY was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+KKCyZNryrZlU bought 0 potions!
+
+Turn: 4
+Player: GEta, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+GEta bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            1         5     100   10
+2          KKCyZNryrZlU    1         5     100   10
+3          afowHrToCK      1         5     100   10
+4          qbOJPszNVEFWSY  1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+afowHrToCK was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+qbOJPszNVEFWSY was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: GEta, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            2         5     100   12
+2          KKCyZNryrZlU    2         5     100   12
+3          afowHrToCK      1         6     100   10
+4          qbOJPszNVEFWSY  1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+afowHrToCK lost the encounter and took 25 damage!
+
+Turn: 10
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+qbOJPszNVEFWSY won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: GEta, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GEta lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KKCyZNryrZlU    3         5     100   14
+2          GEta            2         5     75    12
+3          qbOJPszNVEFWSY  2         3     100   12
+4          afowHrToCK      1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+afowHrToCK lost the encounter and took 25 damage!
+
+Turn: 14
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+qbOJPszNVEFWSY won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: GEta, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KKCyZNryrZlU    4         5     100   16
+2          GEta            3         5     75    14
+3          qbOJPszNVEFWSY  3         3     100   14
+4          afowHrToCK      1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+afowHrToCK won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+qbOJPszNVEFWSY won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KKCyZNryrZlU lost the encounter and took 25 damage!
+
+Turn: 20
+Player: GEta, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            4         5     75    16
+2          KKCyZNryrZlU    4         5     75    16
+3          qbOJPszNVEFWSY  4         3     100   16
+4          afowHrToCK      2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+afowHrToCK lost the encounter and took 25 damage!
+
+Turn: 22
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+qbOJPszNVEFWSY won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: GEta, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            5         5     75    18
+2          KKCyZNryrZlU    5         5     75    18
+3          qbOJPszNVEFWSY  5         3     100   18
+4          afowHrToCK      2         6     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: afowHrToCK, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+afowHrToCK lost the encounter and took 25 damage!
+
+Turn: 26
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+qbOJPszNVEFWSY lost the encounter and took 25 damage!
+
+Turn: 27
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: GEta, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            6         5     75    20
+2          KKCyZNryrZlU    6         5     75    20
+3          qbOJPszNVEFWSY  5         3     75    18
+4          afowHrToCK      2         6     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+qbOJPszNVEFWSY won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: GEta, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GEta won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            7         5     75    25
+2          KKCyZNryrZlU    7         5     75    22
+3          qbOJPszNVEFWSY  6         3     75    20
+4          afowHrToCK      2         6     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+qbOJPszNVEFWSY won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: GEta, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            8         5     75    27
+2          KKCyZNryrZlU    8         5     75    24
+3          qbOJPszNVEFWSY  7         3     75    22
+4          afowHrToCK      2         6     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 7, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+qbOJPszNVEFWSY won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: GEta, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+GEta won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            9         5     75    29
+2          KKCyZNryrZlU    9         5     75    26
+3          qbOJPszNVEFWSY  8         3     75    27
+4          afowHrToCK      2         6     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 38
+Player: qbOJPszNVEFWSY, Warrior with RiskTaking behavior (level 8, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+qbOJPszNVEFWSY won the encounter, gained 5 coins and leveled up!
+
+Turn: 39
+Player: KKCyZNryrZlU, Sorcerer with RiskTaking behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KKCyZNryrZlU won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: GEta, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+GEta won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GEta            10        5     75    34
+2          KKCyZNryrZlU    10        5     75    28
+3          qbOJPszNVEFWSY  9         3     75    32
+4          afowHrToCK      2         6     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: KKCyZNryrZlU
+Congratulations!
+

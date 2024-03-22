@@ -1,0 +1,161 @@
+Game is about to start!
+These are the players:
+
+1. FKROE, Warrior with RiskTaking behavior (level 1, force 5)
+2. dfevFnO, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: FKROE, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+FKROE was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: dfevFnO, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+dfevFnO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         2         5     100   12
+2          FKROE           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: FKROE, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+FKROE won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: dfevFnO, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+dfevFnO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         3         5     100   14
+2          FKROE           2         4     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: FKROE, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+FKROE lost the encounter and took 25 damage!
+
+Turn: 6
+Player: dfevFnO, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+dfevFnO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         4         5     100   16
+2          FKROE           2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: FKROE, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+FKROE lost the encounter and took 25 damage!
+
+Turn: 8
+Player: dfevFnO, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+dfevFnO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         5         5     100   18
+2          FKROE           2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: FKROE, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+FKROE lost the encounter and took 25 damage!
+
+Turn: 10
+Player: dfevFnO, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Gang of 4 members (power 34, loot 14, damage 70)
+dfevFnO lost the encounter and took 70 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         5         5     30    18
+2          FKROE           2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: FKROE, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Gang of 5 members (power 172, loot 71, damage 355)
+FKROE lost the encounter and took 355 damage!
+
+Turn: 12
+Player: dfevFnO, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+dfevFnO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         6         5     30    20
+2          FKROE           2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: dfevFnO, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+dfevFnO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         6         5     5     20
+2          FKROE           2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 14
+Player: dfevFnO, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+dfevFnO lost the encounter and took 95 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          dfevFnO         6         5     0     20
+2          FKROE           2         4     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

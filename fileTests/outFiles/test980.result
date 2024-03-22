@@ -1,0 +1,292 @@
+Game is about to start!
+These are the players:
+
+1. xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 1, force 5)
+2. XxoJoPjp, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+xcQuMiUkktqcq bought 0 potions!
+
+Turn: 2
+Player: XxoJoPjp, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+XxoJoPjp bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        1         5     100   10
+2          xcQuMiUkktqcq   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+xcQuMiUkktqcq was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: XxoJoPjp, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+XxoJoPjp was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        1         4     100   10
+2          xcQuMiUkktqcq   1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+xcQuMiUkktqcq bought 0 potions!
+
+Turn: 6
+Player: XxoJoPjp, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+XxoJoPjp bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        1         4     100   10
+2          xcQuMiUkktqcq   1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: XxoJoPjp, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        2         4     100   12
+2          xcQuMiUkktqcq   2         6     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: XxoJoPjp, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        3         4     100   14
+2          xcQuMiUkktqcq   3         6     100   14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xcQuMiUkktqcq lost the encounter and took 25 damage!
+
+Turn: 12
+Player: XxoJoPjp, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XxoJoPjp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        3         4     75    14
+2          xcQuMiUkktqcq   3         6     75    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: XxoJoPjp, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XxoJoPjp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xcQuMiUkktqcq   4         6     75    16
+2          XxoJoPjp        3         4     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: XxoJoPjp, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xcQuMiUkktqcq   5         6     75    18
+2          XxoJoPjp        4         4     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: XxoJoPjp, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xcQuMiUkktqcq   6         6     75    20
+2          XxoJoPjp        5         4     50    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xcQuMiUkktqcq lost the encounter and took 25 damage!
+
+Turn: 20
+Player: XxoJoPjp, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XxoJoPjp won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        6         4     50    23
+2          xcQuMiUkktqcq   6         6     50    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: XxoJoPjp, Warrior with Responsible behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        7         4     50    25
+2          xcQuMiUkktqcq   7         6     50    22
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: XxoJoPjp, Warrior with Responsible behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        8         4     50    27
+2          xcQuMiUkktqcq   8         6     50    24
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+xcQuMiUkktqcq won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: XxoJoPjp, Warrior with Responsible behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+XxoJoPjp won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        9         4     50    32
+2          xcQuMiUkktqcq   9         6     50    26
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: xcQuMiUkktqcq, Sorcerer with Responsible behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xcQuMiUkktqcq won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: XxoJoPjp, Warrior with Responsible behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+XxoJoPjp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XxoJoPjp        10        4     50    34
+2          xcQuMiUkktqcq   10        6     50    31
+
+----------------------------------------
+
+Game is over!
+The winner is: xcQuMiUkktqcq
+Congratulations!
+

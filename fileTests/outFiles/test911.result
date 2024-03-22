@@ -1,0 +1,106 @@
+Game is about to start!
+These are the players:
+
+1. TXj, Sorcerer with Responsible behavior (level 1, force 5)
+2. AbWgdmPTiky, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: TXj, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+TXj bought 0 potions!
+
+Turn: 2
+Player: AbWgdmPTiky, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+AbWgdmPTiky bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AbWgdmPTiky     1         5     100   10
+2          TXj             1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: TXj, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+TXj bought 0 potions!
+
+Turn: 4
+Player: AbWgdmPTiky, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+AbWgdmPTiky bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AbWgdmPTiky     1         5     100   10
+2          TXj             1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: TXj, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+TXj was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: AbWgdmPTiky, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+AbWgdmPTiky was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AbWgdmPTiky     1         6     100   10
+2          TXj             1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: TXj, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+TXj lost the encounter and took 105 damage!
+
+Turn: 8
+Player: AbWgdmPTiky, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+AbWgdmPTiky lost the encounter and took 45 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AbWgdmPTiky     1         6     55    10
+2          TXj             1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: AbWgdmPTiky, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+AbWgdmPTiky lost the encounter and took 80 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AbWgdmPTiky     1         6     0     10
+2          TXj             1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,146 @@
+Game is about to start!
+These are the players:
+
+1. RFojwFUiaZhd, Warrior with RiskTaking behavior (level 1, force 5)
+2. cwLEL, Sorcerer with Responsible behavior (level 1, force 5)
+3. wRkmjSbcoWR, Sorcerer with Responsible behavior (level 1, force 5)
+4. ZvA, Warrior with Responsible behavior (level 1, force 5)
+5. yARkzkr, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: RFojwFUiaZhd, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+RFojwFUiaZhd bought 0 potions!
+
+Turn: 2
+Player: cwLEL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cwLEL won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: wRkmjSbcoWR, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+wRkmjSbcoWR lost the encounter and took 25 damage!
+
+Turn: 4
+Player: ZvA, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZvA won the encounter, gained 2 coins and leveled up!
+
+Turn: 5
+Player: yARkzkr, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+yARkzkr lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZvA             2         5     100   12
+2          cwLEL           2         5     100   12
+3          RFojwFUiaZhd    1         5     100   10
+4          wRkmjSbcoWR     1         5     75    10
+5          yARkzkr         1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: RFojwFUiaZhd, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+RFojwFUiaZhd lost the encounter and took 9001 damage!
+
+Turn: 7
+Player: cwLEL, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cwLEL won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: wRkmjSbcoWR, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+wRkmjSbcoWR won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: ZvA, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZvA lost the encounter and took 25 damage!
+
+Turn: 10
+Player: yARkzkr, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+yARkzkr lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cwLEL           3         5     100   14
+2          ZvA             2         5     75    12
+3          wRkmjSbcoWR     2         5     75    12
+4          RFojwFUiaZhd    1         5     0     10
+5          yARkzkr         1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: cwLEL, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Gang of 6 members (power 80, loot 126, damage 9131)
+cwLEL lost the encounter and took 9131 damage!
+
+Turn: 12
+Player: wRkmjSbcoWR, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+wRkmjSbcoWR lost the encounter and took 25 damage!
+
+Turn: 13
+Player: ZvA, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ZvA lost the encounter and took 9001 damage!
+
+Turn: 14
+Player: yARkzkr, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+yARkzkr lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cwLEL           3         5     0     14
+2          ZvA             2         5     0     12
+3          wRkmjSbcoWR     2         5     50    12
+4          RFojwFUiaZhd    1         5     0     10
+5          yARkzkr         1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: wRkmjSbcoWR, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 87, loot 222, damage 18112)
+wRkmjSbcoWR lost the encounter and took 18112 damage!
+
+Turn: 16
+Player: yARkzkr, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+yARkzkr lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cwLEL           3         5     0     14
+2          ZvA             2         5     0     12
+3          wRkmjSbcoWR     2         5     0     12
+4          RFojwFUiaZhd    1         5     0     10
+5          yARkzkr         1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

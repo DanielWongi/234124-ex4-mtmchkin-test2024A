@@ -1,0 +1,272 @@
+Game is about to start!
+These are the players:
+
+1. YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+2. CpbsBt, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+YkAm bought 0 potions!
+
+Turn: 2
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+CpbsBt was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpbsBt          1         6     100   10
+2          YkAm            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+YkAm bought 0 potions!
+
+Turn: 4
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+CpbsBt was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpbsBt          1         7     100   10
+2          YkAm            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+YkAm bought 0 potions!
+
+Turn: 6
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 7)
+Card: PotionsMerchant
+CpbsBt bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpbsBt          1         7     100   10
+2          YkAm            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm lost the encounter and took 25 damage!
+
+Turn: 8
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+CpbsBt lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpbsBt          1         7     75    10
+2          YkAm            1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm lost the encounter and took 25 damage!
+
+Turn: 10
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+CpbsBt lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpbsBt          1         7     50    10
+2          YkAm            1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: YkAm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+YkAm won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+CpbsBt lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            2         5     50    12
+2          CpbsBt          1         7     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: YkAm, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm lost the encounter and took 25 damage!
+
+Turn: 14
+Player: CpbsBt, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+CpbsBt lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            2         5     25    12
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: YkAm, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+YkAm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            3         5     25    14
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: YkAm, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            4         5     25    19
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: YkAm, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            5         5     25    24
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 18
+Player: YkAm, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            6         5     25    29
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: YkAm, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+YkAm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            7         5     25    31
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 20
+Player: YkAm, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+YkAm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            8         5     25    33
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: YkAm, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+YkAm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            9         5     25    38
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: YkAm, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+YkAm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YkAm            10        5     25    40
+2          CpbsBt          1         7     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: YkAm
+Congratulations!
+

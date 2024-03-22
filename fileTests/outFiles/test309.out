@@ -1,0 +1,91 @@
+Game is about to start!
+These are the players:
+
+1. pQsBRGViFx, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. TIcncWaG, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: pQsBRGViFx, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+pQsBRGViFx lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: TIcncWaG, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+TIcncWaG won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TIcncWaG        2         5     100   12
+2          pQsBRGViFx      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: TIcncWaG, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+TIcncWaG lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TIcncWaG        2         5     65    12
+2          pQsBRGViFx      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: TIcncWaG, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+TIcncWaG lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TIcncWaG        2         5     5     12
+2          pQsBRGViFx      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: TIcncWaG, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+TIcncWaG won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TIcncWaG        3         5     5     14
+2          pQsBRGViFx      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: TIcncWaG, Warrior with Responsible behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+TIcncWaG lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TIcncWaG        3         5     0     14
+2          pQsBRGViFx      1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

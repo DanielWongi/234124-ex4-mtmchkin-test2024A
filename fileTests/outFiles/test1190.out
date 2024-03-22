@@ -1,0 +1,450 @@
+Game is about to start!
+These are the players:
+
+1. AHzDVx, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. tDXOkNg, Sorcerer with Responsible behavior (level 1, force 5)
+3. wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 1, force 5)
+4. TUVENq, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. deNLMGTmMH, Warrior with RiskTaking behavior (level 1, force 5)
+6. Xdgol, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: AHzDVx, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+AHzDVx bought 0 potions!
+
+Turn: 2
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+tDXOkNg was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+wNyfKJiFVjlk was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+TUVENq was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+deNLMGTmMH bought 0 potions!
+
+Turn: 6
+Player: Xdgol, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+Xdgol bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AHzDVx          1         5     100   10
+2          TUVENq          1         6     100   10
+3          Xdgol           1         5     100   10
+4          deNLMGTmMH      1         5     100   10
+5          tDXOkNg         1         6     100   10
+6          wNyfKJiFVjlk    1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: AHzDVx, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AHzDVx lost the encounter and took 25 damage!
+
+Turn: 8
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+tDXOkNg lost the encounter and took 25 damage!
+
+Turn: 9
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wNyfKJiFVjlk lost the encounter and took 25 damage!
+
+Turn: 10
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+TUVENq lost the encounter and took 25 damage!
+
+Turn: 11
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+deNLMGTmMH lost the encounter and took 25 damage!
+
+Turn: 12
+Player: Xdgol, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Xdgol           2         5     100   12
+2          AHzDVx          1         5     75    10
+3          TUVENq          1         6     75    10
+4          deNLMGTmMH      1         5     75    10
+5          tDXOkNg         1         6     75    10
+6          wNyfKJiFVjlk    1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: AHzDVx, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AHzDVx lost the encounter and took 25 damage!
+
+Turn: 14
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+wNyfKJiFVjlk won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+deNLMGTmMH won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: Xdgol, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Xdgol lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TUVENq          2         6     75    12
+2          Xdgol           2         5     75    12
+3          deNLMGTmMH      2         5     75    12
+4          tDXOkNg         2         6     75    12
+5          wNyfKJiFVjlk    2         6     75    12
+6          AHzDVx          1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: AHzDVx, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AHzDVx lost the encounter and took 25 damage!
+
+Turn: 20
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wNyfKJiFVjlk lost the encounter and took 25 damage!
+
+Turn: 22
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+deNLMGTmMH won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: Xdgol, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TUVENq          3         6     75    14
+2          Xdgol           3         5     75    14
+3          deNLMGTmMH      3         5     75    14
+4          tDXOkNg         3         6     75    14
+5          wNyfKJiFVjlk    2         6     50    12
+6          AHzDVx          1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: AHzDVx, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AHzDVx lost the encounter and took 25 damage!
+
+Turn: 26
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+wNyfKJiFVjlk won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+deNLMGTmMH won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: Xdgol, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TUVENq          4         6     75    16
+2          Xdgol           4         5     75    16
+3          deNLMGTmMH      4         5     75    16
+4          tDXOkNg         4         6     75    16
+5          wNyfKJiFVjlk    3         6     50    14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wNyfKJiFVjlk lost the encounter and took 25 damage!
+
+Turn: 33
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+TUVENq lost the encounter and took 25 damage!
+
+Turn: 34
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+deNLMGTmMH won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: Xdgol, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Xdgol           5         5     75    18
+2          deNLMGTmMH      5         5     75    18
+3          tDXOkNg         5         6     75    18
+4          TUVENq          4         6     50    16
+5          wNyfKJiFVjlk    3         6     25    14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: wNyfKJiFVjlk, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+wNyfKJiFVjlk lost the encounter and took 25 damage!
+
+Turn: 38
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+deNLMGTmMH won the encounter, gained 5 coins and leveled up!
+
+Turn: 40
+Player: Xdgol, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Xdgol won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Xdgol           6         5     75    23
+2          deNLMGTmMH      6         5     75    23
+3          tDXOkNg         6         6     75    20
+4          TUVENq          5         6     50    18
+5          wNyfKJiFVjlk    3         6     0     14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 42
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 43
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+deNLMGTmMH won the encounter, gained 5 coins and leveled up!
+
+Turn: 44
+Player: Xdgol, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          deNLMGTmMH      7         5     75    28
+2          Xdgol           7         5     75    25
+3          tDXOkNg         7         6     75    22
+4          TUVENq          6         6     50    20
+5          wNyfKJiFVjlk    3         6     0     14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+tDXOkNg won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+TUVENq lost the encounter and took 25 damage!
+
+Turn: 47
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+deNLMGTmMH won the encounter, gained 2 coins and leveled up!
+
+Turn: 48
+Player: Xdgol, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          deNLMGTmMH      8         5     75    30
+2          Xdgol           8         5     75    27
+3          tDXOkNg         8         6     75    27
+4          TUVENq          6         6     25    20
+5          wNyfKJiFVjlk    3         6     0     14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 49
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+tDXOkNg won the encounter, gained 5 coins and leveled up!
+
+Turn: 50
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 51
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+deNLMGTmMH won the encounter, gained 2 coins and leveled up!
+
+Turn: 52
+Player: Xdgol, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Xdgol won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          deNLMGTmMH      9         5     75    32
+2          tDXOkNg         9         6     75    32
+3          Xdgol           9         5     75    29
+4          TUVENq          7         6     25    22
+5          wNyfKJiFVjlk    3         6     0     14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 53
+Player: tDXOkNg, Sorcerer with Responsible behavior (level 9, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+tDXOkNg won the encounter, gained 2 coins and leveled up!
+
+Turn: 54
+Player: TUVENq, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+TUVENq won the encounter, gained 2 coins and leveled up!
+
+Turn: 55
+Player: deNLMGTmMH, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+deNLMGTmMH won the encounter, gained 5 coins and leveled up!
+
+Turn: 56
+Player: Xdgol, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Xdgol won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          deNLMGTmMH      10        5     75    37
+2          Xdgol           10        5     75    34
+3          tDXOkNg         10        6     75    34
+4          TUVENq          8         6     25    24
+5          wNyfKJiFVjlk    3         6     0     14
+6          AHzDVx          1         5     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: tDXOkNg
+Congratulations!
+

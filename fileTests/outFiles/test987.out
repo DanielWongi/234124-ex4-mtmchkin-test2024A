@@ -1,0 +1,323 @@
+Game is about to start!
+These are the players:
+
+1. eMvG, Warrior with Responsible behavior (level 1, force 5)
+2. ySEPw, Warrior with RiskTaking behavior (level 1, force 5)
+3. MCiUWYMtrA, Sorcerer with Responsible behavior (level 1, force 5)
+4. VVhsZ, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: eMvG, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+eMvG was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: ySEPw, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ySEPw was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: MCiUWYMtrA, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+MCiUWYMtrA bought 0 potions!
+
+Turn: 4
+Player: VVhsZ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+VVhsZ bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MCiUWYMtrA      1         5     100   10
+2          VVhsZ           1         5     100   10
+3          eMvG            1         4     100   10
+4          ySEPw           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: eMvG, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+eMvG bought 0 potions!
+
+Turn: 6
+Player: ySEPw, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+ySEPw was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: MCiUWYMtrA, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MCiUWYMtrA lost the encounter and took 25 damage!
+
+Turn: 8
+Player: VVhsZ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           2         5     100   12
+2          MCiUWYMtrA      1         5     75    10
+3          eMvG            1         4     100   10
+4          ySEPw           1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: eMvG, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eMvG lost the encounter and took 25 damage!
+
+Turn: 10
+Player: ySEPw, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ySEPw lost the encounter and took 25 damage!
+
+Turn: 11
+Player: MCiUWYMtrA, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+MCiUWYMtrA won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: VVhsZ, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VVhsZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MCiUWYMtrA      2         5     75    12
+2          VVhsZ           2         5     75    12
+3          eMvG            1         4     75    10
+4          ySEPw           1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: eMvG, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eMvG lost the encounter and took 25 damage!
+
+Turn: 14
+Player: ySEPw, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ySEPw lost the encounter and took 25 damage!
+
+Turn: 15
+Player: MCiUWYMtrA, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MCiUWYMtrA lost the encounter and took 25 damage!
+
+Turn: 16
+Player: VVhsZ, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VVhsZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MCiUWYMtrA      2         5     50    12
+2          VVhsZ           2         5     50    12
+3          eMvG            1         4     50    10
+4          ySEPw           1         3     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: eMvG, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eMvG won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: ySEPw, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ySEPw lost the encounter and took 25 damage!
+
+Turn: 19
+Player: MCiUWYMtrA, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MCiUWYMtrA lost the encounter and took 25 damage!
+
+Turn: 20
+Player: VVhsZ, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           3         5     50    14
+2          MCiUWYMtrA      2         5     25    12
+3          eMvG            2         4     50    12
+4          ySEPw           1         3     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: eMvG, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eMvG won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: ySEPw, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ySEPw lost the encounter and took 25 damage!
+
+Turn: 23
+Player: MCiUWYMtrA, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+MCiUWYMtrA lost the encounter and took 25 damage!
+
+Turn: 24
+Player: VVhsZ, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           4         5     50    16
+2          eMvG            3         4     50    14
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: eMvG, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eMvG lost the encounter and took 25 damage!
+
+Turn: 26
+Player: VVhsZ, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           5         5     50    18
+2          eMvG            3         4     25    14
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: eMvG, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eMvG won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: VVhsZ, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           6         5     50    20
+2          eMvG            4         4     25    16
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: eMvG, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eMvG lost the encounter and took 25 damage!
+
+Turn: 30
+Player: VVhsZ, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           7         5     50    22
+2          eMvG            4         4     0     16
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: VVhsZ, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           8         5     50    24
+2          eMvG            4         4     0     16
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: VVhsZ, Sorcerer with Responsible behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           9         5     50    26
+2          eMvG            4         4     0     16
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: VVhsZ, Sorcerer with Responsible behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VVhsZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VVhsZ           10        5     50    28
+2          eMvG            4         4     0     16
+3          MCiUWYMtrA      2         5     0     12
+4          ySEPw           1         3     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: VVhsZ
+Congratulations!
+

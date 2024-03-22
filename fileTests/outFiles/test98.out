@@ -1,0 +1,133 @@
+Game is about to start!
+These are the players:
+
+1. AssuIAauq, Warrior with RiskTaking behavior (level 1, force 5)
+2. lfAUGvpSrCXK, Sorcerer with Responsible behavior (level 1, force 5)
+3. zYGjFBCFLFNvpG, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. VApNqYxTeTZ, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: AssuIAauq, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+AssuIAauq was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: lfAUGvpSrCXK, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+lfAUGvpSrCXK won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: zYGjFBCFLFNvpG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+zYGjFBCFLFNvpG lost the encounter and took 25 damage!
+
+Turn: 4
+Player: VApNqYxTeTZ, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+VApNqYxTeTZ lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          lfAUGvpSrCXK    2         5     100   12
+2          AssuIAauq       1         4     100   10
+3          VApNqYxTeTZ     1         5     0     10
+4          zYGjFBCFLFNvpG  1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: AssuIAauq, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AssuIAauq lost the encounter and took 25 damage!
+
+Turn: 6
+Player: lfAUGvpSrCXK, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 44, loot 111, damage 9056)
+lfAUGvpSrCXK lost the encounter and took 9056 damage!
+
+Turn: 7
+Player: zYGjFBCFLFNvpG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+zYGjFBCFLFNvpG won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          lfAUGvpSrCXK    2         5     0     12
+2          zYGjFBCFLFNvpG  2         5     75    12
+3          AssuIAauq       1         4     75    10
+4          VApNqYxTeTZ     1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: AssuIAauq, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AssuIAauq lost the encounter and took 25 damage!
+
+Turn: 9
+Player: zYGjFBCFLFNvpG, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+zYGjFBCFLFNvpG won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zYGjFBCFLFNvpG  3         5     75    14
+2          lfAUGvpSrCXK    2         5     0     12
+3          AssuIAauq       1         4     50    10
+4          VApNqYxTeTZ     1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: AssuIAauq, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AssuIAauq lost the encounter and took 25 damage!
+
+Turn: 11
+Player: zYGjFBCFLFNvpG, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+zYGjFBCFLFNvpG lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zYGjFBCFLFNvpG  3         5     0     14
+2          lfAUGvpSrCXK    2         5     0     12
+3          AssuIAauq       1         4     25    10
+4          VApNqYxTeTZ     1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: AssuIAauq, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AssuIAauq lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zYGjFBCFLFNvpG  3         5     0     14
+2          lfAUGvpSrCXK    2         5     0     12
+3          AssuIAauq       1         4     0     10
+4          VApNqYxTeTZ     1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

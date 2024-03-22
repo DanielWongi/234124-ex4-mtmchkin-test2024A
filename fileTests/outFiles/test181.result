@@ -1,0 +1,108 @@
+Game is about to start!
+These are the players:
+
+1. QNQeDEfR, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. IPF, Warrior with RiskTaking behavior (level 1, force 5)
+3. bvfJML, Warrior with RiskTaking behavior (level 1, force 5)
+4. HDwDoQfL, Warrior with Responsible behavior (level 1, force 5)
+5. wNmb, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: QNQeDEfR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+QNQeDEfR bought 0 potions!
+
+Turn: 2
+Player: IPF, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IPF won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: bvfJML, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bvfJML lost the encounter and took 25 damage!
+
+Turn: 4
+Player: HDwDoQfL, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HDwDoQfL won the encounter, gained 2 coins and leveled up!
+
+Turn: 5
+Player: wNmb, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+wNmb won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HDwDoQfL        2         5     100   12
+2          IPF             2         5     100   12
+3          wNmb            2         5     100   12
+4          QNQeDEfR        1         5     100   10
+5          bvfJML          1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: QNQeDEfR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QNQeDEfR lost the encounter and took 25 damage!
+
+Turn: 7
+Player: IPF, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 4 members (power 39, loot 109, damage 9046)
+IPF lost the encounter and took 9046 damage!
+
+Turn: 8
+Player: bvfJML, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+bvfJML lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: HDwDoQfL, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+HDwDoQfL lost the encounter and took 9001 damage!
+
+Turn: 10
+Player: wNmb, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+wNmb lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HDwDoQfL        2         5     0     12
+2          IPF             2         5     0     12
+3          wNmb            2         5     0     12
+4          QNQeDEfR        1         5     75    10
+5          bvfJML          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: QNQeDEfR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+QNQeDEfR lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HDwDoQfL        2         5     0     12
+2          IPF             2         5     0     12
+3          wNmb            2         5     0     12
+4          QNQeDEfR        1         5     0     10
+5          bvfJML          1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,132 @@
+Game is about to start!
+These are the players:
+
+1. EJnWmE, Sorcerer with Responsible behavior (level 1, force 5)
+2. ThUhc, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. bPzbU, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: EJnWmE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+EJnWmE bought 0 potions!
+
+Turn: 2
+Player: ThUhc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ThUhc was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: bPzbU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+bPzbU was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EJnWmE          1         5     100   10
+2          ThUhc           1         6     100   10
+3          bPzbU           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: EJnWmE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+EJnWmE was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: ThUhc, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+ThUhc bought 0 potions!
+
+Turn: 6
+Player: bPzbU, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+bPzbU was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EJnWmE          1         6     100   10
+2          ThUhc           1         6     100   10
+3          bPzbU           1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: EJnWmE, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+EJnWmE lost the encounter and took 80 damage!
+
+Turn: 8
+Player: ThUhc, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+ThUhc lost the encounter and took 45 damage!
+
+Turn: 9
+Player: bPzbU, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+bPzbU lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EJnWmE          1         6     20    10
+2          ThUhc           1         6     55    10
+3          bPzbU           1         7     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: EJnWmE, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 4 members (power 48, loot 20, damage 100)
+EJnWmE lost the encounter and took 100 damage!
+
+Turn: 11
+Player: ThUhc, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+ThUhc lost the encounter and took 105 damage!
+
+Turn: 12
+Player: bPzbU, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+bPzbU lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EJnWmE          1         6     0     10
+2          ThUhc           1         6     0     10
+3          bPzbU           1         7     30    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: bPzbU, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+bPzbU lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EJnWmE          1         6     0     10
+2          ThUhc           1         6     0     10
+3          bPzbU           1         7     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

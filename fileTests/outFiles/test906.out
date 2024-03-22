@@ -1,0 +1,132 @@
+Game is about to start!
+These are the players:
+
+1. CkzPgHCQaGEg, Warrior with Responsible behavior (level 1, force 5)
+2. RlrMr, Sorcerer with Responsible behavior (level 1, force 5)
+3. ShPjmFgiFtwTfw, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: CkzPgHCQaGEg, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+CkzPgHCQaGEg bought 0 potions!
+
+Turn: 2
+Player: RlrMr, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+RlrMr bought 0 potions!
+
+Turn: 3
+Player: ShPjmFgiFtwTfw, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+ShPjmFgiFtwTfw was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CkzPgHCQaGEg    1         5     100   10
+2          RlrMr           1         5     100   10
+3          ShPjmFgiFtwTfw  1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: CkzPgHCQaGEg, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+CkzPgHCQaGEg was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: RlrMr, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+RlrMr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: ShPjmFgiFtwTfw, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+ShPjmFgiFtwTfw was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CkzPgHCQaGEg    1         4     100   10
+2          RlrMr           1         6     100   10
+3          ShPjmFgiFtwTfw  1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: CkzPgHCQaGEg, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+CkzPgHCQaGEg lost the encounter and took 45 damage!
+
+Turn: 8
+Player: RlrMr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+RlrMr lost the encounter and took 50 damage!
+
+Turn: 9
+Player: ShPjmFgiFtwTfw, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Gang of 4 members (power 34, loot 14, damage 70)
+ShPjmFgiFtwTfw lost the encounter and took 70 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CkzPgHCQaGEg    1         4     55    10
+2          RlrMr           1         6     50    10
+3          ShPjmFgiFtwTfw  1         7     30    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: CkzPgHCQaGEg, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+CkzPgHCQaGEg lost the encounter and took 60 damage!
+
+Turn: 11
+Player: RlrMr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+RlrMr lost the encounter and took 20 damage!
+
+Turn: 12
+Player: ShPjmFgiFtwTfw, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+ShPjmFgiFtwTfw lost the encounter and took 105 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CkzPgHCQaGEg    1         4     0     10
+2          RlrMr           1         6     30    10
+3          ShPjmFgiFtwTfw  1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: RlrMr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 6 members (power 65, loot 27, damage 135)
+RlrMr lost the encounter and took 135 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CkzPgHCQaGEg    1         4     0     10
+2          RlrMr           1         6     0     10
+3          ShPjmFgiFtwTfw  1         7     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

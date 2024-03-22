@@ -1,0 +1,211 @@
+Game is about to start!
+These are the players:
+
+1. RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 5)
+2. BFCw, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+RhOzgtFDLQ bought 0 potions!
+
+Turn: 2
+Player: BFCw, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+BFCw was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            1         6     100   10
+2          RhOzgtFDLQ      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+RhOzgtFDLQ was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: BFCw, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+BFCw bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            1         6     100   10
+2          RhOzgtFDLQ      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+RhOzgtFDLQ bought 0 potions!
+
+Turn: 6
+Player: BFCw, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+BFCw was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            1         7     100   10
+2          RhOzgtFDLQ      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+RhOzgtFDLQ lost the encounter and took 25 damage!
+
+Turn: 8
+Player: BFCw, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BFCw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            1         7     75    10
+2          RhOzgtFDLQ      1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+RhOzgtFDLQ lost the encounter and took 25 damage!
+
+Turn: 10
+Player: BFCw, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BFCw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            2         7     75    12
+2          RhOzgtFDLQ      1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+RhOzgtFDLQ lost the encounter and took 25 damage!
+
+Turn: 12
+Player: BFCw, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BFCw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            3         7     75    14
+2          RhOzgtFDLQ      1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: RhOzgtFDLQ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+RhOzgtFDLQ lost the encounter and took 25 damage!
+
+Turn: 14
+Player: BFCw, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BFCw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            3         7     50    14
+2          RhOzgtFDLQ      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: BFCw, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BFCw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            3         7     25    14
+2          RhOzgtFDLQ      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: BFCw, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BFCw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            4         7     25    16
+2          RhOzgtFDLQ      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: BFCw, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+BFCw won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            5         7     25    18
+2          RhOzgtFDLQ      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 18
+Player: BFCw, Sorcerer with RiskTaking behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+BFCw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BFCw            5         7     0     18
+2          RhOzgtFDLQ      1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

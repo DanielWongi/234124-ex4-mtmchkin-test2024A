@@ -1,0 +1,338 @@
+Game is about to start!
+These are the players:
+
+1. FqIDkh, Sorcerer with Responsible behavior (level 1, force 5)
+2. MbiGRmAUOAU, Warrior with Responsible behavior (level 1, force 5)
+3. bULGaBtW, Warrior with Responsible behavior (level 1, force 5)
+4. LqKqVM, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: FqIDkh, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+FqIDkh was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+MbiGRmAUOAU was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: bULGaBtW, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+bULGaBtW bought 0 potions!
+
+Turn: 4
+Player: LqKqVM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+LqKqVM bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FqIDkh          1         6     100   10
+2          LqKqVM          1         5     100   10
+3          MbiGRmAUOAU     1         4     100   10
+4          bULGaBtW        1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: FqIDkh, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+FqIDkh bought 0 potions!
+
+Turn: 6
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+MbiGRmAUOAU was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: bULGaBtW, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bULGaBtW lost the encounter and took 25 damage!
+
+Turn: 8
+Player: LqKqVM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+LqKqVM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FqIDkh          1         6     100   10
+2          LqKqVM          1         5     75    10
+3          MbiGRmAUOAU     1         3     100   10
+4          bULGaBtW        1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: FqIDkh, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FqIDkh lost the encounter and took 25 damage!
+
+Turn: 10
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MbiGRmAUOAU won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: bULGaBtW, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bULGaBtW won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: LqKqVM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+LqKqVM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MbiGRmAUOAU     2         3     100   12
+2          bULGaBtW        2         5     75    12
+3          FqIDkh          1         6     75    10
+4          LqKqVM          1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: FqIDkh, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FqIDkh won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MbiGRmAUOAU lost the encounter and took 25 damage!
+
+Turn: 15
+Player: bULGaBtW, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bULGaBtW lost the encounter and took 25 damage!
+
+Turn: 16
+Player: LqKqVM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+LqKqVM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FqIDkh          2         6     75    12
+2          LqKqVM          2         5     50    12
+3          MbiGRmAUOAU     2         3     75    12
+4          bULGaBtW        2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: FqIDkh, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FqIDkh won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MbiGRmAUOAU lost the encounter and took 25 damage!
+
+Turn: 19
+Player: bULGaBtW, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bULGaBtW won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: LqKqVM, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+LqKqVM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FqIDkh          3         6     75    14
+2          LqKqVM          3         5     50    14
+3          bULGaBtW        3         5     50    14
+4          MbiGRmAUOAU     2         3     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: FqIDkh, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FqIDkh lost the encounter and took 25 damage!
+
+Turn: 22
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MbiGRmAUOAU won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: bULGaBtW, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bULGaBtW won the encounter, gained 5 coins and leveled up!
+
+Turn: 24
+Player: LqKqVM, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+LqKqVM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        4         5     50    19
+2          FqIDkh          3         6     50    14
+3          LqKqVM          3         5     25    14
+4          MbiGRmAUOAU     3         3     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: FqIDkh, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FqIDkh lost the encounter and took 25 damage!
+
+Turn: 26
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MbiGRmAUOAU lost the encounter and took 25 damage!
+
+Turn: 27
+Player: bULGaBtW, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bULGaBtW won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: LqKqVM, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+LqKqVM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        5         5     50    24
+2          FqIDkh          3         6     25    14
+3          LqKqVM          3         5     0     14
+4          MbiGRmAUOAU     3         3     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: FqIDkh, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FqIDkh won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: MbiGRmAUOAU, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MbiGRmAUOAU lost the encounter and took 25 damage!
+
+Turn: 31
+Player: bULGaBtW, Warrior with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bULGaBtW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        6         5     50    26
+2          FqIDkh          4         6     25    16
+3          LqKqVM          3         5     0     14
+4          MbiGRmAUOAU     3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: FqIDkh, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FqIDkh lost the encounter and took 25 damage!
+
+Turn: 33
+Player: bULGaBtW, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bULGaBtW won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        7         5     50    31
+2          FqIDkh          4         6     0     16
+3          LqKqVM          3         5     0     14
+4          MbiGRmAUOAU     3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: bULGaBtW, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bULGaBtW won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        8         5     50    36
+2          FqIDkh          4         6     0     16
+3          LqKqVM          3         5     0     14
+4          MbiGRmAUOAU     3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: bULGaBtW, Warrior with Responsible behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bULGaBtW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        9         5     50    38
+2          FqIDkh          4         6     0     16
+3          LqKqVM          3         5     0     14
+4          MbiGRmAUOAU     3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: bULGaBtW, Warrior with Responsible behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bULGaBtW won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bULGaBtW        10        5     50    40
+2          FqIDkh          4         6     0     16
+3          LqKqVM          3         5     0     14
+4          MbiGRmAUOAU     3         3     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: bULGaBtW
+Congratulations!
+

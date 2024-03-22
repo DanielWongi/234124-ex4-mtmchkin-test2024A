@@ -1,0 +1,311 @@
+Game is about to start!
+These are the players:
+
+1. kZOZXKtFU, Warrior with Responsible behavior (level 1, force 5)
+2. ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+kZOZXKtFU was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ByNWFr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+QObReZulBtZ was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ByNWFr          1         6     100   10
+2          QObReZulBtZ     1         6     100   10
+3          kZOZXKtFU       1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+kZOZXKtFU bought 0 potions!
+
+Turn: 5
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+ByNWFr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+QObReZulBtZ was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ByNWFr          1         7     100   10
+2          QObReZulBtZ     1         7     100   10
+3          kZOZXKtFU       1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kZOZXKtFU won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ByNWFr lost the encounter and took 25 damage!
+
+Turn: 9
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+QObReZulBtZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       2         4     100   12
+2          ByNWFr          1         7     75    10
+3          QObReZulBtZ     1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kZOZXKtFU lost the encounter and took 25 damage!
+
+Turn: 11
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ByNWFr lost the encounter and took 25 damage!
+
+Turn: 12
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+QObReZulBtZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       2         4     75    12
+2          ByNWFr          1         7     50    10
+3          QObReZulBtZ     1         7     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kZOZXKtFU won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ByNWFr lost the encounter and took 25 damage!
+
+Turn: 15
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+QObReZulBtZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       3         4     75    14
+2          ByNWFr          1         7     25    10
+3          QObReZulBtZ     1         7     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kZOZXKtFU won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+ByNWFr won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+QObReZulBtZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       4         4     75    16
+2          ByNWFr          2         7     25    12
+3          QObReZulBtZ     2         7     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kZOZXKtFU lost the encounter and took 25 damage!
+
+Turn: 20
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+ByNWFr won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+QObReZulBtZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       4         4     50    16
+2          ByNWFr          3         7     25    14
+3          QObReZulBtZ     3         7     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kZOZXKtFU won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: ByNWFr, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ByNWFr lost the encounter and took 25 damage!
+
+Turn: 24
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+QObReZulBtZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       5         4     50    18
+2          QObReZulBtZ     4         7     25    16
+3          ByNWFr          3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kZOZXKtFU won the encounter, gained 5 coins and leveled up!
+
+Turn: 26
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+QObReZulBtZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       6         4     50    23
+2          QObReZulBtZ     5         7     25    18
+3          ByNWFr          3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kZOZXKtFU won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: QObReZulBtZ, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+QObReZulBtZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       7         4     50    28
+2          QObReZulBtZ     5         7     0     18
+3          ByNWFr          3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kZOZXKtFU won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       8         4     50    33
+2          QObReZulBtZ     5         7     0     18
+3          ByNWFr          3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kZOZXKtFU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       9         4     50    35
+2          QObReZulBtZ     5         7     0     18
+3          ByNWFr          3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: kZOZXKtFU, Warrior with Responsible behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kZOZXKtFU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kZOZXKtFU       10        4     50    37
+2          QObReZulBtZ     5         7     0     18
+3          ByNWFr          3         7     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: kZOZXKtFU
+Congratulations!
+

@@ -1,0 +1,271 @@
+Game is about to start!
+These are the players:
+
+1. sseOa, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. RraiECgeHtARxd, Sorcerer with Responsible behavior (level 1, force 5)
+3. QqAezfXN, Warrior with RiskTaking behavior (level 1, force 5)
+4. fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: sseOa, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+sseOa bought 0 potions!
+
+Turn: 2
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+RraiECgeHtARxd bought 0 potions!
+
+Turn: 3
+Player: QqAezfXN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+QqAezfXN bought 0 potions!
+
+Turn: 4
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+fymMOcUvMWTZIO was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QqAezfXN        1         5     100   10
+2          RraiECgeHtARxd  1         5     100   10
+3          fymMOcUvMWTZIO  1         6     100   10
+4          sseOa           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: sseOa, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+sseOa was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+RraiECgeHtARxd bought 0 potions!
+
+Turn: 7
+Player: QqAezfXN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QqAezfXN lost the encounter and took 25 damage!
+
+Turn: 8
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+fymMOcUvMWTZIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          fymMOcUvMWTZIO  2         6     100   12
+2          QqAezfXN        1         5     75    10
+3          RraiECgeHtARxd  1         5     100   10
+4          sseOa           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: sseOa, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+sseOa lost the encounter and took 25 damage!
+
+Turn: 10
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RraiECgeHtARxd won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: QqAezfXN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QqAezfXN lost the encounter and took 25 damage!
+
+Turn: 12
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+fymMOcUvMWTZIO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RraiECgeHtARxd  2         5     100   12
+2          fymMOcUvMWTZIO  2         6     75    12
+3          QqAezfXN        1         5     50    10
+4          sseOa           1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: sseOa, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+sseOa lost the encounter and took 25 damage!
+
+Turn: 14
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RraiECgeHtARxd won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: QqAezfXN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QqAezfXN lost the encounter and took 25 damage!
+
+Turn: 16
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+fymMOcUvMWTZIO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RraiECgeHtARxd  3         5     100   14
+2          fymMOcUvMWTZIO  2         6     50    12
+3          QqAezfXN        1         5     25    10
+4          sseOa           1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: sseOa, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+sseOa won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RraiECgeHtARxd lost the encounter and took 25 damage!
+
+Turn: 19
+Player: QqAezfXN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QqAezfXN lost the encounter and took 25 damage!
+
+Turn: 20
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+fymMOcUvMWTZIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RraiECgeHtARxd  3         5     75    14
+2          fymMOcUvMWTZIO  3         6     50    14
+3          sseOa           2         6     50    12
+4          QqAezfXN        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: sseOa, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+sseOa lost the encounter and took 25 damage!
+
+Turn: 22
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RraiECgeHtARxd lost the encounter and took 25 damage!
+
+Turn: 23
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+fymMOcUvMWTZIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          fymMOcUvMWTZIO  4         6     50    16
+2          RraiECgeHtARxd  3         5     50    14
+3          sseOa           2         6     25    12
+4          QqAezfXN        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: sseOa, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+sseOa lost the encounter and took 25 damage!
+
+Turn: 25
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+RraiECgeHtARxd won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+fymMOcUvMWTZIO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          RraiECgeHtARxd  4         5     50    16
+2          fymMOcUvMWTZIO  4         6     25    16
+3          sseOa           2         6     0     12
+4          QqAezfXN        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RraiECgeHtARxd lost the encounter and took 25 damage!
+
+Turn: 28
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+fymMOcUvMWTZIO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          fymMOcUvMWTZIO  5         6     25    18
+2          RraiECgeHtARxd  4         5     25    16
+3          sseOa           2         6     0     12
+4          QqAezfXN        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: RraiECgeHtARxd, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+RraiECgeHtARxd lost the encounter and took 25 damage!
+
+Turn: 30
+Player: fymMOcUvMWTZIO, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+fymMOcUvMWTZIO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          fymMOcUvMWTZIO  5         6     0     18
+2          RraiECgeHtARxd  4         5     0     16
+3          sseOa           2         6     0     12
+4          QqAezfXN        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

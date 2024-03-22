@@ -1,0 +1,111 @@
+Game is about to start!
+These are the players:
+
+1. LKabYVffcccfcG, Warrior with Responsible behavior (level 1, force 5)
+2. kUelU, Sorcerer with Responsible behavior (level 1, force 5)
+3. CpfyaPG, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. idOyaf, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: LKabYVffcccfcG, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+LKabYVffcccfcG was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: kUelU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kUelU lost the encounter and took 25 damage!
+
+Turn: 3
+Player: CpfyaPG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+CpfyaPG won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: idOyaf, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+idOyaf lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpfyaPG         2         5     100   12
+2          LKabYVffcccfcG  1         4     100   10
+3          idOyaf          1         5     0     10
+4          kUelU           1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: LKabYVffcccfcG, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+LKabYVffcccfcG lost the encounter and took 25 damage!
+
+Turn: 6
+Player: kUelU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 6 members (power 68, loot 214, damage 18072)
+kUelU lost the encounter and took 18072 damage!
+
+Turn: 7
+Player: CpfyaPG, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CpfyaPG lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpfyaPG         2         5     75    12
+2          LKabYVffcccfcG  1         4     75    10
+3          idOyaf          1         5     0     10
+4          kUelU           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: LKabYVffcccfcG, Warrior with Responsible behavior (level 1, force 4)
+Card: Dragon (power 17, loot 100, damage 9001)
+LKabYVffcccfcG lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: CpfyaPG, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CpfyaPG lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpfyaPG         2         5     50    12
+2          LKabYVffcccfcG  1         4     0     10
+3          idOyaf          1         5     0     10
+4          kUelU           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: CpfyaPG, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+CpfyaPG lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CpfyaPG         2         5     0     12
+2          LKabYVffcccfcG  1         4     0     10
+3          idOyaf          1         5     0     10
+4          kUelU           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

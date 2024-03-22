@@ -1,0 +1,91 @@
+Game is about to start!
+These are the players:
+
+1. GMKM, Warrior with RiskTaking behavior (level 1, force 5)
+2. lhN, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: GMKM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+GMKM was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: lhN, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+lhN bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GMKM            1         4     100   10
+2          lhN             1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: GMKM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+GMKM bought 0 potions!
+
+Turn: 4
+Player: lhN, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+lhN bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GMKM            1         4     100   10
+2          lhN             1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: GMKM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+GMKM bought 0 potions!
+
+Turn: 6
+Player: lhN, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+lhN was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GMKM            1         4     100   10
+2          lhN             1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: GMKM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 3 members (power 203, loot 84, damage 420)
+GMKM lost the encounter and took 420 damage!
+
+Turn: 8
+Player: lhN, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 6 members (power 464, loot 191, damage 955)
+lhN lost the encounter and took 955 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GMKM            1         4     0     10
+2          lhN             1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

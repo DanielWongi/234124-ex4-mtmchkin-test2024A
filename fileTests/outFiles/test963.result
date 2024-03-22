@@ -1,0 +1,146 @@
+Game is about to start!
+These are the players:
+
+1. LqEu, Warrior with Responsible behavior (level 1, force 5)
+2. veTEhN, Warrior with RiskTaking behavior (level 1, force 5)
+3. zQsCAYsRkX, Warrior with Responsible behavior (level 1, force 5)
+4. LRq, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. aIZVIh, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: LqEu, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+LqEu bought 0 potions!
+
+Turn: 2
+Player: veTEhN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+veTEhN bought 0 potions!
+
+Turn: 3
+Player: zQsCAYsRkX, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+zQsCAYsRkX was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: LRq, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+LRq was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: aIZVIh, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+aIZVIh bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          LRq             1         6     100   10
+2          LqEu            1         5     100   10
+3          aIZVIh          1         5     100   10
+4          veTEhN          1         5     100   10
+5          zQsCAYsRkX      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: LqEu, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+LqEu was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: veTEhN, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+veTEhN won the encounter, gained 4 coins and leveled up!
+
+Turn: 8
+Player: zQsCAYsRkX, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+zQsCAYsRkX lost the encounter and took 105 damage!
+
+Turn: 9
+Player: LRq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 4 members (power 20, loot 8, damage 40)
+LRq lost the encounter and took 40 damage!
+
+Turn: 10
+Player: aIZVIh, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+aIZVIh lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          veTEhN          2         5     100   14
+2          LRq             1         6     60    10
+3          LqEu            1         4     100   10
+4          aIZVIh          1         5     35    10
+5          zQsCAYsRkX      1         4     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: LqEu, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 4 members (power 146, loot 60, damage 300)
+LqEu lost the encounter and took 300 damage!
+
+Turn: 12
+Player: veTEhN, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+veTEhN lost the encounter and took 45 damage!
+
+Turn: 13
+Player: LRq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+LRq lost the encounter and took 35 damage!
+
+Turn: 14
+Player: aIZVIh, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+aIZVIh lost the encounter and took 45 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          veTEhN          2         5     55    14
+2          LRq             1         6     25    10
+3          LqEu            1         4     0     10
+4          aIZVIh          1         5     0     10
+5          zQsCAYsRkX      1         4     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: veTEhN, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 4 members (power 169, loot 70, damage 350)
+veTEhN lost the encounter and took 350 damage!
+
+Turn: 16
+Player: LRq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+LRq lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          veTEhN          2         5     0     14
+2          LRq             1         6     0     10
+3          LqEu            1         4     0     10
+4          aIZVIh          1         5     0     10
+5          zQsCAYsRkX      1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

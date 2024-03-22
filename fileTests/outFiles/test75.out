@@ -1,0 +1,67 @@
+Game is about to start!
+These are the players:
+
+1. WYhqwgQQzvK, Sorcerer with Responsible behavior (level 1, force 5)
+2. OXZiLzuvpp, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. CTnRWdIHYxHWlo, Warrior with RiskTaking behavior (level 1, force 5)
+4. oyxpIi, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WYhqwgQQzvK, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+WYhqwgQQzvK bought 0 potions!
+
+Turn: 2
+Player: OXZiLzuvpp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 22, loot 102, damage 9011)
+OXZiLzuvpp lost the encounter and took 9011 damage!
+
+Turn: 3
+Player: CTnRWdIHYxHWlo, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+CTnRWdIHYxHWlo lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: oyxpIi, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+oyxpIi won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oyxpIi          2         5     100   12
+2          CTnRWdIHYxHWlo  1         5     0     10
+3          OXZiLzuvpp      1         5     0     10
+4          WYhqwgQQzvK     1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: WYhqwgQQzvK, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+WYhqwgQQzvK lost the encounter and took 9001 damage!
+
+Turn: 6
+Player: oyxpIi, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 3 members (power 46, loot 205, damage 18027)
+oyxpIi lost the encounter and took 18027 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oyxpIi          2         5     0     12
+2          CTnRWdIHYxHWlo  1         5     0     10
+3          OXZiLzuvpp      1         5     0     10
+4          WYhqwgQQzvK     1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!
