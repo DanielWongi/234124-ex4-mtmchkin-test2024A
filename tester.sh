@@ -54,7 +54,23 @@ done
 
 # Final output, showing whether all tests passed or some failed
 if [ $FAILED_TESTS -eq 0 ]; then
-    echo -e "\n${GREEN}All tests passed :)\n\n${NC}"
+    echo -e "\n${GREEN}
+    \n
+  __  __ _____ __  __  ____ _   _ _  _____ _   _
+ |  \/  |_   _|  \/  |/ ___| | | | |/ |_ _| \ | |
+ | |\/| | | | | |\/| | |   | |_| | ' / | ||  \| |
+ | |  | | | | | |  | | |___|  _  | . \ | || |\  |
+ |_|  |_| |_| |_|  |_|\____|_| |_|_|\_|___|_| \_|
+ \n
+        ┏┓┓ ┓   ┏┳┓┏┓┏┓┏┳┓┏┓  ┏┓┏┓┏┓┏┓┏┓┳┓
+        ┣┫┃ ┃    ┃ ┣ ┗┓ ┃ ┗┓  ┃┃┣┫┗┓┗┓┣ ┃┃
+        ┛┗┗┛┗┛   ┻ ┗┛┗┛ ┻ ┗┛  ┣┛┛┗┗┛┗┛┗┛┻┛
+\n
+            ┓ ┏┓ ┏┓ ┏ ┓ ┏┏┓┳┓┏┓┳ ┳┏┓
+            ┃┃┃┃┃┃┃┃┃ ┃┃┃┃┃┃┃┃┓┃ ┃┃┃
+            ┗┻┛┗┻┛┗┻┛•┗┻┛┗┛┛┗┗┛┻•┻┗┛
+\n
+${NC}"
 else
     echo -e "\n${RED}Failed $FAILED_TESTS tests.\n\n${NC}"
 fi
