@@ -22,7 +22,7 @@ project/
     ├── tester.sh
     └── fileTests/
 ```
-    This structure ensures that your project files and test directory are organized correctly within your project's root directory.
+This structure ensures that your project files and test directory are organized correctly within your project's root directory.
 
 2. Extract the zip file inside the `test` folder.
 3. Navigate to the `test` directory and execute the 3 commands (**second command if needed**):
