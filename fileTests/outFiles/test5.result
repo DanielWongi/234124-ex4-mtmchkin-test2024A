@@ -133,13 +133,13 @@ New round starts!
 Turn: 12
 Player: Daniel, Sorcerer with Responsible behavior (level 2, force 8)
 Card: PotionsMerchant
-Daniel bought 3 potions!
+Daniel bought 2 potions!
 
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Daniel          2         8     100   12
-2          Regev           2         6     0     12
+1          Regev           2         6     0     12
+2          Daniel          2         8     95    2
 3          Baraa           1         5     0     10
 
 ----------------------------------------
@@ -154,7 +154,7 @@ Daniel won the encounter, gained 2 coins and leveled up!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Daniel          3         8     100   14
+1          Daniel          3         8     95    4
 2          Regev           2         6     0     12
 3          Baraa           1         5     0     10
 
@@ -170,7 +170,7 @@ Daniel lost the encounter and took 25 damage!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Daniel          3         8     75    14
+1          Daniel          3         8     70    4
 2          Regev           2         6     0     12
 3          Baraa           1         5     0     10
 
@@ -186,7 +186,7 @@ Daniel lost the encounter and took 9001 damage!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Daniel          3         8     0     14
+1          Daniel          3         8     0     4
 2          Regev           2         6     0     12
 3          Baraa           1         5     0     10
 

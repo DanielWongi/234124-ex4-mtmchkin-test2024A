@@ -166,7 +166,7 @@ Wongi was affected by a solar eclipse! their force has changed by -1!
 Turn: 20
 Player: Almog, Warrior with Responsible behavior (level 1, force 4)
 Card: PotionsMerchant
-Almog bought 3 potions!
+Almog bought 2 potions!
 
 Round has ended!
 Leader board is as follows:
@@ -174,9 +174,9 @@ Ranking    Player Name     Level     Force HP    Coins
 1          Tom             3         5     0     14
 2          Wongi           3         4     50    14
 3          Alex            1         5     0     10
-4          Almog           1         4     100   10
-5          Choppy          1         5     0     10
-6          Gavan           1         3     0     10
+4          Choppy          1         5     0     10
+5          Gavan           1         3     0     10
+6          Almog           1         4     95    0
 
 ----------------------------------------
 
@@ -198,9 +198,9 @@ Ranking    Player Name     Level     Force HP    Coins
 1          Wongi           4         4     50    16
 2          Tom             3         5     0     14
 3          Alex            1         5     0     10
-4          Almog           1         4     75    10
-5          Choppy          1         5     0     10
-6          Gavan           1         3     0     10
+4          Choppy          1         5     0     10
+5          Gavan           1         3     0     10
+6          Almog           1         4     70    0
 
 ----------------------------------------
 
@@ -222,9 +222,9 @@ Ranking    Player Name     Level     Force HP    Coins
 1          Wongi           4         4     0     16
 2          Tom             3         5     0     14
 3          Alex            1         5     0     10
-4          Almog           1         3     75    10
-5          Choppy          1         5     0     10
-6          Gavan           1         3     0     10
+4          Choppy          1         5     0     10
+5          Gavan           1         3     0     10
+6          Almog           1         3     70    0
 
 ----------------------------------------
 
@@ -233,7 +233,7 @@ New round starts!
 Turn: 25
 Player: Almog, Warrior with Responsible behavior (level 1, force 3)
 Card: PotionsMerchant
-Almog bought 3 potions!
+Almog bought 0 potions!
 
 Round has ended!
 Leader board is as follows:
@@ -241,9 +241,9 @@ Ranking    Player Name     Level     Force HP    Coins
 1          Wongi           4         4     0     16
 2          Tom             3         5     0     14
 3          Alex            1         5     0     10
-4          Almog           1         3     100   10
-5          Choppy          1         5     0     10
-6          Gavan           1         3     0     10
+4          Choppy          1         5     0     10
+5          Gavan           1         3     0     10
+6          Almog           1         3     70    0
 
 ----------------------------------------
 
@@ -259,7 +259,7 @@ Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
 1          Wongi           4         4     0     16
 2          Tom             3         5     0     14
-3          Almog           2         3     100   12
+3          Almog           2         3     70    2
 4          Alex            1         5     0     10
 5          Choppy          1         5     0     10
 6          Gavan           1         3     0     10
@@ -278,7 +278,7 @@ Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
 1          Wongi           4         4     0     16
 2          Tom             3         5     0     14
-3          Almog           2         3     75    12
+3          Almog           2         3     45    2
 4          Alex            1         5     0     10
 5          Choppy          1         5     0     10
 6          Gavan           1         3     0     10
@@ -297,7 +297,7 @@ Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
 1          Wongi           4         4     0     16
 2          Tom             3         5     0     14
-3          Almog           2         3     0     12
+3          Almog           2         3     0     2
 4          Alex            1         5     0     10
 5          Choppy          1         5     0     10
 6          Gavan           1         3     0     10

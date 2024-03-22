@@ -182,12 +182,12 @@ New round starts!
 Turn: 18
 Player: Wongi, Warrior with Responsible behavior (level 3, force 2)
 Card: PotionsMerchant
-Wongi bought 5 potions!
+Wongi bought 2 potions!
 
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Wongi           3         2     100   14
+1          Wongi           3         2     70    4
 2          Gavan           2         5     0     12
 3          Alex            1         5     0     10
 4          Michel          1         5     0     10
@@ -204,7 +204,7 @@ Wongi won the encounter, gained 2 coins and leveled up!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Wongi           4         2     100   16
+1          Wongi           4         2     70    6
 2          Gavan           2         5     0     12
 3          Alex            1         5     0     10
 4          Michel          1         5     0     10
@@ -221,7 +221,7 @@ Wongi lost the encounter and took 25 damage!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Wongi           4         2     75    16
+1          Wongi           4         2     45    6
 2          Gavan           2         5     0     12
 3          Alex            1         5     0     10
 4          Michel          1         5     0     10
@@ -238,7 +238,7 @@ Wongi lost the encounter and took 25 damage!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Wongi           4         2     50    16
+1          Wongi           4         2     20    6
 2          Gavan           2         5     0     12
 3          Alex            1         5     0     10
 4          Michel          1         5     0     10
@@ -255,7 +255,7 @@ Wongi lost the encounter and took 9001 damage!
 Round has ended!
 Leader board is as follows:
 Ranking    Player Name     Level     Force HP    Coins
-1          Wongi           4         2     0     16
+1          Wongi           4         2     0     6
 2          Gavan           2         5     0     12
 3          Alex            1         5     0     10
 4          Michel          1         5     0     10
