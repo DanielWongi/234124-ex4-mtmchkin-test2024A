@@ -1,0 +1,76 @@
+Game is about to start!
+These are the players:
+
+1. YoGq, Warrior with Responsible behavior (level 1, force 5)
+2. ThoONOzUyBjCzq, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: YoGq, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 58, loot 117, damage 9086)
+YoGq lost the encounter and took 9086 damage!
+
+Turn: 2
+Player: ThoONOzUyBjCzq, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ThoONOzUyBjCzq lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ThoONOzUyBjCzq  1         5     75    10
+2          YoGq            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: ThoONOzUyBjCzq, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ThoONOzUyBjCzq won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ThoONOzUyBjCzq  2         5     75    12
+2          YoGq            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: ThoONOzUyBjCzq, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ThoONOzUyBjCzq lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ThoONOzUyBjCzq  2         5     50    12
+2          YoGq            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: ThoONOzUyBjCzq, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ThoONOzUyBjCzq lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ThoONOzUyBjCzq  2         5     0     12
+2          YoGq            1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

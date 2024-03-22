@@ -1,0 +1,111 @@
+Game is about to start!
+These are the players:
+
+1. KwUEFkK, Warrior with Responsible behavior (level 1, force 5)
+2. bMlABsEAZz, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: KwUEFkK, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+KwUEFkK bought 0 potions!
+
+Turn: 2
+Player: bMlABsEAZz, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+bMlABsEAZz was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KwUEFkK         1         5     100   10
+2          bMlABsEAZz      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: KwUEFkK, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+KwUEFkK was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: bMlABsEAZz, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+bMlABsEAZz bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KwUEFkK         1         4     100   10
+2          bMlABsEAZz      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: KwUEFkK, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+KwUEFkK bought 0 potions!
+
+Turn: 6
+Player: bMlABsEAZz, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+bMlABsEAZz bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KwUEFkK         1         4     100   10
+2          bMlABsEAZz      1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: KwUEFkK, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 15, loot 6, damage 30)
+KwUEFkK lost the encounter and took 30 damage!
+
+Turn: 8
+Player: bMlABsEAZz, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+bMlABsEAZz lost the encounter and took 95 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KwUEFkK         1         4     70    10
+2          bMlABsEAZz      1         4     5     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: KwUEFkK, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+KwUEFkK lost the encounter and took 95 damage!
+
+Turn: 10
+Player: bMlABsEAZz, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+bMlABsEAZz lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KwUEFkK         1         4     0     10
+2          bMlABsEAZz      1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

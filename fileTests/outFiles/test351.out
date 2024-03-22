@@ -1,0 +1,66 @@
+Game is about to start!
+These are the players:
+
+1. SRREm, Warrior with RiskTaking behavior (level 1, force 5)
+2. VbJs, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: SRREm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+SRREm bought 0 potions!
+
+Turn: 2
+Player: VbJs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VbJs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VbJs            2         5     100   12
+2          SRREm           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: SRREm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SRREm won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: VbJs, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 4 members (power 39, loot 109, damage 9046)
+VbJs lost the encounter and took 9046 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SRREm           2         5     100   12
+2          VbJs            2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: SRREm, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 5 members (power 136, loot 521, damage 45110)
+SRREm lost the encounter and took 45110 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SRREm           2         5     0     12
+2          VbJs            2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

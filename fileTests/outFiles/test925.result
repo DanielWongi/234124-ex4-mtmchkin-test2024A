@@ -1,0 +1,323 @@
+Game is about to start!
+These are the players:
+
+1. ZhSmltClo, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. CLaBGpMrBbA, Warrior with Responsible behavior (level 1, force 5)
+3. KAfWZgPpIHtK, Warrior with Responsible behavior (level 1, force 5)
+4. Wiagf, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+ZhSmltClo bought 0 potions!
+
+Turn: 2
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+CLaBGpMrBbA bought 0 potions!
+
+Turn: 3
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+KAfWZgPpIHtK bought 0 potions!
+
+Turn: 4
+Player: Wiagf, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Wiagf bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CLaBGpMrBbA     1         5     100   10
+2          KAfWZgPpIHtK    1         5     100   10
+3          Wiagf           1         5     100   10
+4          ZhSmltClo       1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+ZhSmltClo bought 0 potions!
+
+Turn: 6
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+CLaBGpMrBbA was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK lost the encounter and took 25 damage!
+
+Turn: 8
+Player: Wiagf, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Wiagf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wiagf           2         5     100   12
+2          CLaBGpMrBbA     1         4     100   10
+3          KAfWZgPpIHtK    1         5     75    10
+4          ZhSmltClo       1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZhSmltClo lost the encounter and took 25 damage!
+
+Turn: 10
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CLaBGpMrBbA lost the encounter and took 25 damage!
+
+Turn: 11
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KAfWZgPpIHtK won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: Wiagf, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Wiagf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    2         5     75    12
+2          Wiagf           2         5     75    12
+3          CLaBGpMrBbA     1         4     75    10
+4          ZhSmltClo       1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZhSmltClo won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+CLaBGpMrBbA won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK lost the encounter and took 25 damage!
+
+Turn: 16
+Player: Wiagf, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Wiagf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wiagf           3         5     75    14
+2          CLaBGpMrBbA     2         4     75    12
+3          KAfWZgPpIHtK    2         5     50    12
+4          ZhSmltClo       2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZhSmltClo lost the encounter and took 25 damage!
+
+Turn: 18
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CLaBGpMrBbA lost the encounter and took 25 damage!
+
+Turn: 19
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KAfWZgPpIHtK won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: Wiagf, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Wiagf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    3         5     50    14
+2          Wiagf           3         5     50    14
+3          CLaBGpMrBbA     2         4     50    12
+4          ZhSmltClo       2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZhSmltClo lost the encounter and took 25 damage!
+
+Turn: 22
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CLaBGpMrBbA lost the encounter and took 25 damage!
+
+Turn: 23
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KAfWZgPpIHtK won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: Wiagf, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Wiagf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    4         5     50    16
+2          Wiagf           3         5     25    14
+3          CLaBGpMrBbA     2         4     25    12
+4          ZhSmltClo       2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: ZhSmltClo, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZhSmltClo lost the encounter and took 25 damage!
+
+Turn: 26
+Player: CLaBGpMrBbA, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+CLaBGpMrBbA lost the encounter and took 25 damage!
+
+Turn: 27
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: Wiagf, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Wiagf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    5         5     50    21
+2          Wiagf           3         5     0     14
+3          CLaBGpMrBbA     2         4     0     12
+4          ZhSmltClo       2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    6         5     50    26
+2          Wiagf           3         5     0     14
+3          CLaBGpMrBbA     2         4     0     12
+4          ZhSmltClo       2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    7         5     50    31
+2          Wiagf           3         5     0     14
+3          CLaBGpMrBbA     2         4     0     12
+4          ZhSmltClo       2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    8         5     50    36
+2          Wiagf           3         5     0     14
+3          CLaBGpMrBbA     2         4     0     12
+4          ZhSmltClo       2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    9         5     50    41
+2          Wiagf           3         5     0     14
+3          CLaBGpMrBbA     2         4     0     12
+4          ZhSmltClo       2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: KAfWZgPpIHtK, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KAfWZgPpIHtK won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KAfWZgPpIHtK    10        5     50    46
+2          Wiagf           3         5     0     14
+3          CLaBGpMrBbA     2         4     0     12
+4          ZhSmltClo       2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: KAfWZgPpIHtK
+Congratulations!
+

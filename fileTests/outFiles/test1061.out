@@ -1,0 +1,321 @@
+Game is about to start!
+These are the players:
+
+1. kDoRbcQ, Warrior with RiskTaking behavior (level 1, force 5)
+2. JNnbNLTz, Warrior with RiskTaking behavior (level 1, force 5)
+3. pber, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+kDoRbcQ bought 0 potions!
+
+Turn: 2
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+JNnbNLTz bought 0 potions!
+
+Turn: 3
+Player: pber, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+pber was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          JNnbNLTz        1         5     100   10
+2          kDoRbcQ         1         5     100   10
+3          pber            1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+kDoRbcQ bought 0 potions!
+
+Turn: 5
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+JNnbNLTz was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: pber, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+pber was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          JNnbNLTz        1         4     100   10
+2          kDoRbcQ         1         5     100   10
+3          pber            1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kDoRbcQ lost the encounter and took 25 damage!
+
+Turn: 8
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JNnbNLTz lost the encounter and took 25 damage!
+
+Turn: 9
+Player: pber, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+pber won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pber            2         3     100   12
+2          JNnbNLTz        1         4     75    10
+3          kDoRbcQ         1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kDoRbcQ lost the encounter and took 25 damage!
+
+Turn: 11
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+JNnbNLTz won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: pber, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+pber won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pber            3         3     100   14
+2          JNnbNLTz        2         4     75    12
+3          kDoRbcQ         1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+kDoRbcQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JNnbNLTz lost the encounter and took 25 damage!
+
+Turn: 15
+Player: pber, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+pber lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pber            3         3     75    14
+2          JNnbNLTz        2         4     50    12
+3          kDoRbcQ         2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+kDoRbcQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+JNnbNLTz won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: pber, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+pber lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          JNnbNLTz        3         4     50    14
+2          kDoRbcQ         3         5     50    14
+3          pber            3         3     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kDoRbcQ won the encounter, gained 5 coins and leveled up!
+
+Turn: 20
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JNnbNLTz lost the encounter and took 25 damage!
+
+Turn: 21
+Player: pber, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+pber won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         4         5     50    19
+2          pber            4         3     50    16
+3          JNnbNLTz        3         4     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kDoRbcQ won the encounter, gained 5 coins and leveled up!
+
+Turn: 23
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+JNnbNLTz won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: pber, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+pber lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         5         5     50    24
+2          JNnbNLTz        4         4     25    16
+3          pber            4         3     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kDoRbcQ won the encounter, gained 5 coins and leveled up!
+
+Turn: 26
+Player: JNnbNLTz, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+JNnbNLTz lost the encounter and took 25 damage!
+
+Turn: 27
+Player: pber, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+pber won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         6         5     50    29
+2          pber            5         3     25    18
+3          JNnbNLTz        4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+kDoRbcQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: pber, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+pber won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         7         5     50    31
+2          pber            6         3     25    20
+3          JNnbNLTz        4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+kDoRbcQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: pber, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+pber lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         8         5     50    33
+2          pber            6         3     0     20
+3          JNnbNLTz        4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+kDoRbcQ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         9         5     50    35
+2          pber            6         3     0     20
+3          JNnbNLTz        4         4     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: kDoRbcQ, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kDoRbcQ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kDoRbcQ         10        5     50    40
+2          pber            6         3     0     20
+3          JNnbNLTz        4         4     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: kDoRbcQ
+Congratulations!
+

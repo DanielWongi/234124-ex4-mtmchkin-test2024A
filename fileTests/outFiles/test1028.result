@@ -1,0 +1,405 @@
+Game is about to start!
+These are the players:
+
+1. MubBP, Warrior with RiskTaking behavior (level 1, force 5)
+2. LqCMU, Warrior with Responsible behavior (level 1, force 5)
+3. iAhQPEe, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. sWdFi, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: MubBP, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+MubBP was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: LqCMU, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+LqCMU was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+iAhQPEe was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: sWdFi, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+sWdFi bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          LqCMU           1         4     100   10
+2          MubBP           1         4     100   10
+3          iAhQPEe         1         6     100   10
+4          sWdFi           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: MubBP, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+MubBP was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: LqCMU, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+LqCMU was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: sWdFi, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iAhQPEe         2         6     100   12
+2          LqCMU           1         3     100   10
+3          MubBP           1         3     100   10
+4          sWdFi           1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: MubBP, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MubBP lost the encounter and took 25 damage!
+
+Turn: 10
+Player: LqCMU, Warrior with Responsible behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+LqCMU lost the encounter and took 25 damage!
+
+Turn: 11
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iAhQPEe lost the encounter and took 25 damage!
+
+Turn: 12
+Player: sWdFi, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iAhQPEe         2         6     75    12
+2          LqCMU           1         3     75    10
+3          MubBP           1         3     75    10
+4          sWdFi           1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: MubBP, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: LqCMU, Warrior with Responsible behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+LqCMU lost the encounter and took 25 damage!
+
+Turn: 15
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iAhQPEe lost the encounter and took 25 damage!
+
+Turn: 16
+Player: sWdFi, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MubBP           2         3     75    12
+2          iAhQPEe         2         6     50    12
+3          LqCMU           1         3     50    10
+4          sWdFi           1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: MubBP, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: LqCMU, Warrior with Responsible behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+LqCMU lost the encounter and took 25 damage!
+
+Turn: 19
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: sWdFi, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sWdFi won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MubBP           3         3     75    14
+2          iAhQPEe         3         6     50    14
+3          sWdFi           2         5     25    12
+4          LqCMU           1         3     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: MubBP, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: LqCMU, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+LqCMU won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: sWdFi, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sWdFi won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MubBP           4         3     75    16
+2          iAhQPEe         4         6     50    16
+3          sWdFi           3         5     25    14
+4          LqCMU           2         3     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: MubBP, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: LqCMU, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+LqCMU won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: sWdFi, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sWdFi won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MubBP           5         3     75    18
+2          iAhQPEe         5         6     50    18
+3          sWdFi           4         5     25    16
+4          LqCMU           3         3     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: MubBP, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: LqCMU, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+LqCMU lost the encounter and took 25 damage!
+
+Turn: 31
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: sWdFi, Warrior with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sWdFi won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MubBP           6         3     75    20
+2          iAhQPEe         6         6     50    20
+3          sWdFi           5         5     25    18
+4          LqCMU           3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: MubBP, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MubBP lost the encounter and took 25 damage!
+
+Turn: 34
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iAhQPEe lost the encounter and took 25 damage!
+
+Turn: 35
+Player: sWdFi, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sWdFi           6         5     25    23
+2          MubBP           6         3     50    20
+3          iAhQPEe         6         6     25    20
+4          LqCMU           3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: MubBP, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: sWdFi, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sWdFi           7         5     25    28
+2          MubBP           7         3     50    22
+3          iAhQPEe         7         6     25    22
+4          LqCMU           3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: MubBP, Warrior with RiskTaking behavior (level 7, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MubBP won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 41
+Player: sWdFi, Warrior with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sWdFi won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sWdFi           8         5     25    30
+2          MubBP           8         3     50    24
+3          iAhQPEe         8         6     25    24
+4          LqCMU           3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 42
+Player: MubBP, Warrior with RiskTaking behavior (level 8, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MubBP won the encounter, gained 5 coins and leveled up!
+
+Turn: 43
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iAhQPEe won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: sWdFi, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sWdFi           9         5     25    35
+2          MubBP           9         3     50    29
+3          iAhQPEe         9         6     25    26
+4          LqCMU           3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: MubBP, Warrior with RiskTaking behavior (level 9, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MubBP won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: iAhQPEe, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iAhQPEe won the encounter, gained 5 coins and leveled up!
+
+Turn: 47
+Player: sWdFi, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sWdFi won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          sWdFi           10        5     25    40
+2          MubBP           10        3     50    34
+3          iAhQPEe         10        6     25    31
+4          LqCMU           3         3     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: MubBP
+Congratulations!
+

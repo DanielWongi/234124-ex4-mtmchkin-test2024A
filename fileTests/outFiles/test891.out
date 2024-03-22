@@ -1,0 +1,405 @@
+Game is about to start!
+These are the players:
+
+1. lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. hjIV, Warrior with RiskTaking behavior (level 1, force 5)
+3. OMCOfAREJKBL, Sorcerer with Responsible behavior (level 1, force 5)
+4. jFZNaL, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+lhtsMAFTgyTdASO was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: hjIV, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+hjIV was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+OMCOfAREJKBL bought 0 potions!
+
+Turn: 4
+Player: jFZNaL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+jFZNaL was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OMCOfAREJKBL    1         5     100   10
+2          hjIV            1         4     100   10
+3          jFZNaL          1         6     100   10
+4          lhtsMAFTgyTdASO 1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+lhtsMAFTgyTdASO bought 0 potions!
+
+Turn: 6
+Player: hjIV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+hjIV bought 0 potions!
+
+Turn: 7
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OMCOfAREJKBL lost the encounter and took 25 damage!
+
+Turn: 8
+Player: jFZNaL, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jFZNaL          2         6     100   12
+2          OMCOfAREJKBL    1         5     75    10
+3          hjIV            1         4     100   10
+4          lhtsMAFTgyTdASO 1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: hjIV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+hjIV lost the encounter and took 25 damage!
+
+Turn: 11
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OMCOfAREJKBL lost the encounter and took 25 damage!
+
+Turn: 12
+Player: jFZNaL, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+jFZNaL lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jFZNaL          2         6     75    12
+2          lhtsMAFTgyTdASO 2         6     100   12
+3          OMCOfAREJKBL    1         5     50    10
+4          hjIV            1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+lhtsMAFTgyTdASO lost the encounter and took 25 damage!
+
+Turn: 14
+Player: hjIV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+hjIV lost the encounter and took 25 damage!
+
+Turn: 15
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+OMCOfAREJKBL won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: jFZNaL, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jFZNaL          3         6     75    14
+2          OMCOfAREJKBL    2         5     50    12
+3          lhtsMAFTgyTdASO 2         6     75    12
+4          hjIV            1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: hjIV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+hjIV won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+OMCOfAREJKBL won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: jFZNaL, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+jFZNaL lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OMCOfAREJKBL    3         5     50    14
+2          jFZNaL          3         6     50    14
+3          lhtsMAFTgyTdASO 3         6     75    14
+4          hjIV            2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: hjIV, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+hjIV won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OMCOfAREJKBL lost the encounter and took 25 damage!
+
+Turn: 24
+Player: jFZNaL, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jFZNaL          4         6     50    16
+2          lhtsMAFTgyTdASO 4         6     75    16
+3          OMCOfAREJKBL    3         5     25    14
+4          hjIV            3         4     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+lhtsMAFTgyTdASO lost the encounter and took 25 damage!
+
+Turn: 26
+Player: hjIV, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+hjIV won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+OMCOfAREJKBL won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: jFZNaL, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jFZNaL          5         6     50    18
+2          OMCOfAREJKBL    4         5     25    16
+3          hjIV            4         4     50    16
+4          lhtsMAFTgyTdASO 4         6     50    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: hjIV, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+hjIV won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: OMCOfAREJKBL, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+OMCOfAREJKBL lost the encounter and took 25 damage!
+
+Turn: 32
+Player: jFZNaL, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jFZNaL          6         6     50    20
+2          hjIV            5         4     50    18
+3          lhtsMAFTgyTdASO 5         6     50    18
+4          OMCOfAREJKBL    4         5     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: hjIV, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+hjIV won the encounter, gained 5 coins and leveled up!
+
+Turn: 35
+Player: jFZNaL, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+jFZNaL lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hjIV            6         4     50    23
+2          jFZNaL          6         6     25    20
+3          lhtsMAFTgyTdASO 6         6     50    20
+4          OMCOfAREJKBL    4         5     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: hjIV, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+hjIV won the encounter, gained 5 coins and leveled up!
+
+Turn: 38
+Player: jFZNaL, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hjIV            7         4     50    28
+2          jFZNaL          7         6     25    22
+3          lhtsMAFTgyTdASO 7         6     50    22
+4          OMCOfAREJKBL    4         5     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: hjIV, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+hjIV won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: jFZNaL, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+jFZNaL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hjIV            8         4     50    33
+2          jFZNaL          8         6     25    27
+3          lhtsMAFTgyTdASO 8         6     50    24
+4          OMCOfAREJKBL    4         5     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 42
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+lhtsMAFTgyTdASO won the encounter, gained 2 coins and leveled up!
+
+Turn: 43
+Player: hjIV, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+hjIV won the encounter, gained 5 coins and leveled up!
+
+Turn: 44
+Player: jFZNaL, Sorcerer with Responsible behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+jFZNaL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hjIV            9         4     50    38
+2          jFZNaL          9         6     25    32
+3          lhtsMAFTgyTdASO 9         6     50    26
+4          OMCOfAREJKBL    4         5     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: lhtsMAFTgyTdASO, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+lhtsMAFTgyTdASO won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: hjIV, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+hjIV won the encounter, gained 2 coins and leveled up!
+
+Turn: 47
+Player: jFZNaL, Sorcerer with Responsible behavior (level 9, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+jFZNaL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hjIV            10        4     50    40
+2          jFZNaL          10        6     25    34
+3          lhtsMAFTgyTdASO 10        6     50    31
+4          OMCOfAREJKBL    4         5     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: lhtsMAFTgyTdASO
+Congratulations!
+

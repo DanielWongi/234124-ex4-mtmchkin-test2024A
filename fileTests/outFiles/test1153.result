@@ -1,0 +1,121 @@
+Game is about to start!
+These are the players:
+
+1. reFPDMREsVrACpU, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. WwLSMgD, Warrior with RiskTaking behavior (level 1, force 5)
+3. xlOoyNxrJBo, Warrior with RiskTaking behavior (level 1, force 5)
+4. xntDmrCgla, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: reFPDMREsVrACpU, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+reFPDMREsVrACpU bought 0 potions!
+
+Turn: 2
+Player: WwLSMgD, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+WwLSMgD was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: xlOoyNxrJBo, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+xlOoyNxrJBo was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: xntDmrCgla, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+xntDmrCgla bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WwLSMgD         1         4     100   10
+2          reFPDMREsVrACpU 1         5     100   10
+3          xlOoyNxrJBo     1         4     100   10
+4          xntDmrCgla      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: reFPDMREsVrACpU, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+reFPDMREsVrACpU was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: WwLSMgD, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+WwLSMgD was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: xlOoyNxrJBo, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+xlOoyNxrJBo lost the encounter and took 80 damage!
+
+Turn: 8
+Player: xntDmrCgla, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 283, loot 117, damage 585)
+xntDmrCgla lost the encounter and took 585 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WwLSMgD         1         3     100   10
+2          reFPDMREsVrACpU 1         6     100   10
+3          xlOoyNxrJBo     1         4     20    10
+4          xntDmrCgla      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: reFPDMREsVrACpU, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 5 members (power 73, loot 30, damage 150)
+reFPDMREsVrACpU lost the encounter and took 150 damage!
+
+Turn: 10
+Player: WwLSMgD, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+WwLSMgD lost the encounter and took 65 damage!
+
+Turn: 11
+Player: xlOoyNxrJBo, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+xlOoyNxrJBo lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WwLSMgD         1         3     35    10
+2          reFPDMREsVrACpU 1         6     0     10
+3          xlOoyNxrJBo     1         4     0     10
+4          xntDmrCgla      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: WwLSMgD, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+WwLSMgD lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WwLSMgD         1         3     0     10
+2          reFPDMREsVrACpU 1         6     0     10
+3          xlOoyNxrJBo     1         4     0     10
+4          xntDmrCgla      1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,111 @@
+Game is about to start!
+These are the players:
+
+1. tiaEmL, Warrior with RiskTaking behavior (level 1, force 5)
+2. nmNeGzt, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. OYPTdaV, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: tiaEmL, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+tiaEmL was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: nmNeGzt, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+nmNeGzt was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: OYPTdaV, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+OYPTdaV bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OYPTdaV         1         5     100   10
+2          nmNeGzt         1         6     100   10
+3          tiaEmL          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: tiaEmL, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+tiaEmL bought 0 potions!
+
+Turn: 5
+Player: nmNeGzt, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+nmNeGzt bought 0 potions!
+
+Turn: 6
+Player: OYPTdaV, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+OYPTdaV was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OYPTdaV         1         4     100   10
+2          nmNeGzt         1         6     100   10
+3          tiaEmL          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: tiaEmL, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 53, loot 22, damage 110)
+tiaEmL lost the encounter and took 110 damage!
+
+Turn: 8
+Player: nmNeGzt, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+nmNeGzt lost the encounter and took 80 damage!
+
+Turn: 9
+Player: OYPTdaV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+OYPTdaV lost the encounter and took 80 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OYPTdaV         1         4     20    10
+2          nmNeGzt         1         6     20    10
+3          tiaEmL          1         4     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: nmNeGzt, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 1181, loot 486, damage 2430)
+nmNeGzt lost the encounter and took 2430 damage!
+
+Turn: 11
+Player: OYPTdaV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+OYPTdaV lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OYPTdaV         1         4     0     10
+2          nmNeGzt         1         6     0     10
+3          tiaEmL          1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

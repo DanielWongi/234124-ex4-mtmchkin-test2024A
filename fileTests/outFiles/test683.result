@@ -1,0 +1,80 @@
+Game is about to start!
+These are the players:
+
+1. KjmVjaOG, Sorcerer with Responsible behavior (level 1, force 5)
+2. AXy, Warrior with Responsible behavior (level 1, force 5)
+3. gUSnQePl, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: KjmVjaOG, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KjmVjaOG lost the encounter and took 25 damage!
+
+Turn: 2
+Player: AXy, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AXy lost the encounter and took 25 damage!
+
+Turn: 3
+Player: gUSnQePl, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 126, loot 52, damage 260)
+gUSnQePl lost the encounter and took 260 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AXy             1         5     75    10
+2          KjmVjaOG        1         5     75    10
+3          gUSnQePl        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: KjmVjaOG, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KjmVjaOG won the encounter, gained 2 coins and leveled up!
+
+Turn: 5
+Player: AXy, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+AXy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AXy             2         5     75    12
+2          KjmVjaOG        2         5     75    12
+3          gUSnQePl        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: KjmVjaOG, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 65, loot 27, damage 135)
+KjmVjaOG lost the encounter and took 135 damage!
+
+Turn: 7
+Player: AXy, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 4 members (power 156, loot 64, damage 320)
+AXy lost the encounter and took 320 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AXy             2         5     0     12
+2          KjmVjaOG        2         5     0     12
+3          gUSnQePl        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

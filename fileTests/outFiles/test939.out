@@ -1,0 +1,285 @@
+Game is about to start!
+These are the players:
+
+1. jAoStA, Warrior with RiskTaking behavior (level 1, force 5)
+2. pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 5)
+3. zRy, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: jAoStA, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+jAoStA was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+pznlUHAdB bought 0 potions!
+
+Turn: 3
+Player: zRy, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+zRy was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jAoStA          1         4     100   10
+2          pznlUHAdB       1         5     100   10
+3          zRy             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: jAoStA, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+jAoStA was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+pznlUHAdB was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: zRy, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+zRy bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jAoStA          1         3     100   10
+2          pznlUHAdB       1         4     100   10
+3          zRy             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: jAoStA, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+jAoStA won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pznlUHAdB lost the encounter and took 25 damage!
+
+Turn: 9
+Player: zRy, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zRy lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jAoStA          2         3     100   12
+2          pznlUHAdB       1         4     75    10
+3          zRy             1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: jAoStA, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+jAoStA lost the encounter and took 25 damage!
+
+Turn: 11
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pznlUHAdB lost the encounter and took 25 damage!
+
+Turn: 12
+Player: zRy, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zRy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jAoStA          2         3     75    12
+2          zRy             2         4     75    12
+3          pznlUHAdB       1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: jAoStA, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+jAoStA lost the encounter and took 25 damage!
+
+Turn: 14
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pznlUHAdB lost the encounter and took 25 damage!
+
+Turn: 15
+Player: zRy, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zRy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             3         4     75    14
+2          jAoStA          2         3     50    12
+3          pznlUHAdB       1         4     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: jAoStA, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+jAoStA lost the encounter and took 25 damage!
+
+Turn: 17
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+pznlUHAdB won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: zRy, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zRy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             4         4     75    16
+2          jAoStA          2         3     25    12
+3          pznlUHAdB       2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: jAoStA, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+jAoStA won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+pznlUHAdB won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: zRy, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+zRy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             5         4     75    18
+2          jAoStA          3         3     25    14
+3          pznlUHAdB       3         4     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: jAoStA, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+jAoStA lost the encounter and took 25 damage!
+
+Turn: 23
+Player: pznlUHAdB, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pznlUHAdB lost the encounter and took 25 damage!
+
+Turn: 24
+Player: zRy, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zRy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             6         4     75    23
+2          jAoStA          3         3     0     14
+3          pznlUHAdB       3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: zRy, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zRy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             7         4     75    28
+2          jAoStA          3         3     0     14
+3          pznlUHAdB       3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: zRy, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zRy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             8         4     75    33
+2          jAoStA          3         3     0     14
+3          pznlUHAdB       3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: zRy, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zRy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             9         4     75    38
+2          jAoStA          3         3     0     14
+3          pznlUHAdB       3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: zRy, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+zRy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          zRy             10        4     75    43
+2          jAoStA          3         3     0     14
+3          pznlUHAdB       3         4     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: zRy
+Congratulations!
+

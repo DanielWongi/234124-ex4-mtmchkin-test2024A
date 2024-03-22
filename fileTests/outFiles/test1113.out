@@ -1,0 +1,284 @@
+Game is about to start!
+These are the players:
+
+1. SoAUVoHsxbX, Warrior with Responsible behavior (level 1, force 5)
+2. KVsNaldWCZy, Warrior with Responsible behavior (level 1, force 5)
+3. cCODSaFyED, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+SoAUVoHsxbX was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+KVsNaldWCZy bought 0 potions!
+
+Turn: 3
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+cCODSaFyED was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     1         5     100   10
+2          SoAUVoHsxbX     1         4     100   10
+3          cCODSaFyED      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+SoAUVoHsxbX was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+KVsNaldWCZy bought 0 potions!
+
+Turn: 6
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+cCODSaFyED was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     1         5     100   10
+2          SoAUVoHsxbX     1         3     100   10
+3          cCODSaFyED      1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+SoAUVoHsxbX won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KVsNaldWCZy won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cCODSaFyED lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     2         5     100   12
+2          SoAUVoHsxbX     2         3     100   12
+3          cCODSaFyED      1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+SoAUVoHsxbX won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KVsNaldWCZy won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+cCODSaFyED won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     3         5     100   14
+2          SoAUVoHsxbX     3         3     100   14
+3          cCODSaFyED      2         7     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+SoAUVoHsxbX won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KVsNaldWCZy won the encounter, gained 5 coins and leveled up!
+
+Turn: 15
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cCODSaFyED lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     4         5     100   19
+2          SoAUVoHsxbX     4         3     100   16
+3          cCODSaFyED      2         7     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+SoAUVoHsxbX lost the encounter and took 25 damage!
+
+Turn: 17
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KVsNaldWCZy won the encounter, gained 5 coins and leveled up!
+
+Turn: 18
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+cCODSaFyED won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     5         5     100   24
+2          SoAUVoHsxbX     4         3     75    16
+3          cCODSaFyED      3         7     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+SoAUVoHsxbX lost the encounter and took 25 damage!
+
+Turn: 20
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KVsNaldWCZy won the encounter, gained 5 coins and leveled up!
+
+Turn: 21
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cCODSaFyED lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     6         5     100   29
+2          SoAUVoHsxbX     4         3     50    16
+3          cCODSaFyED      3         7     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+SoAUVoHsxbX won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KVsNaldWCZy won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: cCODSaFyED, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+cCODSaFyED lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     7         5     100   31
+2          SoAUVoHsxbX     5         3     50    18
+3          cCODSaFyED      3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 5, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+SoAUVoHsxbX lost the encounter and took 25 damage!
+
+Turn: 26
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KVsNaldWCZy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     8         5     100   36
+2          SoAUVoHsxbX     5         3     25    18
+3          cCODSaFyED      3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+SoAUVoHsxbX won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KVsNaldWCZy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     9         5     100   41
+2          SoAUVoHsxbX     6         3     25    20
+3          cCODSaFyED      3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: SoAUVoHsxbX, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+SoAUVoHsxbX lost the encounter and took 25 damage!
+
+Turn: 30
+Player: KVsNaldWCZy, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KVsNaldWCZy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KVsNaldWCZy     10        5     100   46
+2          SoAUVoHsxbX     6         3     0     20
+3          cCODSaFyED      3         7     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: KVsNaldWCZy
+Congratulations!
+

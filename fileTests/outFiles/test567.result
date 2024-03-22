@@ -1,0 +1,75 @@
+Game is about to start!
+These are the players:
+
+1. bJa, Warrior with RiskTaking behavior (level 1, force 5)
+2. qtH, Warrior with RiskTaking behavior (level 1, force 5)
+3. GDWhPNK, Warrior with Responsible behavior (level 1, force 5)
+4. maTax, Sorcerer with Responsible behavior (level 1, force 5)
+5. lKDapb, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: bJa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bJa lost the encounter and took 25 damage!
+
+Turn: 2
+Player: qtH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qtH lost the encounter and took 25 damage!
+
+Turn: 3
+Player: GDWhPNK, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 112, loot 418, damage 36094)
+GDWhPNK lost the encounter and took 36094 damage!
+
+Turn: 4
+Player: maTax, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+maTax lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: lKDapb, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+lKDapb lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GDWhPNK         1         5     0     10
+2          bJa             1         5     75    10
+3          lKDapb          1         5     0     10
+4          maTax           1         5     0     10
+5          qtH             1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: bJa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 34, loot 107, damage 9036)
+bJa lost the encounter and took 9036 damage!
+
+Turn: 7
+Player: qtH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+qtH lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GDWhPNK         1         5     0     10
+2          bJa             1         5     0     10
+3          lKDapb          1         5     0     10
+4          maTax           1         5     0     10
+5          qtH             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

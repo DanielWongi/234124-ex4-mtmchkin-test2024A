@@ -1,0 +1,70 @@
+Game is about to start!
+These are the players:
+
+1. BdXdOVdveDmRe, Warrior with Responsible behavior (level 1, force 5)
+2. FmZuvBBCZmng, Sorcerer with Responsible behavior (level 1, force 5)
+3. eSJuKAHvNTw, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: BdXdOVdveDmRe, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+BdXdOVdveDmRe was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: FmZuvBBCZmng, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 39, loot 202, damage 18012)
+FmZuvBBCZmng lost the encounter and took 18012 damage!
+
+Turn: 3
+Player: eSJuKAHvNTw, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+eSJuKAHvNTw lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BdXdOVdveDmRe   1         4     100   10
+2          FmZuvBBCZmng    1         5     0     10
+3          eSJuKAHvNTw     1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: BdXdOVdveDmRe, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+BdXdOVdveDmRe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BdXdOVdveDmRe   2         4     100   12
+2          FmZuvBBCZmng    1         5     0     10
+3          eSJuKAHvNTw     1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: BdXdOVdveDmRe, Warrior with Responsible behavior (level 2, force 4)
+Card: Gang of 5 members (power 202, loot 641, damage 54211)
+BdXdOVdveDmRe lost the encounter and took 54211 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BdXdOVdveDmRe   2         4     0     12
+2          FmZuvBBCZmng    1         5     0     10
+3          eSJuKAHvNTw     1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

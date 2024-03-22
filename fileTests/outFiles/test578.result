@@ -1,0 +1,106 @@
+Game is about to start!
+These are the players:
+
+1. NUoNOcvTAI, Warrior with RiskTaking behavior (level 1, force 5)
+2. snDQooTQzaNYQ, Warrior with Responsible behavior (level 1, force 5)
+3. tTouCzVCTa, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. eVDTFaktqLa, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: NUoNOcvTAI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+NUoNOcvTAI bought 0 potions!
+
+Turn: 2
+Player: snDQooTQzaNYQ, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+snDQooTQzaNYQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: tTouCzVCTa, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 102, loot 321, damage 27108)
+tTouCzVCTa lost the encounter and took 27108 damage!
+
+Turn: 4
+Player: eVDTFaktqLa, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+eVDTFaktqLa lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          snDQooTQzaNYQ   2         5     100   12
+2          NUoNOcvTAI      1         5     100   10
+3          eVDTFaktqLa     1         5     0     10
+4          tTouCzVCTa      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: NUoNOcvTAI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+NUoNOcvTAI won the encounter, gained 2 coins and leveled up!
+
+Turn: 6
+Player: snDQooTQzaNYQ, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+snDQooTQzaNYQ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          snDQooTQzaNYQ   3         5     100   14
+2          NUoNOcvTAI      2         5     100   12
+3          eVDTFaktqLa     1         5     0     10
+4          tTouCzVCTa      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: NUoNOcvTAI, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 2 members (power 29, loot 105, damage 9026)
+NUoNOcvTAI lost the encounter and took 9026 damage!
+
+Turn: 8
+Player: snDQooTQzaNYQ, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+snDQooTQzaNYQ won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          snDQooTQzaNYQ   4         5     100   19
+2          NUoNOcvTAI      2         5     0     12
+3          eVDTFaktqLa     1         5     0     10
+4          tTouCzVCTa      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: snDQooTQzaNYQ, Warrior with Responsible behavior (level 4, force 5)
+Card: Gang of 4 members (power 53, loot 115, damage 9076)
+snDQooTQzaNYQ lost the encounter and took 9076 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          snDQooTQzaNYQ   4         5     0     19
+2          NUoNOcvTAI      2         5     0     12
+3          eVDTFaktqLa     1         5     0     10
+4          tTouCzVCTa      1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

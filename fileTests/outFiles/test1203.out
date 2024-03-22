@@ -1,0 +1,297 @@
+Game is about to start!
+These are the players:
+
+1. nQvIMxa, Warrior with RiskTaking behavior (level 1, force 5)
+2. hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+nQvIMxa was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+hPdoTojxcDNSQs bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  1         5     100   10
+2          nQvIMxa         1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+nQvIMxa was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+hPdoTojxcDNSQs was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  1         6     100   10
+2          nQvIMxa         1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 3)
+Card: PotionsMerchant
+nQvIMxa bought 0 potions!
+
+Turn: 6
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+hPdoTojxcDNSQs was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  1         7     100   10
+2          nQvIMxa         1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+nQvIMxa lost the encounter and took 25 damage!
+
+Turn: 8
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+hPdoTojxcDNSQs lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  1         7     75    10
+2          nQvIMxa         1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+nQvIMxa lost the encounter and took 25 damage!
+
+Turn: 10
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  2         7     75    12
+2          nQvIMxa         1         3     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+nQvIMxa lost the encounter and took 25 damage!
+
+Turn: 12
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  3         7     75    14
+2          nQvIMxa         1         3     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+nQvIMxa won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  4         7     75    16
+2          nQvIMxa         2         3     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+nQvIMxa won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  5         7     75    18
+2          nQvIMxa         3         3     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+nQvIMxa won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+hPdoTojxcDNSQs lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  5         7     50    18
+2          nQvIMxa         4         3     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+nQvIMxa won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+hPdoTojxcDNSQs lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  5         7     25    18
+2          nQvIMxa         5         3     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+nQvIMxa won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  6         7     25    20
+2          nQvIMxa         6         3     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: nQvIMxa, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+nQvIMxa lost the encounter and took 25 damage!
+
+Turn: 24
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 6, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  7         7     25    22
+2          nQvIMxa         6         3     0     20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 7, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+hPdoTojxcDNSQs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  8         7     25    24
+2          nQvIMxa         6         3     0     20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 8, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+hPdoTojxcDNSQs won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  9         7     25    29
+2          nQvIMxa         6         3     0     20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: hPdoTojxcDNSQs, Sorcerer with Responsible behavior (level 9, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+hPdoTojxcDNSQs won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hPdoTojxcDNSQs  10        7     25    34
+2          nQvIMxa         6         3     0     20
+
+----------------------------------------
+
+Game is over!
+The winner is: hPdoTojxcDNSQs
+Congratulations!
+

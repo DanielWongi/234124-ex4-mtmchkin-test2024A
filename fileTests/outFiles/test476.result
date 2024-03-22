@@ -1,0 +1,121 @@
+Game is about to start!
+These are the players:
+
+1. bmxoqdLM, Warrior with RiskTaking behavior (level 1, force 5)
+2. VtBDkfSa, Warrior with Responsible behavior (level 1, force 5)
+3. segu, Warrior with Responsible behavior (level 1, force 5)
+4. dAjBEgPYTUTnNj, Sorcerer with Responsible behavior (level 1, force 5)
+5. LvlqoIDqBJk, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: bmxoqdLM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+bmxoqdLM was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: VtBDkfSa, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VtBDkfSa lost the encounter and took 25 damage!
+
+Turn: 3
+Player: segu, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+segu won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: dAjBEgPYTUTnNj, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+dAjBEgPYTUTnNj lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: LvlqoIDqBJk, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+LvlqoIDqBJk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          LvlqoIDqBJk     2         5     100   12
+2          segu            2         5     100   12
+3          VtBDkfSa        1         5     75    10
+4          bmxoqdLM        1         4     100   10
+5          dAjBEgPYTUTnNj  1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: bmxoqdLM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Dragon (power 17, loot 100, damage 9001)
+bmxoqdLM lost the encounter and took 9001 damage!
+
+Turn: 7
+Player: VtBDkfSa, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+VtBDkfSa lost the encounter and took 9001 damage!
+
+Turn: 8
+Player: segu, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+segu lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: LvlqoIDqBJk, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+LvlqoIDqBJk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          LvlqoIDqBJk     3         5     100   14
+2          segu            2         5     0     12
+3          VtBDkfSa        1         5     0     10
+4          bmxoqdLM        1         4     0     10
+5          dAjBEgPYTUTnNj  1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: LvlqoIDqBJk, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+LvlqoIDqBJk won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          LvlqoIDqBJk     4         5     100   16
+2          segu            2         5     0     12
+3          VtBDkfSa        1         5     0     10
+4          bmxoqdLM        1         4     0     10
+5          dAjBEgPYTUTnNj  1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: LvlqoIDqBJk, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Gang of 6 members (power 49, loot 113, damage 9066)
+LvlqoIDqBJk lost the encounter and took 9066 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          LvlqoIDqBJk     4         5     0     16
+2          segu            2         5     0     12
+3          VtBDkfSa        1         5     0     10
+4          bmxoqdLM        1         4     0     10
+5          dAjBEgPYTUTnNj  1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

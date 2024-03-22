@@ -1,0 +1,410 @@
+Game is about to start!
+These are the players:
+
+1. QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 1, force 5)
+3. fpuubmHpGbovI, Sorcerer with Responsible behavior (level 1, force 5)
+4. ZfvouOb, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 1, force 5)
+6. EmTLbEnVwf, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+QHHdJkSAtrDjNkB was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+cuiiFRTNABzETrj bought 0 potions!
+
+Turn: 3
+Player: fpuubmHpGbovI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+fpuubmHpGbovI bought 0 potions!
+
+Turn: 4
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ZfvouOb was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+FkHNeWyqPAkMnB was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+EmTLbEnVwf was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EmTLbEnVwf      1         6     100   10
+2          FkHNeWyqPAkMnB  1         6     100   10
+3          QHHdJkSAtrDjNkB 1         6     100   10
+4          ZfvouOb         1         6     100   10
+5          cuiiFRTNABzETrj 1         5     100   10
+6          fpuubmHpGbovI   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+QHHdJkSAtrDjNkB won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cuiiFRTNABzETrj lost the encounter and took 25 damage!
+
+Turn: 9
+Player: fpuubmHpGbovI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fpuubmHpGbovI lost the encounter and took 25 damage!
+
+Turn: 10
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ZfvouOb lost the encounter and took 25 damage!
+
+Turn: 11
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FkHNeWyqPAkMnB won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EmTLbEnVwf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FkHNeWyqPAkMnB  2         6     100   12
+2          QHHdJkSAtrDjNkB 2         6     100   12
+3          EmTLbEnVwf      1         6     75    10
+4          ZfvouOb         1         6     75    10
+5          cuiiFRTNABzETrj 1         5     75    10
+6          fpuubmHpGbovI   1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+QHHdJkSAtrDjNkB lost the encounter and took 25 damage!
+
+Turn: 14
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cuiiFRTNABzETrj won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: fpuubmHpGbovI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fpuubmHpGbovI lost the encounter and took 25 damage!
+
+Turn: 16
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ZfvouOb won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FkHNeWyqPAkMnB lost the encounter and took 25 damage!
+
+Turn: 18
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EmTLbEnVwf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EmTLbEnVwf      2         6     75    12
+2          FkHNeWyqPAkMnB  2         6     75    12
+3          QHHdJkSAtrDjNkB 2         6     75    12
+4          ZfvouOb         2         6     75    12
+5          cuiiFRTNABzETrj 2         5     75    12
+6          fpuubmHpGbovI   1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+QHHdJkSAtrDjNkB lost the encounter and took 25 damage!
+
+Turn: 20
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cuiiFRTNABzETrj won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: fpuubmHpGbovI, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+fpuubmHpGbovI won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ZfvouOb lost the encounter and took 25 damage!
+
+Turn: 23
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FkHNeWyqPAkMnB lost the encounter and took 25 damage!
+
+Turn: 24
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EmTLbEnVwf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 3         5     75    14
+2          EmTLbEnVwf      2         6     50    12
+3          FkHNeWyqPAkMnB  2         6     50    12
+4          QHHdJkSAtrDjNkB 2         6     50    12
+5          ZfvouOb         2         6     50    12
+6          fpuubmHpGbovI   2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+QHHdJkSAtrDjNkB lost the encounter and took 25 damage!
+
+Turn: 26
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cuiiFRTNABzETrj won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: fpuubmHpGbovI, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fpuubmHpGbovI lost the encounter and took 25 damage!
+
+Turn: 28
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+ZfvouOb won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FkHNeWyqPAkMnB lost the encounter and took 25 damage!
+
+Turn: 30
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EmTLbEnVwf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 4         5     75    16
+2          EmTLbEnVwf      3         6     50    14
+3          ZfvouOb         3         6     50    14
+4          FkHNeWyqPAkMnB  2         6     25    12
+5          QHHdJkSAtrDjNkB 2         6     25    12
+6          fpuubmHpGbovI   2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+QHHdJkSAtrDjNkB won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cuiiFRTNABzETrj won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: fpuubmHpGbovI, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+fpuubmHpGbovI lost the encounter and took 25 damage!
+
+Turn: 34
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ZfvouOb lost the encounter and took 25 damage!
+
+Turn: 35
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FkHNeWyqPAkMnB won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EmTLbEnVwf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 5         5     75    21
+2          EmTLbEnVwf      4         6     50    16
+3          FkHNeWyqPAkMnB  3         6     25    14
+4          QHHdJkSAtrDjNkB 3         6     25    14
+5          ZfvouOb         3         6     25    14
+6          fpuubmHpGbovI   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+QHHdJkSAtrDjNkB won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cuiiFRTNABzETrj won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: ZfvouOb, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ZfvouOb lost the encounter and took 25 damage!
+
+Turn: 40
+Player: FkHNeWyqPAkMnB, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FkHNeWyqPAkMnB lost the encounter and took 25 damage!
+
+Turn: 41
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+EmTLbEnVwf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 6         5     75    23
+2          EmTLbEnVwf      5         6     50    18
+3          QHHdJkSAtrDjNkB 4         6     25    16
+4          FkHNeWyqPAkMnB  3         6     0     14
+5          ZfvouOb         3         6     0     14
+6          fpuubmHpGbovI   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 42
+Player: QHHdJkSAtrDjNkB, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+QHHdJkSAtrDjNkB lost the encounter and took 25 damage!
+
+Turn: 43
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cuiiFRTNABzETrj won the encounter, gained 5 coins and leveled up!
+
+Turn: 44
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EmTLbEnVwf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 7         5     75    28
+2          EmTLbEnVwf      5         6     25    18
+3          QHHdJkSAtrDjNkB 4         6     0     16
+4          FkHNeWyqPAkMnB  3         6     0     14
+5          ZfvouOb         3         6     0     14
+6          fpuubmHpGbovI   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cuiiFRTNABzETrj won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: EmTLbEnVwf, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+EmTLbEnVwf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 8         5     75    33
+2          EmTLbEnVwf      5         6     0     18
+3          QHHdJkSAtrDjNkB 4         6     0     16
+4          FkHNeWyqPAkMnB  3         6     0     14
+5          ZfvouOb         3         6     0     14
+6          fpuubmHpGbovI   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 47
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cuiiFRTNABzETrj won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 9         5     75    38
+2          EmTLbEnVwf      5         6     0     18
+3          QHHdJkSAtrDjNkB 4         6     0     16
+4          FkHNeWyqPAkMnB  3         6     0     14
+5          ZfvouOb         3         6     0     14
+6          fpuubmHpGbovI   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 48
+Player: cuiiFRTNABzETrj, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cuiiFRTNABzETrj won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          cuiiFRTNABzETrj 10        5     75    43
+2          EmTLbEnVwf      5         6     0     18
+3          QHHdJkSAtrDjNkB 4         6     0     16
+4          FkHNeWyqPAkMnB  3         6     0     14
+5          ZfvouOb         3         6     0     14
+6          fpuubmHpGbovI   2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: cuiiFRTNABzETrj
+Congratulations!
+

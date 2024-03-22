@@ -1,0 +1,156 @@
+Game is about to start!
+These are the players:
+
+1. ThsvRmsC, Warrior with RiskTaking behavior (level 1, force 5)
+2. ToARJpWSI, Warrior with RiskTaking behavior (level 1, force 5)
+3. rsjbrXQG, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. HjfNRUZy, Warrior with Responsible behavior (level 1, force 5)
+5. Ppe, Warrior with Responsible behavior (level 1, force 5)
+6. NLfD, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ThsvRmsC, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ThsvRmsC was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: ToARJpWSI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ToARJpWSI was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: rsjbrXQG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+rsjbrXQG bought 0 potions!
+
+Turn: 4
+Player: HjfNRUZy, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+HjfNRUZy bought 0 potions!
+
+Turn: 5
+Player: Ppe, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Ppe bought 0 potions!
+
+Turn: 6
+Player: NLfD, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+NLfD was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HjfNRUZy        1         5     100   10
+2          NLfD            1         4     100   10
+3          Ppe             1         5     100   10
+4          ThsvRmsC        1         4     100   10
+5          ToARJpWSI       1         4     100   10
+6          rsjbrXQG        1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: ThsvRmsC, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 53, loot 22, damage 110)
+ThsvRmsC lost the encounter and took 110 damage!
+
+Turn: 8
+Player: ToARJpWSI, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+ToARJpWSI lost the encounter and took 105 damage!
+
+Turn: 9
+Player: rsjbrXQG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 223, loot 92, damage 460)
+rsjbrXQG lost the encounter and took 460 damage!
+
+Turn: 10
+Player: HjfNRUZy, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+HjfNRUZy lost the encounter and took 65 damage!
+
+Turn: 11
+Player: Ppe, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+Ppe won the encounter, gained 4 coins and leveled up!
+
+Turn: 12
+Player: NLfD, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+NLfD lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ppe             2         5     100   14
+2          HjfNRUZy        1         5     35    10
+3          NLfD            1         4     65    10
+4          ThsvRmsC        1         4     0     10
+5          ToARJpWSI       1         4     0     10
+6          rsjbrXQG        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: HjfNRUZy, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 15, loot 6, damage 30)
+HjfNRUZy lost the encounter and took 30 damage!
+
+Turn: 14
+Player: Ppe, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 4 members (power 20, loot 8, damage 40)
+Ppe lost the encounter and took 40 damage!
+
+Turn: 15
+Player: NLfD, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 6 members (power 209, loot 86, damage 430)
+NLfD lost the encounter and took 430 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ppe             2         5     60    14
+2          HjfNRUZy        1         5     5     10
+3          NLfD            1         4     0     10
+4          ThsvRmsC        1         4     0     10
+5          ToARJpWSI       1         4     0     10
+6          rsjbrXQG        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: HjfNRUZy, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+HjfNRUZy lost the encounter and took 35 damage!
+
+Turn: 17
+Player: Ppe, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+Ppe lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Ppe             2         5     0     14
+2          HjfNRUZy        1         5     0     10
+3          NLfD            1         4     0     10
+4          ThsvRmsC        1         4     0     10
+5          ToARJpWSI       1         4     0     10
+6          rsjbrXQG        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

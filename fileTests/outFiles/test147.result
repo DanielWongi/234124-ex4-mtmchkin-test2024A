@@ -1,0 +1,75 @@
+Game is about to start!
+These are the players:
+
+1. LXKAzCMXc, Sorcerer with Responsible behavior (level 1, force 5)
+2. EIQQYAXumBq, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. BoZAUbRANmBw, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: LXKAzCMXc, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+LXKAzCMXc lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: EIQQYAXumBq, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EIQQYAXumBq won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: BoZAUbRANmBw, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+BoZAUbRANmBw lost the encounter and took 45 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EIQQYAXumBq     2         5     100   12
+2          BoZAUbRANmBw    1         5     55    10
+3          LXKAzCMXc       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: EIQQYAXumBq, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EIQQYAXumBq lost the encounter and took 25 damage!
+
+Turn: 5
+Player: BoZAUbRANmBw, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+BoZAUbRANmBw lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EIQQYAXumBq     2         5     75    12
+2          BoZAUbRANmBw    1         5     0     10
+3          LXKAzCMXc       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: EIQQYAXumBq, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 3 members (power 46, loot 205, damage 18027)
+EIQQYAXumBq lost the encounter and took 18027 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EIQQYAXumBq     2         5     0     12
+2          BoZAUbRANmBw    1         5     0     10
+3          LXKAzCMXc       1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

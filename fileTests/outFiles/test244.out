@@ -1,0 +1,128 @@
+Game is about to start!
+These are the players:
+
+1. SWYZy, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. UTkBO, Warrior with Responsible behavior (level 1, force 5)
+3. gYB, Sorcerer with Responsible behavior (level 1, force 5)
+4. VvXKD, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: SWYZy, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+SWYZy lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: UTkBO, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+UTkBO won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: gYB, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+gYB won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: VvXKD, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VvXKD won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          UTkBO           2         5     100   12
+2          VvXKD           2         5     100   12
+3          gYB             2         5     100   12
+4          SWYZy           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: UTkBO, Warrior with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+UTkBO lost the encounter and took 9001 damage!
+
+Turn: 6
+Player: gYB, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+gYB lost the encounter and took 25 damage!
+
+Turn: 7
+Player: VvXKD, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VvXKD lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          UTkBO           2         5     0     12
+2          VvXKD           2         5     75    12
+3          gYB             2         5     75    12
+4          SWYZy           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: gYB, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+gYB lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: VvXKD, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VvXKD won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VvXKD           3         5     75    14
+2          UTkBO           2         5     0     12
+3          gYB             2         5     0     12
+4          SWYZy           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: VvXKD, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VvXKD won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VvXKD           4         5     75    16
+2          UTkBO           2         5     0     12
+3          gYB             2         5     0     12
+4          SWYZy           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: VvXKD, Warrior with Responsible behavior (level 4, force 5)
+Card: Gang of 5 members (power 51, loot 114, damage 9071)
+VvXKD lost the encounter and took 9071 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VvXKD           4         5     0     16
+2          UTkBO           2         5     0     12
+3          gYB             2         5     0     12
+4          SWYZy           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

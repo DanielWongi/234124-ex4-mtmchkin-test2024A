@@ -1,0 +1,86 @@
+Game is about to start!
+These are the players:
+
+1. AhrqzGANjL, Sorcerer with Responsible behavior (level 1, force 5)
+2. bzv, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: AhrqzGANjL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+AhrqzGANjL lost the encounter and took 25 damage!
+
+Turn: 2
+Player: bzv, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bzv won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bzv             2         5     100   12
+2          AhrqzGANjL      1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: AhrqzGANjL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+AhrqzGANjL won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: bzv, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bzv lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AhrqzGANjL      2         5     75    12
+2          bzv             2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: AhrqzGANjL, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 165, loot 533, damage 45170)
+AhrqzGANjL lost the encounter and took 45170 damage!
+
+Turn: 6
+Player: bzv, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bzv lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AhrqzGANjL      2         5     0     12
+2          bzv             2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: bzv, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 2 members (power 22, loot 102, damage 9011)
+bzv lost the encounter and took 9011 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AhrqzGANjL      2         5     0     12
+2          bzv             2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

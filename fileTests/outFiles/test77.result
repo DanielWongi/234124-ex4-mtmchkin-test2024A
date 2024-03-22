@@ -1,0 +1,93 @@
+Game is about to start!
+These are the players:
+
+1. QLjqwkhzpJndWj, Warrior with Responsible behavior (level 1, force 5)
+2. ebgRQU, Sorcerer with Responsible behavior (level 1, force 5)
+3. QxGLaXZ, Warrior with RiskTaking behavior (level 1, force 5)
+4. OceEGfy, Warrior with Responsible behavior (level 1, force 5)
+5. KwZYMOpm, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: QLjqwkhzpJndWj, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QLjqwkhzpJndWj lost the encounter and took 25 damage!
+
+Turn: 2
+Player: ebgRQU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ebgRQU lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: QxGLaXZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+QxGLaXZ lost the encounter and took 25 damage!
+
+Turn: 4
+Player: OceEGfy, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+OceEGfy lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: KwZYMOpm, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+KwZYMOpm lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KwZYMOpm        1         5     0     10
+2          OceEGfy         1         5     0     10
+3          QLjqwkhzpJndWj  1         5     75    10
+4          QxGLaXZ         1         5     75    10
+5          ebgRQU          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: QLjqwkhzpJndWj, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+QLjqwkhzpJndWj won the encounter, gained 2 coins and leveled up!
+
+Turn: 7
+Player: QxGLaXZ, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+QxGLaXZ lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QLjqwkhzpJndWj  2         5     75    12
+2          KwZYMOpm        1         5     0     10
+3          OceEGfy         1         5     0     10
+4          QxGLaXZ         1         5     0     10
+5          ebgRQU          1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: QLjqwkhzpJndWj, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 4 members (power 46, loot 112, damage 9061)
+QLjqwkhzpJndWj lost the encounter and took 9061 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QLjqwkhzpJndWj  2         5     0     12
+2          KwZYMOpm        1         5     0     10
+3          OceEGfy         1         5     0     10
+4          QxGLaXZ         1         5     0     10
+5          ebgRQU          1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

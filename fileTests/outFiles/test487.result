@@ -1,0 +1,102 @@
+Game is about to start!
+These are the players:
+
+1. UWMhMs, Warrior with RiskTaking behavior (level 1, force 5)
+2. GtUcDDdtPBIvOQO, Sorcerer with Responsible behavior (level 1, force 5)
+3. uqduDyHWaF, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: UWMhMs, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+UWMhMs was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: GtUcDDdtPBIvOQO, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 56, loot 209, damage 18047)
+GtUcDDdtPBIvOQO lost the encounter and took 18047 damage!
+
+Turn: 3
+Player: uqduDyHWaF, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 29, loot 105, damage 9026)
+uqduDyHWaF lost the encounter and took 9026 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GtUcDDdtPBIvOQO 1         5     0     10
+2          UWMhMs          1         4     100   10
+3          uqduDyHWaF      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: UWMhMs, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+UWMhMs lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          GtUcDDdtPBIvOQO 1         5     0     10
+2          UWMhMs          1         4     75    10
+3          uqduDyHWaF      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: UWMhMs, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+UWMhMs won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          UWMhMs          2         4     75    12
+2          GtUcDDdtPBIvOQO 1         5     0     10
+3          uqduDyHWaF      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: UWMhMs, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+UWMhMs lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          UWMhMs          2         4     40    12
+2          GtUcDDdtPBIvOQO 1         5     0     10
+3          uqduDyHWaF      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: UWMhMs, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Dragon (power 17, loot 100, damage 9001)
+UWMhMs lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          UWMhMs          2         4     0     12
+2          GtUcDDdtPBIvOQO 1         5     0     10
+3          uqduDyHWaF      1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

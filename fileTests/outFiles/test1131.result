@@ -1,0 +1,408 @@
+Game is about to start!
+These are the players:
+
+1. kXxLL, Warrior with Responsible behavior (level 1, force 5)
+2. qag, Warrior with RiskTaking behavior (level 1, force 5)
+3. PpXMWwIgTS, Warrior with Responsible behavior (level 1, force 5)
+4. eaioCzIFVKL, Sorcerer with Responsible behavior (level 1, force 5)
+5. COsKot, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: kXxLL, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+kXxLL was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: qag, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+qag was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+PpXMWwIgTS bought 0 potions!
+
+Turn: 4
+Player: eaioCzIFVKL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+eaioCzIFVKL bought 0 potions!
+
+Turn: 5
+Player: COsKot, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+COsKot bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          COsKot          1         5     100   10
+2          PpXMWwIgTS      1         5     100   10
+3          eaioCzIFVKL     1         5     100   10
+4          kXxLL           1         4     100   10
+5          qag             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: kXxLL, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+kXxLL bought 0 potions!
+
+Turn: 7
+Player: qag, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qag won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+PpXMWwIgTS won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: eaioCzIFVKL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eaioCzIFVKL lost the encounter and took 25 damage!
+
+Turn: 10
+Player: COsKot, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          COsKot          2         5     100   12
+2          PpXMWwIgTS      2         5     100   12
+3          qag             2         4     100   12
+4          eaioCzIFVKL     1         5     75    10
+5          kXxLL           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: kXxLL, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kXxLL lost the encounter and took 25 damage!
+
+Turn: 12
+Player: qag, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qag lost the encounter and took 25 damage!
+
+Turn: 13
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+PpXMWwIgTS lost the encounter and took 25 damage!
+
+Turn: 14
+Player: eaioCzIFVKL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eaioCzIFVKL lost the encounter and took 25 damage!
+
+Turn: 15
+Player: COsKot, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          COsKot          3         5     100   14
+2          PpXMWwIgTS      2         5     75    12
+3          qag             2         4     75    12
+4          eaioCzIFVKL     1         5     50    10
+5          kXxLL           1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: kXxLL, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kXxLL won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: qag, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qag lost the encounter and took 25 damage!
+
+Turn: 18
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+PpXMWwIgTS won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: eaioCzIFVKL, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eaioCzIFVKL won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: COsKot, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+COsKot lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          COsKot          3         5     75    14
+2          PpXMWwIgTS      3         5     75    14
+3          eaioCzIFVKL     2         5     50    12
+4          kXxLL           2         4     75    12
+5          qag             2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: kXxLL, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kXxLL lost the encounter and took 25 damage!
+
+Turn: 22
+Player: qag, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qag won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+PpXMWwIgTS won the encounter, gained 5 coins and leveled up!
+
+Turn: 24
+Player: eaioCzIFVKL, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eaioCzIFVKL lost the encounter and took 25 damage!
+
+Turn: 25
+Player: COsKot, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      4         5     75    19
+2          COsKot          4         5     75    16
+3          qag             3         4     50    14
+4          eaioCzIFVKL     2         5     25    12
+5          kXxLL           2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: kXxLL, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kXxLL won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: qag, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qag lost the encounter and took 25 damage!
+
+Turn: 28
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+PpXMWwIgTS won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: eaioCzIFVKL, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eaioCzIFVKL lost the encounter and took 25 damage!
+
+Turn: 30
+Player: COsKot, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+COsKot lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      5         5     75    21
+2          COsKot          4         5     50    16
+3          kXxLL           3         4     50    14
+4          qag             3         4     25    14
+5          eaioCzIFVKL     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: kXxLL, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kXxLL lost the encounter and took 25 damage!
+
+Turn: 32
+Player: qag, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qag won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+PpXMWwIgTS won the encounter, gained 5 coins and leveled up!
+
+Turn: 34
+Player: COsKot, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      6         5     75    26
+2          COsKot          5         5     50    18
+3          qag             4         4     25    16
+4          kXxLL           3         4     25    14
+5          eaioCzIFVKL     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: kXxLL, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kXxLL won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: qag, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+qag won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+PpXMWwIgTS won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: COsKot, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      7         5     75    28
+2          COsKot          6         5     50    20
+3          qag             5         4     25    18
+4          kXxLL           4         4     25    16
+5          eaioCzIFVKL     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: kXxLL, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kXxLL won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: qag, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qag won the encounter, gained 5 coins and leveled up!
+
+Turn: 41
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+PpXMWwIgTS won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: COsKot, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      8         5     75    33
+2          COsKot          7         5     50    22
+3          qag             6         4     25    23
+4          kXxLL           5         4     25    18
+5          eaioCzIFVKL     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: kXxLL, Warrior with Responsible behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+kXxLL won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: qag, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qag won the encounter, gained 5 coins and leveled up!
+
+Turn: 45
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+PpXMWwIgTS won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: COsKot, Sorcerer with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+COsKot won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      9         5     75    38
+2          COsKot          8         5     50    24
+3          qag             7         4     25    28
+4          kXxLL           6         4     25    20
+5          eaioCzIFVKL     2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 47
+Player: kXxLL, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+kXxLL won the encounter, gained 5 coins and leveled up!
+
+Turn: 48
+Player: qag, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+qag won the encounter, gained 5 coins and leveled up!
+
+Turn: 49
+Player: PpXMWwIgTS, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+PpXMWwIgTS won the encounter, gained 5 coins and leveled up!
+
+Turn: 50
+Player: COsKot, Sorcerer with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+COsKot won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PpXMWwIgTS      10        5     75    43
+2          COsKot          9         5     50    29
+3          qag             8         4     25    33
+4          kXxLL           7         4     25    25
+5          eaioCzIFVKL     2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: PpXMWwIgTS
+Congratulations!
+

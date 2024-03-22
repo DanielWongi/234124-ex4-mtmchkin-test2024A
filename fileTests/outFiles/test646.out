@@ -1,0 +1,86 @@
+Game is about to start!
+These are the players:
+
+1. oLoCxclfxgPH, Warrior with Responsible behavior (level 1, force 5)
+2. xOp, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: oLoCxclfxgPH, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+oLoCxclfxgPH won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: xOp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xOp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oLoCxclfxgPH    2         5     100   12
+2          xOp             2         5     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: oLoCxclfxgPH, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+oLoCxclfxgPH lost the encounter and took 25 damage!
+
+Turn: 4
+Player: xOp, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xOp won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xOp             3         5     100   14
+2          oLoCxclfxgPH    2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: oLoCxclfxgPH, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 4 members (power 27, loot 11, damage 55)
+oLoCxclfxgPH lost the encounter and took 55 damage!
+
+Turn: 6
+Player: xOp, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Gang of 3 members (power 90, loot 37, damage 185)
+xOp lost the encounter and took 185 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xOp             3         5     0     14
+2          oLoCxclfxgPH    2         5     20    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: oLoCxclfxgPH, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 5 members (power 133, loot 54, damage 270)
+oLoCxclfxgPH lost the encounter and took 270 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xOp             3         5     0     14
+2          oLoCxclfxgPH    2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

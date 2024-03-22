@@ -1,0 +1,106 @@
+Game is about to start!
+These are the players:
+
+1. oHuFYX, Warrior with RiskTaking behavior (level 1, force 5)
+2. atrLX, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: oHuFYX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+oHuFYX bought 0 potions!
+
+Turn: 2
+Player: atrLX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+atrLX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          atrLX           1         5     75    10
+2          oHuFYX          1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: oHuFYX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+oHuFYX lost the encounter and took 60 damage!
+
+Turn: 4
+Player: atrLX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+atrLX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          atrLX           1         5     50    10
+2          oHuFYX          1         5     40    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: oHuFYX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+oHuFYX won the encounter, gained 2 coins and leveled up!
+
+Turn: 6
+Player: atrLX, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+atrLX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          atrLX           2         5     50    12
+2          oHuFYX          2         5     40    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: oHuFYX, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+oHuFYX won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: atrLX, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 4 members (power 323, loot 133, damage 665)
+atrLX lost the encounter and took 665 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oHuFYX          3         5     40    14
+2          atrLX           2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: oHuFYX, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Gang of 4 members (power 34, loot 14, damage 70)
+oHuFYX lost the encounter and took 70 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oHuFYX          3         5     0     14
+2          atrLX           2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

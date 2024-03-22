@@ -1,0 +1,111 @@
+Game is about to start!
+These are the players:
+
+1. ULDoSKhUgo, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. hkPMXNNtWn, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. NsqhO, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. JdmwexTdyrXNVl, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ULDoSKhUgo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ULDoSKhUgo was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: hkPMXNNtWn, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+hkPMXNNtWn was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: NsqhO, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+NsqhO lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: JdmwexTdyrXNVl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 158, loot 437, damage 36189)
+JdmwexTdyrXNVl lost the encounter and took 36189 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          JdmwexTdyrXNVl  1         5     0     10
+2          NsqhO           1         5     0     10
+3          ULDoSKhUgo      1         6     100   10
+4          hkPMXNNtWn      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: ULDoSKhUgo, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+ULDoSKhUgo lost the encounter and took 50 damage!
+
+Turn: 6
+Player: hkPMXNNtWn, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+hkPMXNNtWn won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hkPMXNNtWn      2         6     100   12
+2          JdmwexTdyrXNVl  1         5     0     10
+3          NsqhO           1         5     0     10
+4          ULDoSKhUgo      1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: ULDoSKhUgo, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ULDoSKhUgo lost the encounter and took 25 damage!
+
+Turn: 8
+Player: hkPMXNNtWn, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+hkPMXNNtWn lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hkPMXNNtWn      2         6     75    12
+2          JdmwexTdyrXNVl  1         5     0     10
+3          NsqhO           1         5     0     10
+4          ULDoSKhUgo      1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: ULDoSKhUgo, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+ULDoSKhUgo lost the encounter and took 25 damage!
+
+Turn: 10
+Player: hkPMXNNtWn, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+hkPMXNNtWn lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          hkPMXNNtWn      2         6     0     12
+2          JdmwexTdyrXNVl  1         5     0     10
+3          NsqhO           1         5     0     10
+4          ULDoSKhUgo      1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

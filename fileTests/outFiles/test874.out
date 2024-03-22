@@ -1,0 +1,268 @@
+Game is about to start!
+These are the players:
+
+1. QFZNAwc, Warrior with RiskTaking behavior (level 1, force 5)
+2. VSKpm, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. vkicU, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+QFZNAwc was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+VSKpm was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: vkicU, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+vkicU was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QFZNAwc         1         4     100   10
+2          VSKpm           1         6     100   10
+3          vkicU           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+QFZNAwc bought 0 potions!
+
+Turn: 5
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+VSKpm was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: vkicU, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+vkicU was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QFZNAwc         1         4     100   10
+2          VSKpm           1         7     100   10
+3          vkicU           1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+QFZNAwc won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+VSKpm lost the encounter and took 25 damage!
+
+Turn: 9
+Player: vkicU, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+vkicU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          QFZNAwc         2         4     100   12
+2          vkicU           2         3     100   12
+3          VSKpm           1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+QFZNAwc lost the encounter and took 25 damage!
+
+Turn: 11
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+VSKpm won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: vkicU, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+vkicU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           3         3     100   14
+2          QFZNAwc         2         4     75    12
+3          VSKpm           2         7     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+QFZNAwc lost the encounter and took 25 damage!
+
+Turn: 14
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+VSKpm won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: vkicU, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+vkicU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           4         3     100   16
+2          VSKpm           3         7     75    14
+3          QFZNAwc         2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+QFZNAwc lost the encounter and took 25 damage!
+
+Turn: 17
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+VSKpm lost the encounter and took 25 damage!
+
+Turn: 18
+Player: vkicU, Warrior with Responsible behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+vkicU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           4         3     75    16
+2          VSKpm           3         7     50    14
+3          QFZNAwc         2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: QFZNAwc, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+QFZNAwc lost the encounter and took 25 damage!
+
+Turn: 20
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+VSKpm won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: vkicU, Warrior with Responsible behavior (level 4, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+vkicU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          VSKpm           4         7     50    16
+2          vkicU           4         3     50    16
+3          QFZNAwc         2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+VSKpm lost the encounter and took 25 damage!
+
+Turn: 23
+Player: vkicU, Warrior with Responsible behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+vkicU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           5         3     50    18
+2          VSKpm           4         7     25    16
+3          QFZNAwc         2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: VSKpm, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+VSKpm lost the encounter and took 25 damage!
+
+Turn: 25
+Player: vkicU, Warrior with Responsible behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+vkicU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           6         3     50    20
+2          VSKpm           4         7     0     16
+3          QFZNAwc         2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: vkicU, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+vkicU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           6         3     25    20
+2          VSKpm           4         7     0     16
+3          QFZNAwc         2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: vkicU, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+vkicU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          vkicU           6         3     0     20
+2          VSKpm           4         7     0     16
+3          QFZNAwc         2         4     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

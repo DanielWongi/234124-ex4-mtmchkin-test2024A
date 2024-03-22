@@ -1,0 +1,299 @@
+Game is about to start!
+These are the players:
+
+1. WxV, Warrior with RiskTaking behavior (level 1, force 5)
+2. MgIlYGHgSI, Warrior with Responsible behavior (level 1, force 5)
+3. Jal, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WxV, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+WxV was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+MgIlYGHgSI was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: Jal, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+Jal was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Jal             1         6     100   10
+2          MgIlYGHgSI      1         4     100   10
+3          WxV             1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: WxV, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+WxV was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+MgIlYGHgSI was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: Jal, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+Jal was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Jal             1         7     100   10
+2          MgIlYGHgSI      1         3     100   10
+3          WxV             1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: WxV, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MgIlYGHgSI won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: Jal, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+Jal lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MgIlYGHgSI      2         3     100   12
+2          WxV             2         3     100   12
+3          Jal             1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: WxV, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MgIlYGHgSI won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: Jal, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+Jal lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          MgIlYGHgSI      3         3     100   14
+2          WxV             3         3     100   14
+3          Jal             1         7     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: WxV, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MgIlYGHgSI lost the encounter and took 25 damage!
+
+Turn: 15
+Player: Jal, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             4         3     100   16
+2          MgIlYGHgSI      3         3     75    14
+3          Jal             2         7     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: WxV, Warrior with RiskTaking behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MgIlYGHgSI lost the encounter and took 25 damage!
+
+Turn: 18
+Player: Jal, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             5         3     100   18
+2          Jal             3         7     50    14
+3          MgIlYGHgSI      3         3     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: WxV, Warrior with RiskTaking behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MgIlYGHgSI lost the encounter and took 25 damage!
+
+Turn: 21
+Player: Jal, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             6         3     100   20
+2          Jal             4         7     50    16
+3          MgIlYGHgSI      3         3     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: WxV, Warrior with RiskTaking behavior (level 6, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MgIlYGHgSI won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: Jal, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             7         3     100   22
+2          Jal             5         7     50    18
+3          MgIlYGHgSI      4         3     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: WxV, Warrior with RiskTaking behavior (level 7, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MgIlYGHgSI won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: Jal, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             8         3     100   24
+2          Jal             6         7     50    20
+3          MgIlYGHgSI      5         3     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: WxV, Warrior with RiskTaking behavior (level 8, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+WxV won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+MgIlYGHgSI won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: Jal, Sorcerer with Responsible behavior (level 6, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             9         3     100   26
+2          Jal             7         7     50    22
+3          MgIlYGHgSI      6         3     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: WxV, Warrior with RiskTaking behavior (level 9, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+WxV won the encounter, gained 5 coins and leveled up!
+
+Turn: 32
+Player: MgIlYGHgSI, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+MgIlYGHgSI lost the encounter and took 25 damage!
+
+Turn: 33
+Player: Jal, Sorcerer with Responsible behavior (level 7, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Jal won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WxV             10        3     100   31
+2          Jal             8         7     50    24
+3          MgIlYGHgSI      6         3     0     20
+
+----------------------------------------
+
+Game is over!
+The winner is: WxV
+Congratulations!
+

@@ -1,0 +1,106 @@
+Game is about to start!
+These are the players:
+
+1. mrIgq, Warrior with Responsible behavior (level 1, force 5)
+2. wwzIR, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: mrIgq, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+mrIgq bought 0 potions!
+
+Turn: 2
+Player: wwzIR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+wwzIR was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          mrIgq           1         5     100   10
+2          wwzIR           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: mrIgq, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+mrIgq bought 0 potions!
+
+Turn: 4
+Player: wwzIR, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+wwzIR bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          mrIgq           1         5     100   10
+2          wwzIR           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: mrIgq, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+mrIgq was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: wwzIR, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+wwzIR was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          mrIgq           1         4     100   10
+2          wwzIR           1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: mrIgq, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+mrIgq lost the encounter and took 60 damage!
+
+Turn: 8
+Player: wwzIR, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 4 members (power 765, loot 315, damage 1575)
+wwzIR lost the encounter and took 1575 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          mrIgq           1         4     40    10
+2          wwzIR           1         7     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: mrIgq, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 6 members (power 126, loot 52, damage 260)
+mrIgq lost the encounter and took 260 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          mrIgq           1         4     0     10
+2          wwzIR           1         7     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

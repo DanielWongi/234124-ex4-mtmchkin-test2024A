@@ -1,0 +1,126 @@
+Game is about to start!
+These are the players:
+
+1. Dtwtie, Warrior with Responsible behavior (level 1, force 5)
+2. SiaZIykROsoMv, Warrior with RiskTaking behavior (level 1, force 5)
+3. LgQh, Warrior with RiskTaking behavior (level 1, force 5)
+4. aXs, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: Dtwtie, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+Dtwtie bought 0 potions!
+
+Turn: 2
+Player: SiaZIykROsoMv, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+SiaZIykROsoMv bought 0 potions!
+
+Turn: 3
+Player: LgQh, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+LgQh bought 0 potions!
+
+Turn: 4
+Player: aXs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+aXs bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Dtwtie          1         5     100   10
+2          LgQh            1         5     100   10
+3          SiaZIykROsoMv   1         5     100   10
+4          aXs             1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: Dtwtie, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+Dtwtie was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: SiaZIykROsoMv, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+SiaZIykROsoMv was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: LgQh, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 53, loot 22, damage 110)
+LgQh lost the encounter and took 110 damage!
+
+Turn: 8
+Player: aXs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+aXs lost the encounter and took 45 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Dtwtie          1         4     100   10
+2          LgQh            1         5     0     10
+3          SiaZIykROsoMv   1         4     100   10
+4          aXs             1         5     55    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: Dtwtie, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+Dtwtie lost the encounter and took 45 damage!
+
+Turn: 10
+Player: SiaZIykROsoMv, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+SiaZIykROsoMv lost the encounter and took 65 damage!
+
+Turn: 11
+Player: aXs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 233, loot 96, damage 480)
+aXs lost the encounter and took 480 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Dtwtie          1         4     55    10
+2          LgQh            1         5     0     10
+3          SiaZIykROsoMv   1         4     35    10
+4          aXs             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: Dtwtie, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 6 members (power 136, loot 56, damage 280)
+Dtwtie lost the encounter and took 280 damage!
+
+Turn: 13
+Player: SiaZIykROsoMv, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+SiaZIykROsoMv lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Dtwtie          1         4     0     10
+2          LgQh            1         5     0     10
+3          SiaZIykROsoMv   1         4     0     10
+4          aXs             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

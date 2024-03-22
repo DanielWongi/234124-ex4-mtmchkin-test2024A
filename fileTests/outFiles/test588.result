@@ -1,0 +1,59 @@
+Game is about to start!
+These are the players:
+
+1. WBdSQuheJfaYXtP, Warrior with Responsible behavior (level 1, force 5)
+2. bdksAzWqVOUh, Warrior with RiskTaking behavior (level 1, force 5)
+3. FiudtJGx, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WBdSQuheJfaYXtP, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+WBdSQuheJfaYXtP lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: bdksAzWqVOUh, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bdksAzWqVOUh won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: FiudtJGx, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FiudtJGx lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bdksAzWqVOUh    2         5     100   12
+2          FiudtJGx        1         5     75    10
+3          WBdSQuheJfaYXtP 1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: bdksAzWqVOUh, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+bdksAzWqVOUh lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: FiudtJGx, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 44, loot 204, damage 18022)
+FiudtJGx lost the encounter and took 18022 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bdksAzWqVOUh    2         5     0     12
+2          FiudtJGx        1         5     0     10
+3          WBdSQuheJfaYXtP 1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

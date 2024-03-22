@@ -1,0 +1,80 @@
+Game is about to start!
+These are the players:
+
+1. eQgXyHTFFG, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. ZOnVEc, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. owyrubDvS, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: eQgXyHTFFG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+eQgXyHTFFG bought 0 potions!
+
+Turn: 2
+Player: ZOnVEc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZOnVEc won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: owyrubDvS, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+owyrubDvS won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZOnVEc          2         5     100   12
+2          owyrubDvS       2         5     100   12
+3          eQgXyHTFFG      1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: eQgXyHTFFG, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+eQgXyHTFFG lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: ZOnVEc, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 6 members (power 66, loot 306, damage 27033)
+ZOnVEc lost the encounter and took 27033 damage!
+
+Turn: 6
+Player: owyrubDvS, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+owyrubDvS won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          owyrubDvS       3         5     100   14
+2          ZOnVEc          2         5     0     12
+3          eQgXyHTFFG      1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: owyrubDvS, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+owyrubDvS lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          owyrubDvS       3         5     0     14
+2          ZOnVEc          2         5     0     12
+3          eQgXyHTFFG      1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,106 @@
+Game is about to start!
+These are the players:
+
+1. ockD, Sorcerer with Responsible behavior (level 1, force 5)
+2. awvLzQo, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: ockD, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+ockD bought 0 potions!
+
+Turn: 2
+Player: awvLzQo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+awvLzQo bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          awvLzQo         1         5     100   10
+2          ockD            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: ockD, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+ockD bought 0 potions!
+
+Turn: 4
+Player: awvLzQo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+awvLzQo bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          awvLzQo         1         5     100   10
+2          ockD            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: ockD, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+ockD bought 0 potions!
+
+Turn: 6
+Player: awvLzQo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+awvLzQo was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          awvLzQo         1         6     100   10
+2          ockD            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: ockD, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+ockD lost the encounter and took 50 damage!
+
+Turn: 8
+Player: awvLzQo, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 58, loot 24, damage 120)
+awvLzQo lost the encounter and took 120 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          awvLzQo         1         6     0     10
+2          ockD            1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: ockD, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+ockD lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          awvLzQo         1         6     0     10
+2          ockD            1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

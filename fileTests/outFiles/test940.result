@@ -1,0 +1,131 @@
+Game is about to start!
+These are the players:
+
+1. INRbJN, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. mepOUpjwtjeQb, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. LRvUoWLBuVxaq, Sorcerer with Responsible behavior (level 1, force 5)
+4. hcJnzWOxsTSH, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: INRbJN, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+INRbJN was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: mepOUpjwtjeQb, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+mepOUpjwtjeQb was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: LRvUoWLBuVxaq, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+LRvUoWLBuVxaq was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: hcJnzWOxsTSH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+hcJnzWOxsTSH bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          INRbJN          1         6     100   10
+2          LRvUoWLBuVxaq   1         6     100   10
+3          hcJnzWOxsTSH    1         5     100   10
+4          mepOUpjwtjeQb   1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: INRbJN, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+INRbJN bought 0 potions!
+
+Turn: 6
+Player: mepOUpjwtjeQb, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+mepOUpjwtjeQb was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: LRvUoWLBuVxaq, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+LRvUoWLBuVxaq lost the encounter and took 95 damage!
+
+Turn: 8
+Player: hcJnzWOxsTSH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+hcJnzWOxsTSH lost the encounter and took 80 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          INRbJN          1         6     100   10
+2          LRvUoWLBuVxaq   1         6     5     10
+3          hcJnzWOxsTSH    1         5     20    10
+4          mepOUpjwtjeQb   1         7     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: INRbJN, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 4 members (power 41, loot 17, damage 85)
+INRbJN lost the encounter and took 85 damage!
+
+Turn: 10
+Player: mepOUpjwtjeQb, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 4 members (power 41, loot 17, damage 85)
+mepOUpjwtjeQb lost the encounter and took 85 damage!
+
+Turn: 11
+Player: LRvUoWLBuVxaq, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 4 members (power 41, loot 17, damage 85)
+LRvUoWLBuVxaq lost the encounter and took 85 damage!
+
+Turn: 12
+Player: hcJnzWOxsTSH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+hcJnzWOxsTSH lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          INRbJN          1         6     15    10
+2          LRvUoWLBuVxaq   1         6     0     10
+3          hcJnzWOxsTSH    1         5     0     10
+4          mepOUpjwtjeQb   1         7     15    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: INRbJN, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 58, loot 24, damage 120)
+INRbJN lost the encounter and took 120 damage!
+
+Turn: 14
+Player: mepOUpjwtjeQb, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+mepOUpjwtjeQb lost the encounter and took 95 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          INRbJN          1         6     0     10
+2          LRvUoWLBuVxaq   1         6     0     10
+3          hcJnzWOxsTSH    1         5     0     10
+4          mepOUpjwtjeQb   1         7     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

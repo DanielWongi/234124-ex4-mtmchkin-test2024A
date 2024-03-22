@@ -1,0 +1,319 @@
+Game is about to start!
+These are the players:
+
+1. yuJcOW, Warrior with Responsible behavior (level 1, force 5)
+2. arlVUy, Warrior with RiskTaking behavior (level 1, force 5)
+3. CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. XrEH, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: yuJcOW, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+yuJcOW bought 0 potions!
+
+Turn: 2
+Player: arlVUy, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+arlVUy bought 0 potions!
+
+Turn: 3
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+CHcKfFMiMHsp bought 0 potions!
+
+Turn: 4
+Player: XrEH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+XrEH bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CHcKfFMiMHsp    1         5     100   10
+2          XrEH            1         5     100   10
+3          arlVUy          1         5     100   10
+4          yuJcOW          1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: yuJcOW, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+yuJcOW was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: arlVUy, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+arlVUy was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CHcKfFMiMHsp lost the encounter and took 25 damage!
+
+Turn: 8
+Player: XrEH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+XrEH won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            2         5     100   12
+2          CHcKfFMiMHsp    1         5     75    10
+3          arlVUy          1         4     100   10
+4          yuJcOW          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: yuJcOW, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+yuJcOW lost the encounter and took 25 damage!
+
+Turn: 10
+Player: arlVUy, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+arlVUy won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CHcKfFMiMHsp lost the encounter and took 25 damage!
+
+Turn: 12
+Player: XrEH, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+XrEH won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            3         5     100   14
+2          arlVUy          2         4     100   12
+3          CHcKfFMiMHsp    1         5     50    10
+4          yuJcOW          1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: yuJcOW, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yuJcOW won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: arlVUy, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+arlVUy won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+CHcKfFMiMHsp won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: XrEH, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XrEH won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            4         5     100   19
+2          arlVUy          3         4     100   14
+3          CHcKfFMiMHsp    2         5     50    12
+4          yuJcOW          2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: yuJcOW, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yuJcOW won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: arlVUy, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+arlVUy won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CHcKfFMiMHsp lost the encounter and took 25 damage!
+
+Turn: 20
+Player: XrEH, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+XrEH won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            5         5     100   21
+2          arlVUy          4         4     100   16
+3          yuJcOW          3         4     75    14
+4          CHcKfFMiMHsp    2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: yuJcOW, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yuJcOW won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: arlVUy, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+arlVUy won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+CHcKfFMiMHsp won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: XrEH, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XrEH won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            6         5     100   26
+2          arlVUy          5         4     100   18
+3          yuJcOW          4         4     75    16
+4          CHcKfFMiMHsp    3         5     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: yuJcOW, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+yuJcOW lost the encounter and took 25 damage!
+
+Turn: 26
+Player: arlVUy, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+arlVUy won the encounter, gained 5 coins and leveled up!
+
+Turn: 27
+Player: CHcKfFMiMHsp, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CHcKfFMiMHsp lost the encounter and took 25 damage!
+
+Turn: 28
+Player: XrEH, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+XrEH won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            7         5     100   28
+2          arlVUy          6         4     100   23
+3          yuJcOW          4         4     50    16
+4          CHcKfFMiMHsp    3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: yuJcOW, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yuJcOW won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: arlVUy, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+arlVUy won the encounter, gained 5 coins and leveled up!
+
+Turn: 31
+Player: XrEH, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XrEH won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            8         5     100   33
+2          arlVUy          7         4     100   28
+3          yuJcOW          5         4     50    18
+4          CHcKfFMiMHsp    3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: yuJcOW, Warrior with Responsible behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+yuJcOW won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: arlVUy, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+arlVUy won the encounter, gained 5 coins and leveled up!
+
+Turn: 34
+Player: XrEH, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+XrEH won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            9         5     100   35
+2          arlVUy          8         4     100   33
+3          yuJcOW          6         4     50    20
+4          CHcKfFMiMHsp    3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: yuJcOW, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+yuJcOW won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: arlVUy, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+arlVUy won the encounter, gained 5 coins and leveled up!
+
+Turn: 37
+Player: XrEH, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XrEH won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          XrEH            10        5     100   40
+2          arlVUy          9         4     100   38
+3          yuJcOW          7         4     50    25
+4          CHcKfFMiMHsp    3         5     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: XrEH
+Congratulations!
+

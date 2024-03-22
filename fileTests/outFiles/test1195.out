@@ -1,0 +1,133 @@
+Game is about to start!
+These are the players:
+
+1. bBdkBzqLQBa, Warrior with RiskTaking behavior (level 1, force 5)
+2. PqIUecx, Warrior with Responsible behavior (level 1, force 5)
+3. zsVQYtFkw, Sorcerer with Responsible behavior (level 1, force 5)
+4. NMXXizIcH, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: bBdkBzqLQBa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bBdkBzqLQBa bought 0 potions!
+
+Turn: 2
+Player: PqIUecx, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+PqIUecx bought 0 potions!
+
+Turn: 3
+Player: zsVQYtFkw, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+zsVQYtFkw bought 0 potions!
+
+Turn: 4
+Player: NMXXizIcH, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+NMXXizIcH bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NMXXizIcH       1         5     100   10
+2          PqIUecx         1         5     100   10
+3          bBdkBzqLQBa     1         5     100   10
+4          zsVQYtFkw       1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: bBdkBzqLQBa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bBdkBzqLQBa bought 0 potions!
+
+Turn: 6
+Player: PqIUecx, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+PqIUecx bought 0 potions!
+
+Turn: 7
+Player: zsVQYtFkw, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 48, loot 20, damage 100)
+zsVQYtFkw lost the encounter and took 100 damage!
+
+Turn: 8
+Player: NMXXizIcH, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 266, loot 110, damage 550)
+NMXXizIcH lost the encounter and took 550 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NMXXizIcH       1         5     0     10
+2          PqIUecx         1         5     100   10
+3          bBdkBzqLQBa     1         5     100   10
+4          zsVQYtFkw       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: bBdkBzqLQBa, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 51, loot 21, damage 105)
+bBdkBzqLQBa lost the encounter and took 105 damage!
+
+Turn: 10
+Player: PqIUecx, Warrior with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+PqIUecx won the encounter, gained 4 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PqIUecx         2         5     100   14
+2          NMXXizIcH       1         5     0     10
+3          bBdkBzqLQBa     1         5     0     10
+4          zsVQYtFkw       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: PqIUecx, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+PqIUecx lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PqIUecx         2         5     50    14
+2          NMXXizIcH       1         5     0     10
+3          bBdkBzqLQBa     1         5     0     10
+4          zsVQYtFkw       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: PqIUecx, Warrior with Responsible behavior (level 2, force 5)
+Card: Gang of 6 members (power 235, loot 97, damage 485)
+PqIUecx lost the encounter and took 485 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PqIUecx         2         5     0     14
+2          NMXXizIcH       1         5     0     10
+3          bBdkBzqLQBa     1         5     0     10
+4          zsVQYtFkw       1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

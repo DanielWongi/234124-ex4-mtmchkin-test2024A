@@ -1,0 +1,101 @@
+Game is about to start!
+These are the players:
+
+1. pQbKBeGATukGjT, Sorcerer with Responsible behavior (level 1, force 5)
+2. pwvXjnH, Warrior with RiskTaking behavior (level 1, force 5)
+3. nxYhoAWz, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: pQbKBeGATukGjT, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+pQbKBeGATukGjT was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: pwvXjnH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+pwvXjnH bought 0 potions!
+
+Turn: 3
+Player: nxYhoAWz, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+nxYhoAWz lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nxYhoAWz        1         5     75    10
+2          pQbKBeGATukGjT  1         6     100   10
+3          pwvXjnH         1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: pQbKBeGATukGjT, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+pQbKBeGATukGjT lost the encounter and took 25 damage!
+
+Turn: 5
+Player: pwvXjnH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+pwvXjnH lost the encounter and took 35 damage!
+
+Turn: 6
+Player: nxYhoAWz, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+nxYhoAWz lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          nxYhoAWz        1         5     0     10
+2          pQbKBeGATukGjT  1         6     75    10
+3          pwvXjnH         1         5     65    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: pQbKBeGATukGjT, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+pQbKBeGATukGjT won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: pwvXjnH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 51, loot 114, damage 9071)
+pwvXjnH lost the encounter and took 9071 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pQbKBeGATukGjT  2         6     75    12
+2          nxYhoAWz        1         5     0     10
+3          pwvXjnH         1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: pQbKBeGATukGjT, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+pQbKBeGATukGjT lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pQbKBeGATukGjT  2         6     0     12
+2          nxYhoAWz        1         5     0     10
+3          pwvXjnH         1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

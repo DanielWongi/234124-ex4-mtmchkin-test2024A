@@ -1,0 +1,130 @@
+Game is about to start!
+These are the players:
+
+1. xqA, Sorcerer with Responsible behavior (level 1, force 5)
+2. esSsl, Sorcerer with Responsible behavior (level 1, force 5)
+3. ICRqyib, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. hpMCEjGFNcpZr, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: xqA, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+xqA lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: esSsl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+esSsl lost the encounter and took 25 damage!
+
+Turn: 3
+Player: ICRqyib, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ICRqyib lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: hpMCEjGFNcpZr, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+hpMCEjGFNcpZr lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ICRqyib         1         5     0     10
+2          esSsl           1         5     75    10
+3          hpMCEjGFNcpZr   1         5     0     10
+4          xqA             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: esSsl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+esSsl lost the encounter and took 35 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ICRqyib         1         5     0     10
+2          esSsl           1         5     40    10
+3          hpMCEjGFNcpZr   1         5     0     10
+4          xqA             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: esSsl, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+esSsl won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          esSsl           2         5     40    12
+2          ICRqyib         1         5     0     10
+3          hpMCEjGFNcpZr   1         5     0     10
+4          xqA             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: esSsl, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+esSsl won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          esSsl           3         5     40    14
+2          ICRqyib         1         5     0     10
+3          hpMCEjGFNcpZr   1         5     0     10
+4          xqA             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: esSsl, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+esSsl lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          esSsl           3         5     15    14
+2          ICRqyib         1         5     0     10
+3          hpMCEjGFNcpZr   1         5     0     10
+4          xqA             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: esSsl, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+esSsl lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          esSsl           3         5     0     14
+2          ICRqyib         1         5     0     10
+3          hpMCEjGFNcpZr   1         5     0     10
+4          xqA             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

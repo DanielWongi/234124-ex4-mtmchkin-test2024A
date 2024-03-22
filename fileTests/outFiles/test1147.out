@@ -1,0 +1,186 @@
+Game is about to start!
+These are the players:
+
+1. xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 1, force 5)
+2. wOC, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+xWPagPKlkCvXy bought 0 potions!
+
+Turn: 2
+Player: wOC, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+wOC was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             1         4     100   10
+2          xWPagPKlkCvXy   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+xWPagPKlkCvXy bought 0 potions!
+
+Turn: 4
+Player: wOC, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+wOC bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             1         4     100   10
+2          xWPagPKlkCvXy   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+xWPagPKlkCvXy bought 0 potions!
+
+Turn: 6
+Player: wOC, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+wOC was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             1         3     100   10
+2          xWPagPKlkCvXy   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+xWPagPKlkCvXy won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: wOC, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wOC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xWPagPKlkCvXy   2         5     100   12
+2          wOC             1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xWPagPKlkCvXy lost the encounter and took 25 damage!
+
+Turn: 10
+Player: wOC, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wOC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          xWPagPKlkCvXy   2         5     75    12
+2          wOC             1         3     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xWPagPKlkCvXy lost the encounter and took 25 damage!
+
+Turn: 12
+Player: wOC, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+wOC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             2         3     50    12
+2          xWPagPKlkCvXy   2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xWPagPKlkCvXy lost the encounter and took 25 damage!
+
+Turn: 14
+Player: wOC, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+wOC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             3         3     50    14
+2          xWPagPKlkCvXy   2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: xWPagPKlkCvXy, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+xWPagPKlkCvXy lost the encounter and took 25 damage!
+
+Turn: 16
+Player: wOC, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wOC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             3         3     25    14
+2          xWPagPKlkCvXy   2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: wOC, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+wOC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          wOC             3         3     0     14
+2          xWPagPKlkCvXy   2         5     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

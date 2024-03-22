@@ -1,0 +1,494 @@
+Game is about to start!
+These are the players:
+
+1. DRdM, Sorcerer with Responsible behavior (level 1, force 5)
+2. aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. WQKSLYQI, Warrior with RiskTaking behavior (level 1, force 5)
+4. BHiCnCNkb, Sorcerer with Responsible behavior (level 1, force 5)
+5. qko, Warrior with Responsible behavior (level 1, force 5)
+6. TAKybVm, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: DRdM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+DRdM was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+aCgpgOpHLccJX was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+WQKSLYQI bought 0 potions!
+
+Turn: 4
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+BHiCnCNkb bought 0 potions!
+
+Turn: 5
+Player: qko, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+qko bought 0 potions!
+
+Turn: 6
+Player: TAKybVm, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+TAKybVm was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BHiCnCNkb       1         5     100   10
+2          DRdM            1         6     100   10
+3          TAKybVm         1         4     100   10
+4          WQKSLYQI        1         5     100   10
+5          aCgpgOpHLccJX   1         6     100   10
+6          qko             1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: DRdM, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+DRdM lost the encounter and took 25 damage!
+
+Turn: 8
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+aCgpgOpHLccJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+WQKSLYQI lost the encounter and took 25 damage!
+
+Turn: 10
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BHiCnCNkb lost the encounter and took 25 damage!
+
+Turn: 11
+Player: qko, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qko lost the encounter and took 25 damage!
+
+Turn: 12
+Player: TAKybVm, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+TAKybVm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TAKybVm         2         4     100   12
+2          aCgpgOpHLccJX   2         6     100   12
+3          BHiCnCNkb       1         5     75    10
+4          DRdM            1         6     75    10
+5          WQKSLYQI        1         5     75    10
+6          qko             1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: DRdM, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+DRdM won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+aCgpgOpHLccJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+WQKSLYQI lost the encounter and took 25 damage!
+
+Turn: 16
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BHiCnCNkb won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: qko, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qko lost the encounter and took 25 damage!
+
+Turn: 18
+Player: TAKybVm, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+TAKybVm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TAKybVm         3         4     100   14
+2          aCgpgOpHLccJX   3         6     100   14
+3          BHiCnCNkb       2         5     75    12
+4          DRdM            2         6     75    12
+5          WQKSLYQI        1         5     50    10
+6          qko             1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: DRdM, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+DRdM won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+aCgpgOpHLccJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+WQKSLYQI won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BHiCnCNkb lost the encounter and took 25 damage!
+
+Turn: 23
+Player: qko, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qko won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: TAKybVm, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+TAKybVm lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aCgpgOpHLccJX   4         6     100   16
+2          DRdM            3         6     75    14
+3          TAKybVm         3         4     75    14
+4          BHiCnCNkb       2         5     50    12
+5          WQKSLYQI        2         5     50    12
+6          qko             2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: DRdM, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+DRdM lost the encounter and took 25 damage!
+
+Turn: 26
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+aCgpgOpHLccJX lost the encounter and took 25 damage!
+
+Turn: 27
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+WQKSLYQI won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BHiCnCNkb won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: qko, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qko won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: TAKybVm, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+TAKybVm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TAKybVm         4         4     75    16
+2          aCgpgOpHLccJX   4         6     75    16
+3          BHiCnCNkb       3         5     50    14
+4          DRdM            3         6     50    14
+5          WQKSLYQI        3         5     50    14
+6          qko             3         5     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: DRdM, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+DRdM lost the encounter and took 25 damage!
+
+Turn: 32
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+aCgpgOpHLccJX lost the encounter and took 25 damage!
+
+Turn: 33
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+WQKSLYQI won the encounter, gained 5 coins and leveled up!
+
+Turn: 34
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BHiCnCNkb lost the encounter and took 25 damage!
+
+Turn: 35
+Player: qko, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qko won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: TAKybVm, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+TAKybVm lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        4         5     50    19
+2          TAKybVm         4         4     50    16
+3          aCgpgOpHLccJX   4         6     50    16
+4          qko             4         5     50    16
+5          BHiCnCNkb       3         5     25    14
+6          DRdM            3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: DRdM, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+DRdM lost the encounter and took 25 damage!
+
+Turn: 38
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+aCgpgOpHLccJX won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+WQKSLYQI won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BHiCnCNkb won the encounter, gained 2 coins and leveled up!
+
+Turn: 41
+Player: qko, Warrior with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qko won the encounter, gained 2 coins and leveled up!
+
+Turn: 42
+Player: TAKybVm, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+TAKybVm lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        5         5     50    21
+2          aCgpgOpHLccJX   5         6     50    18
+3          qko             5         5     50    18
+4          BHiCnCNkb       4         5     25    16
+5          TAKybVm         4         4     25    16
+6          DRdM            3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+aCgpgOpHLccJX lost the encounter and took 25 damage!
+
+Turn: 44
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+WQKSLYQI won the encounter, gained 5 coins and leveled up!
+
+Turn: 45
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BHiCnCNkb won the encounter, gained 2 coins and leveled up!
+
+Turn: 46
+Player: qko, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qko won the encounter, gained 5 coins and leveled up!
+
+Turn: 47
+Player: TAKybVm, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+TAKybVm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        6         5     50    26
+2          qko             6         5     50    23
+3          BHiCnCNkb       5         5     25    18
+4          TAKybVm         5         4     25    18
+5          aCgpgOpHLccJX   5         6     25    18
+6          DRdM            3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 48
+Player: aCgpgOpHLccJX, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+aCgpgOpHLccJX lost the encounter and took 25 damage!
+
+Turn: 49
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+WQKSLYQI won the encounter, gained 5 coins and leveled up!
+
+Turn: 50
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BHiCnCNkb won the encounter, gained 2 coins and leveled up!
+
+Turn: 51
+Player: qko, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qko won the encounter, gained 5 coins and leveled up!
+
+Turn: 52
+Player: TAKybVm, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+TAKybVm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        7         5     50    31
+2          qko             7         5     50    28
+3          TAKybVm         6         4     25    23
+4          BHiCnCNkb       6         5     25    20
+5          aCgpgOpHLccJX   5         6     0     18
+6          DRdM            3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 53
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+WQKSLYQI won the encounter, gained 2 coins and leveled up!
+
+Turn: 54
+Player: BHiCnCNkb, Sorcerer with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BHiCnCNkb lost the encounter and took 25 damage!
+
+Turn: 55
+Player: qko, Warrior with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+qko won the encounter, gained 2 coins and leveled up!
+
+Turn: 56
+Player: TAKybVm, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+TAKybVm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        8         5     50    33
+2          qko             8         5     50    30
+3          TAKybVm         7         4     25    28
+4          BHiCnCNkb       6         5     0     20
+5          aCgpgOpHLccJX   5         6     0     18
+6          DRdM            3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 57
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+WQKSLYQI won the encounter, gained 5 coins and leveled up!
+
+Turn: 58
+Player: qko, Warrior with Responsible behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qko won the encounter, gained 5 coins and leveled up!
+
+Turn: 59
+Player: TAKybVm, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+TAKybVm won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        9         5     50    38
+2          qko             9         5     50    35
+3          TAKybVm         8         4     25    33
+4          BHiCnCNkb       6         5     0     20
+5          aCgpgOpHLccJX   5         6     0     18
+6          DRdM            3         6     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 60
+Player: WQKSLYQI, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+WQKSLYQI won the encounter, gained 2 coins and leveled up!
+
+Turn: 61
+Player: qko, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+qko won the encounter, gained 5 coins and leveled up!
+
+Turn: 62
+Player: TAKybVm, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+TAKybVm won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          WQKSLYQI        10        5     50    40
+2          qko             10        5     50    40
+3          TAKybVm         9         4     25    35
+4          BHiCnCNkb       6         5     0     20
+5          aCgpgOpHLccJX   5         6     0     18
+6          DRdM            3         6     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: WQKSLYQI
+Congratulations!
+

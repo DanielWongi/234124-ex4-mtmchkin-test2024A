@@ -1,0 +1,80 @@
+Game is about to start!
+These are the players:
+
+1. EFTFUjKW, Sorcerer with Responsible behavior (level 1, force 5)
+2. kpk, Sorcerer with Responsible behavior (level 1, force 5)
+3. Ynp, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: EFTFUjKW, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EFTFUjKW lost the encounter and took 25 damage!
+
+Turn: 2
+Player: kpk, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+kpk lost the encounter and took 25 damage!
+
+Turn: 3
+Player: Ynp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+Ynp lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EFTFUjKW        1         5     75    10
+2          Ynp             1         5     75    10
+3          kpk             1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: EFTFUjKW, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EFTFUjKW won the encounter, gained 2 coins and leveled up!
+
+Turn: 5
+Player: kpk, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 80, loot 405, damage 36029)
+kpk lost the encounter and took 36029 damage!
+
+Turn: 6
+Player: Ynp, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+Ynp lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EFTFUjKW        2         5     75    12
+2          Ynp             1         5     0     10
+3          kpk             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: EFTFUjKW, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+EFTFUjKW lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EFTFUjKW        2         5     0     12
+2          Ynp             1         5     0     10
+3          kpk             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

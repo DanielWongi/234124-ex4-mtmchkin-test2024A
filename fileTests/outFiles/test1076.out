@@ -1,0 +1,358 @@
+Game is about to start!
+These are the players:
+
+1. uZTHEmS, Sorcerer with Responsible behavior (level 1, force 5)
+2. oYzGUnLIc, Sorcerer with Responsible behavior (level 1, force 5)
+3. VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. DHAI, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+uZTHEmS bought 0 potions!
+
+Turn: 2
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+oYzGUnLIc was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+VZSRNEiDvJiOrrq was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: DHAI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+DHAI bought 0 potions!
+
+Turn: 5
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+vmFUDhUPqcDWla was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DHAI            1         5     100   10
+2          VZSRNEiDvJiOrrq 1         6     100   10
+3          oYzGUnLIc       1         6     100   10
+4          uZTHEmS         1         5     100   10
+5          vmFUDhUPqcDWla  1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+uZTHEmS bought 0 potions!
+
+Turn: 7
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+VZSRNEiDvJiOrrq lost the encounter and took 25 damage!
+
+Turn: 9
+Player: DHAI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DHAI lost the encounter and took 25 damage!
+
+Turn: 10
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vmFUDhUPqcDWla lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       2         6     100   12
+2          DHAI            1         5     75    10
+3          VZSRNEiDvJiOrrq 1         6     75    10
+4          uZTHEmS         1         5     100   10
+5          vmFUDhUPqcDWla  1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uZTHEmS won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 13
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+VZSRNEiDvJiOrrq won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: DHAI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DHAI lost the encounter and took 25 damage!
+
+Turn: 15
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vmFUDhUPqcDWla lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       3         6     100   14
+2          VZSRNEiDvJiOrrq 2         6     75    12
+3          uZTHEmS         2         5     100   12
+4          DHAI            1         5     50    10
+5          vmFUDhUPqcDWla  1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uZTHEmS lost the encounter and took 25 damage!
+
+Turn: 17
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+VZSRNEiDvJiOrrq won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: DHAI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DHAI lost the encounter and took 25 damage!
+
+Turn: 20
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vmFUDhUPqcDWla lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       4         6     100   16
+2          VZSRNEiDvJiOrrq 3         6     75    14
+3          uZTHEmS         2         5     75    12
+4          DHAI            1         5     25    10
+5          vmFUDhUPqcDWla  1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uZTHEmS lost the encounter and took 25 damage!
+
+Turn: 22
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+VZSRNEiDvJiOrrq lost the encounter and took 25 damage!
+
+Turn: 24
+Player: DHAI, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DHAI lost the encounter and took 25 damage!
+
+Turn: 25
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vmFUDhUPqcDWla won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       5         6     100   18
+2          VZSRNEiDvJiOrrq 3         6     50    14
+3          uZTHEmS         2         5     50    12
+4          vmFUDhUPqcDWla  2         6     25    12
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uZTHEmS won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oYzGUnLIc lost the encounter and took 25 damage!
+
+Turn: 28
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+VZSRNEiDvJiOrrq won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+vmFUDhUPqcDWla won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       5         6     75    18
+2          VZSRNEiDvJiOrrq 4         6     50    16
+3          uZTHEmS         3         5     50    14
+4          vmFUDhUPqcDWla  3         6     25    14
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 30
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uZTHEmS lost the encounter and took 25 damage!
+
+Turn: 31
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+VZSRNEiDvJiOrrq lost the encounter and took 25 damage!
+
+Turn: 33
+Player: vmFUDhUPqcDWla, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+vmFUDhUPqcDWla lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       6         6     75    20
+2          VZSRNEiDvJiOrrq 4         6     25    16
+3          uZTHEmS         3         5     25    14
+4          vmFUDhUPqcDWla  3         6     0     14
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: uZTHEmS, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uZTHEmS lost the encounter and took 25 damage!
+
+Turn: 35
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+VZSRNEiDvJiOrrq won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       7         6     75    22
+2          VZSRNEiDvJiOrrq 5         6     25    18
+3          uZTHEmS         3         5     0     14
+4          vmFUDhUPqcDWla  3         6     0     14
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: VZSRNEiDvJiOrrq, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+VZSRNEiDvJiOrrq lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       8         6     75    24
+2          VZSRNEiDvJiOrrq 5         6     0     18
+3          uZTHEmS         3         5     0     14
+4          vmFUDhUPqcDWla  3         6     0     14
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+oYzGUnLIc won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       9         6     75    26
+2          VZSRNEiDvJiOrrq 5         6     0     18
+3          uZTHEmS         3         5     0     14
+4          vmFUDhUPqcDWla  3         6     0     14
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: oYzGUnLIc, Sorcerer with Responsible behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+oYzGUnLIc won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          oYzGUnLIc       10        6     75    31
+2          VZSRNEiDvJiOrrq 5         6     0     18
+3          uZTHEmS         3         5     0     14
+4          vmFUDhUPqcDWla  3         6     0     14
+5          DHAI            1         5     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: oYzGUnLIc
+Congratulations!
+

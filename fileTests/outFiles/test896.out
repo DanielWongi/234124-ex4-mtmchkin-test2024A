@@ -1,0 +1,273 @@
+Game is about to start!
+These are the players:
+
+1. FgPqJs, Sorcerer with Responsible behavior (level 1, force 5)
+2. gIrA, Warrior with Responsible behavior (level 1, force 5)
+3. GNdfbduV, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: FgPqJs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+FgPqJs bought 0 potions!
+
+Turn: 2
+Player: gIrA, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+gIrA was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: GNdfbduV, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+GNdfbduV bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FgPqJs          1         5     100   10
+2          GNdfbduV        1         5     100   10
+3          gIrA            1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: FgPqJs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+FgPqJs bought 0 potions!
+
+Turn: 5
+Player: gIrA, Warrior with Responsible behavior (level 1, force 4)
+Card: SolarEclipse
+gIrA was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: GNdfbduV, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+GNdfbduV was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FgPqJs          1         5     100   10
+2          GNdfbduV        1         4     100   10
+3          gIrA            1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: FgPqJs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FgPqJs won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: gIrA, Warrior with Responsible behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+gIrA won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: GNdfbduV, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+GNdfbduV lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FgPqJs          2         5     100   12
+2          gIrA            2         3     100   12
+3          GNdfbduV        1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: FgPqJs, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FgPqJs lost the encounter and took 25 damage!
+
+Turn: 11
+Player: gIrA, Warrior with Responsible behavior (level 2, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+gIrA lost the encounter and took 25 damage!
+
+Turn: 12
+Player: GNdfbduV, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+GNdfbduV lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FgPqJs          2         5     75    12
+2          gIrA            2         3     75    12
+3          GNdfbduV        1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: FgPqJs, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FgPqJs lost the encounter and took 25 damage!
+
+Turn: 14
+Player: gIrA, Warrior with Responsible behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+gIrA won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: GNdfbduV, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+GNdfbduV won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            3         3     75    14
+2          FgPqJs          2         5     50    12
+3          GNdfbduV        2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: FgPqJs, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FgPqJs won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: gIrA, Warrior with Responsible behavior (level 3, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+gIrA won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: GNdfbduV, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+GNdfbduV lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            4         3     75    16
+2          FgPqJs          3         5     50    14
+3          GNdfbduV        2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: FgPqJs, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FgPqJs won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: gIrA, Warrior with Responsible behavior (level 4, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+gIrA won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: GNdfbduV, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+GNdfbduV lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            5         3     75    18
+2          FgPqJs          4         5     50    16
+3          GNdfbduV        2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: FgPqJs, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FgPqJs lost the encounter and took 25 damage!
+
+Turn: 23
+Player: gIrA, Warrior with Responsible behavior (level 5, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+gIrA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            5         3     50    18
+2          FgPqJs          4         5     25    16
+3          GNdfbduV        2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: FgPqJs, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FgPqJs won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: gIrA, Warrior with Responsible behavior (level 5, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+gIrA won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            6         3     50    20
+2          FgPqJs          5         5     25    18
+3          GNdfbduV        2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: FgPqJs, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FgPqJs lost the encounter and took 25 damage!
+
+Turn: 27
+Player: gIrA, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+gIrA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            6         3     25    20
+2          FgPqJs          5         5     0     18
+3          GNdfbduV        2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: gIrA, Warrior with Responsible behavior (level 6, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+gIrA lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          gIrA            6         3     0     20
+2          FgPqJs          5         5     0     18
+3          GNdfbduV        2         4     0     12
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

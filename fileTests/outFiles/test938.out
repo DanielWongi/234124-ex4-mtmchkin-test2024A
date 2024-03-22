@@ -1,0 +1,338 @@
+Game is about to start!
+These are the players:
+
+1. xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. ITR, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. NbLj, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. PoC, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+xeTMYVpZmd was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: ITR, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ITR was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: NbLj, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+NbLj was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: PoC, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+PoC was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ITR             1         6     100   10
+2          NbLj            1         6     100   10
+3          PoC             1         6     100   10
+4          xeTMYVpZmd      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: PotionsMerchant
+xeTMYVpZmd bought 0 potions!
+
+Turn: 6
+Player: ITR, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+ITR was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: NbLj, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NbLj won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: PoC, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            2         6     100   12
+2          ITR             1         7     100   10
+3          PoC             1         6     75    10
+4          xeTMYVpZmd      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xeTMYVpZmd lost the encounter and took 25 damage!
+
+Turn: 10
+Player: ITR, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+ITR won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: NbLj, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NbLj won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: PoC, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            3         6     100   14
+2          ITR             2         7     100   12
+3          PoC             2         6     75    12
+4          xeTMYVpZmd      1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xeTMYVpZmd lost the encounter and took 25 damage!
+
+Turn: 14
+Player: ITR, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+ITR won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: NbLj, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NbLj won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: PoC, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            4         6     100   16
+2          ITR             3         7     100   14
+3          PoC             3         6     75    14
+4          xeTMYVpZmd      1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xeTMYVpZmd lost the encounter and took 25 damage!
+
+Turn: 18
+Player: ITR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ITR lost the encounter and took 25 damage!
+
+Turn: 19
+Player: NbLj, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NbLj lost the encounter and took 25 damage!
+
+Turn: 20
+Player: PoC, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            4         6     75    16
+2          ITR             3         7     75    14
+3          PoC             3         6     50    14
+4          xeTMYVpZmd      1         6     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: xeTMYVpZmd, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+xeTMYVpZmd lost the encounter and took 25 damage!
+
+Turn: 22
+Player: ITR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ITR lost the encounter and took 25 damage!
+
+Turn: 23
+Player: NbLj, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NbLj won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: PoC, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            5         6     75    18
+2          PoC             4         6     50    16
+3          ITR             3         7     50    14
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: ITR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ITR lost the encounter and took 25 damage!
+
+Turn: 26
+Player: NbLj, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NbLj won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: PoC, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PoC won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            6         6     75    20
+2          PoC             5         6     50    18
+3          ITR             3         7     25    14
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: ITR, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+ITR won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: NbLj, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NbLj lost the encounter and took 25 damage!
+
+Turn: 30
+Player: PoC, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            6         6     50    20
+2          PoC             5         6     25    18
+3          ITR             4         7     25    16
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: ITR, Sorcerer with RiskTaking behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ITR lost the encounter and took 25 damage!
+
+Turn: 32
+Player: NbLj, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+NbLj won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: PoC, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PoC lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            7         6     50    22
+2          PoC             5         6     0     18
+3          ITR             4         7     0     16
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 34
+Player: NbLj, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NbLj won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            8         6     50    27
+2          PoC             5         6     0     18
+3          ITR             4         7     0     16
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: NbLj, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NbLj won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            9         6     50    32
+2          PoC             5         6     0     18
+3          ITR             4         7     0     16
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: NbLj, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+NbLj won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NbLj            10        6     50    37
+2          PoC             5         6     0     18
+3          ITR             4         7     0     16
+4          xeTMYVpZmd      1         6     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: NbLj
+Congratulations!
+

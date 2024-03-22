@@ -1,0 +1,421 @@
+Game is about to start!
+These are the players:
+
+1. CafVrIQi, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. SJNK, Warrior with Responsible behavior (level 1, force 5)
+3. EprpEqDpx, Warrior with RiskTaking behavior (level 1, force 5)
+4. sETeEyql, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. HQrUfs, Warrior with Responsible behavior (level 1, force 5)
+6. oUKoPuLSjdy, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: CafVrIQi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+CafVrIQi bought 0 potions!
+
+Turn: 2
+Player: SJNK, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+SJNK bought 0 potions!
+
+Turn: 3
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+EprpEqDpx bought 0 potions!
+
+Turn: 4
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+sETeEyql bought 0 potions!
+
+Turn: 5
+Player: HQrUfs, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+HQrUfs was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+oUKoPuLSjdy was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          CafVrIQi        1         5     100   10
+2          EprpEqDpx       1         5     100   10
+3          HQrUfs          1         4     100   10
+4          SJNK            1         5     100   10
+5          oUKoPuLSjdy     1         4     100   10
+6          sETeEyql        1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: CafVrIQi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CafVrIQi lost the encounter and took 25 damage!
+
+Turn: 8
+Player: SJNK, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SJNK won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EprpEqDpx won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sETeEyql won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: HQrUfs, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+HQrUfs won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+oUKoPuLSjdy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          EprpEqDpx       2         5     100   12
+2          HQrUfs          2         4     100   12
+3          SJNK            2         5     100   12
+4          oUKoPuLSjdy     2         4     100   12
+5          sETeEyql        2         5     100   12
+6          CafVrIQi        1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: CafVrIQi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CafVrIQi lost the encounter and took 25 damage!
+
+Turn: 14
+Player: SJNK, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SJNK won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EprpEqDpx lost the encounter and took 25 damage!
+
+Turn: 16
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sETeEyql won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: HQrUfs, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+HQrUfs won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+oUKoPuLSjdy lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HQrUfs          3         4     100   14
+2          SJNK            3         5     100   14
+3          sETeEyql        3         5     100   14
+4          EprpEqDpx       2         5     75    12
+5          oUKoPuLSjdy     2         4     75    12
+6          CafVrIQi        1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: CafVrIQi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CafVrIQi lost the encounter and took 25 damage!
+
+Turn: 20
+Player: SJNK, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SJNK won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EprpEqDpx won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sETeEyql lost the encounter and took 25 damage!
+
+Turn: 23
+Player: HQrUfs, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+HQrUfs won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+oUKoPuLSjdy lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HQrUfs          4         4     100   16
+2          SJNK            4         5     100   16
+3          EprpEqDpx       3         5     75    14
+4          sETeEyql        3         5     75    14
+5          oUKoPuLSjdy     2         4     50    12
+6          CafVrIQi        1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: CafVrIQi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+CafVrIQi lost the encounter and took 25 damage!
+
+Turn: 26
+Player: SJNK, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SJNK won the encounter, gained 5 coins and leveled up!
+
+Turn: 27
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EprpEqDpx won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sETeEyql lost the encounter and took 25 damage!
+
+Turn: 29
+Player: HQrUfs, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+HQrUfs lost the encounter and took 25 damage!
+
+Turn: 30
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+oUKoPuLSjdy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SJNK            5         5     100   21
+2          EprpEqDpx       4         5     75    19
+3          HQrUfs          4         4     75    16
+4          oUKoPuLSjdy     3         4     50    14
+5          sETeEyql        3         5     50    14
+6          CafVrIQi        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: SJNK, Warrior with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SJNK won the encounter, gained 5 coins and leveled up!
+
+Turn: 32
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EprpEqDpx won the encounter, gained 5 coins and leveled up!
+
+Turn: 33
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sETeEyql lost the encounter and took 25 damage!
+
+Turn: 34
+Player: HQrUfs, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+HQrUfs lost the encounter and took 25 damage!
+
+Turn: 35
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+oUKoPuLSjdy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SJNK            6         5     100   26
+2          EprpEqDpx       5         5     75    24
+3          HQrUfs          4         4     50    16
+4          oUKoPuLSjdy     4         4     50    16
+5          sETeEyql        3         5     25    14
+6          CafVrIQi        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: SJNK, Warrior with Responsible behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SJNK won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EprpEqDpx won the encounter, gained 5 coins and leveled up!
+
+Turn: 38
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+sETeEyql won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: HQrUfs, Warrior with Responsible behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+HQrUfs lost the encounter and took 25 damage!
+
+Turn: 40
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+oUKoPuLSjdy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SJNK            7         5     100   28
+2          EprpEqDpx       6         5     75    29
+3          oUKoPuLSjdy     5         4     50    18
+4          HQrUfs          4         4     25    16
+5          sETeEyql        4         5     25    16
+6          CafVrIQi        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: SJNK, Warrior with Responsible behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SJNK won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+EprpEqDpx won the encounter, gained 2 coins and leveled up!
+
+Turn: 43
+Player: sETeEyql, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+sETeEyql lost the encounter and took 25 damage!
+
+Turn: 44
+Player: HQrUfs, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+HQrUfs won the encounter, gained 2 coins and leveled up!
+
+Turn: 45
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+oUKoPuLSjdy won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SJNK            8         5     100   33
+2          EprpEqDpx       7         5     75    31
+3          oUKoPuLSjdy     6         4     50    23
+4          HQrUfs          5         4     25    18
+5          sETeEyql        4         5     0     16
+6          CafVrIQi        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 46
+Player: SJNK, Warrior with Responsible behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+SJNK won the encounter, gained 2 coins and leveled up!
+
+Turn: 47
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EprpEqDpx won the encounter, gained 5 coins and leveled up!
+
+Turn: 48
+Player: HQrUfs, Warrior with Responsible behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+HQrUfs won the encounter, gained 5 coins and leveled up!
+
+Turn: 49
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+oUKoPuLSjdy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SJNK            9         5     100   35
+2          EprpEqDpx       8         5     75    36
+3          oUKoPuLSjdy     7         4     50    25
+4          HQrUfs          6         4     25    23
+5          sETeEyql        4         5     0     16
+6          CafVrIQi        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 50
+Player: SJNK, Warrior with Responsible behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+SJNK won the encounter, gained 5 coins and leveled up!
+
+Turn: 51
+Player: EprpEqDpx, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+EprpEqDpx won the encounter, gained 5 coins and leveled up!
+
+Turn: 52
+Player: HQrUfs, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+HQrUfs won the encounter, gained 5 coins and leveled up!
+
+Turn: 53
+Player: oUKoPuLSjdy, Warrior with Responsible behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+oUKoPuLSjdy won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          SJNK            10        5     100   40
+2          EprpEqDpx       9         5     75    41
+3          oUKoPuLSjdy     8         4     50    27
+4          HQrUfs          7         4     25    28
+5          sETeEyql        4         5     0     16
+6          CafVrIQi        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+The winner is: SJNK
+Congratulations!
+

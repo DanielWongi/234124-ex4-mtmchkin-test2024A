@@ -1,0 +1,81 @@
+Game is about to start!
+These are the players:
+
+1. vWkEOoAo, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. ZEdEVMUhB, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: vWkEOoAo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+vWkEOoAo bought 0 potions!
+
+Turn: 2
+Player: ZEdEVMUhB, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ZEdEVMUhB was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZEdEVMUhB       1         6     100   10
+2          vWkEOoAo        1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: vWkEOoAo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+vWkEOoAo lost the encounter and took 25 damage!
+
+Turn: 4
+Player: ZEdEVMUhB, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Dragon (power 17, loot 100, damage 9001)
+ZEdEVMUhB lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZEdEVMUhB       1         6     0     10
+2          vWkEOoAo        1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: vWkEOoAo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+vWkEOoAo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZEdEVMUhB       1         6     0     10
+2          vWkEOoAo        1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: vWkEOoAo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 41, loot 110, damage 9051)
+vWkEOoAo lost the encounter and took 9051 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZEdEVMUhB       1         6     0     10
+2          vWkEOoAo        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

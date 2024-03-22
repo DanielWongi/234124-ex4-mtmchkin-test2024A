@@ -1,0 +1,54 @@
+Game is about to start!
+These are the players:
+
+1. tAqw, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. sYElHRFvktcRfOS, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. jIsgLrehJ, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: tAqw, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+tAqw bought 0 potions!
+
+Turn: 2
+Player: sYElHRFvktcRfOS, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+sYElHRFvktcRfOS lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: jIsgLrehJ, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 5 members (power 65, loot 120, damage 9101)
+jIsgLrehJ lost the encounter and took 9101 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jIsgLrehJ       1         5     0     10
+2          sYElHRFvktcRfOS 1         5     0     10
+3          tAqw            1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: tAqw, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 4 members (power 56, loot 302, damage 27013)
+tAqw lost the encounter and took 27013 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jIsgLrehJ       1         5     0     10
+2          sYElHRFvktcRfOS 1         5     0     10
+3          tAqw            1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

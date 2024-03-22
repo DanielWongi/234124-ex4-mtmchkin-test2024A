@@ -1,0 +1,351 @@
+Game is about to start!
+These are the players:
+
+1. jzoESO, Warrior with RiskTaking behavior (level 1, force 5)
+2. LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 1, force 5)
+3. KNEIScClgrcwjGO, Warrior with Responsible behavior (level 1, force 5)
+4. ZuOsrJyDqle, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: jzoESO, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+jzoESO bought 0 potions!
+
+Turn: 2
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+LmzKPSIIgUNNh was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+KNEIScClgrcwjGO bought 0 potions!
+
+Turn: 4
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+ZuOsrJyDqle was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KNEIScClgrcwjGO 1         5     100   10
+2          LmzKPSIIgUNNh   1         6     100   10
+3          ZuOsrJyDqle     1         4     100   10
+4          jzoESO          1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: jzoESO, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+jzoESO was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+LmzKPSIIgUNNh was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 7
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KNEIScClgrcwjGO won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ZuOsrJyDqle lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KNEIScClgrcwjGO 2         5     100   12
+2          LmzKPSIIgUNNh   1         7     100   10
+3          ZuOsrJyDqle     1         4     75    10
+4          jzoESO          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: jzoESO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+jzoESO won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+LmzKPSIIgUNNh won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KNEIScClgrcwjGO lost the encounter and took 25 damage!
+
+Turn: 12
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ZuOsrJyDqle won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KNEIScClgrcwjGO 2         5     75    12
+2          LmzKPSIIgUNNh   2         7     100   12
+3          ZuOsrJyDqle     2         4     75    12
+4          jzoESO          2         4     100   12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: jzoESO, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+jzoESO lost the encounter and took 25 damage!
+
+Turn: 14
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+LmzKPSIIgUNNh lost the encounter and took 25 damage!
+
+Turn: 15
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KNEIScClgrcwjGO lost the encounter and took 25 damage!
+
+Turn: 16
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ZuOsrJyDqle won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     3         4     75    14
+2          KNEIScClgrcwjGO 2         5     50    12
+3          LmzKPSIIgUNNh   2         7     75    12
+4          jzoESO          2         4     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: jzoESO, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+jzoESO won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+LmzKPSIIgUNNh lost the encounter and took 25 damage!
+
+Turn: 19
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KNEIScClgrcwjGO won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ZuOsrJyDqle won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     4         4     75    16
+2          KNEIScClgrcwjGO 3         5     50    14
+3          jzoESO          3         4     75    14
+4          LmzKPSIIgUNNh   2         7     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: jzoESO, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+jzoESO won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+LmzKPSIIgUNNh lost the encounter and took 25 damage!
+
+Turn: 23
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KNEIScClgrcwjGO won the encounter, gained 5 coins and leveled up!
+
+Turn: 24
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ZuOsrJyDqle won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     5         4     75    18
+2          KNEIScClgrcwjGO 4         5     50    19
+3          jzoESO          4         4     75    16
+4          LmzKPSIIgUNNh   2         7     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: jzoESO, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+jzoESO lost the encounter and took 25 damage!
+
+Turn: 26
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+LmzKPSIIgUNNh won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KNEIScClgrcwjGO won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ZuOsrJyDqle won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     6         4     75    20
+2          KNEIScClgrcwjGO 5         5     50    24
+3          jzoESO          4         4     50    16
+4          LmzKPSIIgUNNh   3         7     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: jzoESO, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+jzoESO lost the encounter and took 25 damage!
+
+Turn: 30
+Player: LmzKPSIIgUNNh, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+LmzKPSIIgUNNh lost the encounter and took 25 damage!
+
+Turn: 31
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KNEIScClgrcwjGO won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ZuOsrJyDqle won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     7         4     75    25
+2          KNEIScClgrcwjGO 6         5     50    26
+3          jzoESO          4         4     25    16
+4          LmzKPSIIgUNNh   3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: jzoESO, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+jzoESO won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+KNEIScClgrcwjGO won the encounter, gained 5 coins and leveled up!
+
+Turn: 35
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+ZuOsrJyDqle won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     8         4     75    27
+2          KNEIScClgrcwjGO 7         5     50    31
+3          jzoESO          5         4     25    18
+4          LmzKPSIIgUNNh   3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 36
+Player: jzoESO, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+jzoESO won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KNEIScClgrcwjGO won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ZuOsrJyDqle won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     9         4     75    32
+2          KNEIScClgrcwjGO 8         5     50    33
+3          jzoESO          6         4     25    20
+4          LmzKPSIIgUNNh   3         7     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: jzoESO, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+jzoESO won the encounter, gained 2 coins and leveled up!
+
+Turn: 40
+Player: KNEIScClgrcwjGO, Warrior with Responsible behavior (level 8, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KNEIScClgrcwjGO won the encounter, gained 2 coins and leveled up!
+
+Turn: 41
+Player: ZuOsrJyDqle, Warrior with Responsible behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+ZuOsrJyDqle won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ZuOsrJyDqle     10        4     75    37
+2          KNEIScClgrcwjGO 9         5     50    35
+3          jzoESO          7         4     25    22
+4          LmzKPSIIgUNNh   3         7     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: ZuOsrJyDqle
+Congratulations!
+

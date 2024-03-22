@@ -1,0 +1,143 @@
+Game is about to start!
+These are the players:
+
+1. TCl, Warrior with RiskTaking behavior (level 1, force 5)
+2. XDEMnxMhP, Sorcerer with Responsible behavior (level 1, force 5)
+3. HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: TCl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+TCl lost the encounter and took 25 damage!
+
+Turn: 2
+Player: XDEMnxMhP, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+XDEMnxMhP lost the encounter and took 25 damage!
+
+Turn: 3
+Player: HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HyNksfwpsAceM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HyNksfwpsAceM   1         5     75    10
+2          TCl             1         5     75    10
+3          XDEMnxMhP       1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: TCl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+TCl lost the encounter and took 25 damage!
+
+Turn: 5
+Player: XDEMnxMhP, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 3 members (power 85, loot 35, damage 175)
+XDEMnxMhP lost the encounter and took 175 damage!
+
+Turn: 6
+Player: HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+HyNksfwpsAceM lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HyNksfwpsAceM   1         5     55    10
+2          TCl             1         5     50    10
+3          XDEMnxMhP       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: TCl, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+TCl won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HyNksfwpsAceM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          TCl             2         5     50    12
+2          HyNksfwpsAceM   1         5     30    10
+3          XDEMnxMhP       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: TCl, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+TCl lost the encounter and took 25 damage!
+
+Turn: 10
+Player: HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HyNksfwpsAceM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HyNksfwpsAceM   2         5     30    12
+2          TCl             2         5     25    12
+3          XDEMnxMhP       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: TCl, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+TCl lost the encounter and took 25 damage!
+
+Turn: 12
+Player: HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+HyNksfwpsAceM lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HyNksfwpsAceM   2         5     5     12
+2          TCl             2         5     0     12
+3          XDEMnxMhP       1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: HyNksfwpsAceM, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+HyNksfwpsAceM lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HyNksfwpsAceM   2         5     0     12
+2          TCl             2         5     0     12
+3          XDEMnxMhP       1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

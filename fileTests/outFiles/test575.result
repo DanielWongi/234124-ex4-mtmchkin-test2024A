@@ -1,0 +1,54 @@
+Game is about to start!
+These are the players:
+
+1. jBGSZFKVEkX, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. EuTGRppLKA, Warrior with Responsible behavior (level 1, force 5)
+3. xFBJxUfEWlndxm, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: jBGSZFKVEkX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jBGSZFKVEkX won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: EuTGRppLKA, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+EuTGRppLKA lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: xFBJxUfEWlndxm, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+xFBJxUfEWlndxm lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jBGSZFKVEkX     2         5     100   12
+2          EuTGRppLKA      1         5     0     10
+3          xFBJxUfEWlndxm  1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: jBGSZFKVEkX, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+jBGSZFKVEkX lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          jBGSZFKVEkX     2         5     0     12
+2          EuTGRppLKA      1         5     0     10
+3          xFBJxUfEWlndxm  1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

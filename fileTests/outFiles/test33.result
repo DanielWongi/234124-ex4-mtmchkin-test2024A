@@ -1,0 +1,128 @@
+Game is about to start!
+These are the players:
+
+1. Wongi, Warrior with RiskTaking behavior (level 1, force 5)
+2. Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. Almog, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: Wongi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+Wongi won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: Alex, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 2 members (power 94, loot 132, damage 9161)
+Alex lost the encounter and took 9161 damage!
+
+Turn: 3
+Player: Almog, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+Almog was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Wongi           2         5     100   12
+2          Alex            1         5     0     10
+3          Almog           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: Wongi, Warrior with RiskTaking behavior (level 2, force 5)
+Card: PotionsMerchant
+Wongi bought 0 potions!
+
+Turn: 5
+Player: Almog, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+Almog won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Almog           2         6     100   12
+2          Wongi           2         5     100   12
+3          Alex            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: Wongi, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 2 members (power 94, loot 132, damage 9161)
+Wongi lost the encounter and took 9161 damage!
+
+Turn: 7
+Player: Almog, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: SolarEclipse
+Almog was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Almog           2         7     100   12
+2          Wongi           2         5     0     12
+3          Alex            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: Almog, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: PotionsMerchant
+Almog bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Almog           2         7     100   12
+2          Wongi           2         5     0     12
+3          Alex            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: Almog, Sorcerer with RiskTaking behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+Almog won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Almog           3         7     100   14
+2          Wongi           2         5     0     12
+3          Alex            1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: Almog, Sorcerer with RiskTaking behavior (level 3, force 7)
+Card: Gang of 2 members (power 94, loot 132, damage 9161)
+Almog lost the encounter and took 9161 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          Almog           3         7     0     14
+2          Wongi           2         5     0     12
+3          Alex            1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

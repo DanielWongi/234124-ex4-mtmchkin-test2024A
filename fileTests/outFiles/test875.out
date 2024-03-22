@@ -1,0 +1,292 @@
+Game is about to start!
+These are the players:
+
+1. NOPPsJLLon, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. rQsSd, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+NOPPsJLLon was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: rQsSd, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+rQsSd bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      1         6     100   10
+2          rQsSd           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+NOPPsJLLon was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: rQsSd, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+rQsSd was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      1         7     100   10
+2          rQsSd           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: SolarEclipse
+NOPPsJLLon was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: rQsSd, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+rQsSd bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      1         8     100   10
+2          rQsSd           1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 1, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+NOPPsJLLon won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: rQsSd, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+rQsSd lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      2         8     100   12
+2          rQsSd           1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 2, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+NOPPsJLLon lost the encounter and took 25 damage!
+
+Turn: 10
+Player: rQsSd, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+rQsSd lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      2         8     75    12
+2          rQsSd           1         6     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 2, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+NOPPsJLLon won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: rQsSd, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      3         8     75    14
+2          rQsSd           2         6     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 3, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+NOPPsJLLon won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: rQsSd, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      4         8     75    16
+2          rQsSd           3         6     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 4, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+NOPPsJLLon lost the encounter and took 25 damage!
+
+Turn: 16
+Player: rQsSd, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+rQsSd lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      4         8     50    16
+2          rQsSd           3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 4, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+NOPPsJLLon won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: rQsSd, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      5         8     50    18
+2          rQsSd           4         6     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 5, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+NOPPsJLLon won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: rQsSd, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      6         8     50    20
+2          rQsSd           5         6     25    18
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 6, force 8)
+Card: Goblin (power 5, loot 2, damage 10)
+NOPPsJLLon won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: rQsSd, Sorcerer with Responsible behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      7         8     50    22
+2          rQsSd           6         6     25    20
+
+----------------------------------------
+
+New round starts!
+
+Turn: 23
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 7, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+NOPPsJLLon won the encounter, gained 5 coins and leveled up!
+
+Turn: 24
+Player: rQsSd, Sorcerer with Responsible behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      8         8     50    27
+2          rQsSd           7         6     25    22
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 8, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+NOPPsJLLon won the encounter, gained 5 coins and leveled up!
+
+Turn: 26
+Player: rQsSd, Sorcerer with Responsible behavior (level 7, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+rQsSd won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      9         8     50    32
+2          rQsSd           8         6     25    27
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: NOPPsJLLon, Sorcerer with RiskTaking behavior (level 9, force 8)
+Card: Giant (power 12, loot 5, damage 25)
+NOPPsJLLon won the encounter, gained 5 coins and leveled up!
+
+Turn: 28
+Player: rQsSd, Sorcerer with Responsible behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+rQsSd won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          NOPPsJLLon      10        8     50    37
+2          rQsSd           9         6     25    29
+
+----------------------------------------
+
+Game is over!
+The winner is: NOPPsJLLon
+Congratulations!
+

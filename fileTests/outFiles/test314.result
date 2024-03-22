@@ -1,0 +1,128 @@
+Game is about to start!
+These are the players:
+
+1. IUMzeSBHJXIkG, Warrior with RiskTaking behavior (level 1, force 5)
+2. cQKneBUdSh, Warrior with RiskTaking behavior (level 1, force 5)
+3. UwHAeVjPndNt, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. HgWicLt, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: IUMzeSBHJXIkG, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IUMzeSBHJXIkG won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: cQKneBUdSh, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cQKneBUdSh lost the encounter and took 25 damage!
+
+Turn: 3
+Player: UwHAeVjPndNt, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+UwHAeVjPndNt lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: HgWicLt, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+HgWicLt won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HgWicLt         2         5     100   12
+2          IUMzeSBHJXIkG   2         5     100   12
+3          UwHAeVjPndNt    1         5     0     10
+4          cQKneBUdSh      1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: IUMzeSBHJXIkG, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IUMzeSBHJXIkG lost the encounter and took 25 damage!
+
+Turn: 6
+Player: cQKneBUdSh, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cQKneBUdSh lost the encounter and took 25 damage!
+
+Turn: 7
+Player: HgWicLt, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+HgWicLt lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HgWicLt         2         5     0     12
+2          IUMzeSBHJXIkG   2         5     75    12
+3          UwHAeVjPndNt    1         5     0     10
+4          cQKneBUdSh      1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: IUMzeSBHJXIkG, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+IUMzeSBHJXIkG lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: cQKneBUdSh, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+cQKneBUdSh won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HgWicLt         2         5     0     12
+2          IUMzeSBHJXIkG   2         5     0     12
+3          cQKneBUdSh      2         5     50    12
+4          UwHAeVjPndNt    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: cQKneBUdSh, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+cQKneBUdSh lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HgWicLt         2         5     0     12
+2          IUMzeSBHJXIkG   2         5     0     12
+3          cQKneBUdSh      2         5     25    12
+4          UwHAeVjPndNt    1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: cQKneBUdSh, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 5 members (power 85, loot 128, damage 9141)
+cQKneBUdSh lost the encounter and took 9141 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          HgWicLt         2         5     0     12
+2          IUMzeSBHJXIkG   2         5     0     12
+3          cQKneBUdSh      2         5     0     12
+4          UwHAeVjPndNt    1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,140 @@
+Game is about to start!
+These are the players:
+
+1. pSPTGTeXbB, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. ViubUgc, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. XqRMkXU, Sorcerer with Responsible behavior (level 1, force 5)
+4. eIliihO, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: pSPTGTeXbB, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+pSPTGTeXbB was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: ViubUgc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ViubUgc lost the encounter and took 25 damage!
+
+Turn: 3
+Player: XqRMkXU, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+XqRMkXU lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: eIliihO, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eIliihO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ViubUgc         1         5     75    10
+2          XqRMkXU         1         5     0     10
+3          eIliihO         1         5     75    10
+4          pSPTGTeXbB      1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: pSPTGTeXbB, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 2 members (power 29, loot 105, damage 9026)
+pSPTGTeXbB lost the encounter and took 9026 damage!
+
+Turn: 6
+Player: ViubUgc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ViubUgc lost the encounter and took 9001 damage!
+
+Turn: 7
+Player: eIliihO, Warrior with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eIliihO lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ViubUgc         1         5     0     10
+2          XqRMkXU         1         5     0     10
+3          eIliihO         1         5     50    10
+4          pSPTGTeXbB      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: eIliihO, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eIliihO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIliihO         2         5     50    12
+2          ViubUgc         1         5     0     10
+3          XqRMkXU         1         5     0     10
+4          pSPTGTeXbB      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: eIliihO, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eIliihO won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIliihO         3         5     50    14
+2          ViubUgc         1         5     0     10
+3          XqRMkXU         1         5     0     10
+4          pSPTGTeXbB      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: eIliihO, Warrior with Responsible behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eIliihO won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIliihO         4         5     50    19
+2          ViubUgc         1         5     0     10
+3          XqRMkXU         1         5     0     10
+4          pSPTGTeXbB      1         6     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: eIliihO, Warrior with Responsible behavior (level 4, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+eIliihO lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIliihO         4         5     0     19
+2          ViubUgc         1         5     0     10
+3          XqRMkXU         1         5     0     10
+4          pSPTGTeXbB      1         6     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

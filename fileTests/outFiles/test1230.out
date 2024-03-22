@@ -1,0 +1,312 @@
+Game is about to start!
+These are the players:
+
+1. OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 5)
+2. aBegwa, Sorcerer with Responsible behavior (level 1, force 5)
+3. pAkXlibXAbvau, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+OwDqIbBFzNYRjwM was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: aBegwa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+aBegwa was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+pAkXlibXAbvau bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OwDqIbBFzNYRjwM 1         4     100   10
+2          aBegwa          1         6     100   10
+3          pAkXlibXAbvau   1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 4
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+OwDqIbBFzNYRjwM was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 5
+Player: aBegwa, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+aBegwa was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 6
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+pAkXlibXAbvau was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          OwDqIbBFzNYRjwM 1         3     100   10
+2          aBegwa          1         7     100   10
+3          pAkXlibXAbvau   1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+OwDqIbBFzNYRjwM lost the encounter and took 25 damage!
+
+Turn: 8
+Player: aBegwa, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Turn: 9
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pAkXlibXAbvau lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          2         7     100   12
+2          OwDqIbBFzNYRjwM 1         3     75    10
+3          pAkXlibXAbvau   1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+OwDqIbBFzNYRjwM lost the encounter and took 25 damage!
+
+Turn: 11
+Player: aBegwa, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pAkXlibXAbvau lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          3         7     100   14
+2          OwDqIbBFzNYRjwM 1         3     50    10
+3          pAkXlibXAbvau   1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+OwDqIbBFzNYRjwM lost the encounter and took 25 damage!
+
+Turn: 14
+Player: aBegwa, Sorcerer with Responsible behavior (level 3, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Turn: 15
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+pAkXlibXAbvau won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          4         7     100   16
+2          pAkXlibXAbvau   2         4     50    12
+3          OwDqIbBFzNYRjwM 1         3     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+OwDqIbBFzNYRjwM won the encounter, gained 2 coins and leveled up!
+
+Turn: 17
+Player: aBegwa, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+aBegwa lost the encounter and took 25 damage!
+
+Turn: 18
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pAkXlibXAbvau lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          4         7     75    16
+2          OwDqIbBFzNYRjwM 2         3     25    12
+3          pAkXlibXAbvau   2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+OwDqIbBFzNYRjwM won the encounter, gained 2 coins and leveled up!
+
+Turn: 20
+Player: aBegwa, Sorcerer with Responsible behavior (level 4, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Turn: 21
+Player: pAkXlibXAbvau, Warrior with Responsible behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+pAkXlibXAbvau lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          5         7     75    18
+2          OwDqIbBFzNYRjwM 3         3     25    14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: OwDqIbBFzNYRjwM, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+OwDqIbBFzNYRjwM lost the encounter and took 25 damage!
+
+Turn: 23
+Player: aBegwa, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+aBegwa lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          5         7     50    18
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 24
+Player: aBegwa, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+aBegwa lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          5         7     25    18
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: aBegwa, Sorcerer with Responsible behavior (level 5, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          6         7     25    20
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: aBegwa, Sorcerer with Responsible behavior (level 6, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          7         7     25    22
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 27
+Player: aBegwa, Sorcerer with Responsible behavior (level 7, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          8         7     25    24
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 28
+Player: aBegwa, Sorcerer with Responsible behavior (level 8, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          9         7     25    26
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: aBegwa, Sorcerer with Responsible behavior (level 9, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+aBegwa won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aBegwa          10        7     25    28
+2          OwDqIbBFzNYRjwM 3         3     0     14
+3          pAkXlibXAbvau   2         4     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: aBegwa
+Congratulations!
+

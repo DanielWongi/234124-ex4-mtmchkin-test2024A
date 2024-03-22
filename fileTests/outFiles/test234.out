@@ -1,0 +1,108 @@
+Game is about to start!
+These are the players:
+
+1. pjeOynlXeCmZlv, Warrior with RiskTaking behavior (level 1, force 5)
+2. zhGajGUZubyOlC, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. vkTQYggr, Sorcerer with Responsible behavior (level 1, force 5)
+4. JFzWDqy, Warrior with Responsible behavior (level 1, force 5)
+5. DYc, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: pjeOynlXeCmZlv, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+pjeOynlXeCmZlv was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: zhGajGUZubyOlC, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+zhGajGUZubyOlC bought 0 potions!
+
+Turn: 3
+Player: vkTQYggr, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+vkTQYggr lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: JFzWDqy, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+JFzWDqy lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: DYc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DYc lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DYc             1         5     75    10
+2          JFzWDqy         1         5     0     10
+3          pjeOynlXeCmZlv  1         4     100   10
+4          vkTQYggr        1         5     0     10
+5          zhGajGUZubyOlC  1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: pjeOynlXeCmZlv, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+pjeOynlXeCmZlv won the encounter, gained 2 coins and leveled up!
+
+Turn: 7
+Player: zhGajGUZubyOlC, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+zhGajGUZubyOlC won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: DYc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+DYc lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pjeOynlXeCmZlv  2         4     100   12
+2          zhGajGUZubyOlC  2         5     100   12
+3          DYc             1         5     50    10
+4          JFzWDqy         1         5     0     10
+5          vkTQYggr        1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: pjeOynlXeCmZlv, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Gang of 6 members (power 163, loot 532, damage 45165)
+pjeOynlXeCmZlv lost the encounter and took 45165 damage!
+
+Turn: 10
+Player: zhGajGUZubyOlC, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+zhGajGUZubyOlC lost the encounter and took 9001 damage!
+
+Turn: 11
+Player: DYc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 148, loot 340, damage 27203)
+DYc lost the encounter and took 27203 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          pjeOynlXeCmZlv  2         4     0     12
+2          zhGajGUZubyOlC  2         5     0     12
+3          DYc             1         5     0     10
+4          JFzWDqy         1         5     0     10
+5          vkTQYggr        1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

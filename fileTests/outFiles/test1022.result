@@ -1,0 +1,358 @@
+Game is about to start!
+These are the players:
+
+1. uuHex, Warrior with RiskTaking behavior (level 1, force 5)
+2. bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 1, force 5)
+3. IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. BNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: uuHex, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+uuHex bought 0 potions!
+
+Turn: 2
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bLbwDNGbFvcCZe bought 0 potions!
+
+Turn: 3
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+IALrJDUhdWDZ bought 0 potions!
+
+Turn: 4
+Player: BNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+BNo bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BNo             1         5     100   10
+2          IALrJDUhdWDZ    1         5     100   10
+3          bLbwDNGbFvcCZe  1         5     100   10
+4          uuHex           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: uuHex, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+uuHex bought 0 potions!
+
+Turn: 6
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bLbwDNGbFvcCZe bought 0 potions!
+
+Turn: 7
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IALrJDUhdWDZ won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: BNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BNo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IALrJDUhdWDZ    2         5     100   12
+2          BNo             1         5     75    10
+3          bLbwDNGbFvcCZe  1         5     100   10
+4          uuHex           1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: uuHex, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uuHex lost the encounter and took 25 damage!
+
+Turn: 10
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bLbwDNGbFvcCZe won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IALrJDUhdWDZ won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: BNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BNo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IALrJDUhdWDZ    3         5     100   14
+2          bLbwDNGbFvcCZe  2         5     100   12
+3          BNo             1         5     50    10
+4          uuHex           1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: uuHex, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uuHex won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bLbwDNGbFvcCZe lost the encounter and took 25 damage!
+
+Turn: 15
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IALrJDUhdWDZ lost the encounter and took 25 damage!
+
+Turn: 16
+Player: BNo, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BNo won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IALrJDUhdWDZ    3         5     75    14
+2          BNo             2         5     50    12
+3          bLbwDNGbFvcCZe  2         5     75    12
+4          uuHex           2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: uuHex, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uuHex lost the encounter and took 25 damage!
+
+Turn: 18
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bLbwDNGbFvcCZe won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IALrJDUhdWDZ lost the encounter and took 25 damage!
+
+Turn: 20
+Player: BNo, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+BNo won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          BNo             3         5     50    14
+2          IALrJDUhdWDZ    3         5     50    14
+3          bLbwDNGbFvcCZe  3         5     75    14
+4          uuHex           2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: uuHex, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uuHex won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bLbwDNGbFvcCZe won the encounter, gained 5 coins and leveled up!
+
+Turn: 23
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IALrJDUhdWDZ lost the encounter and took 25 damage!
+
+Turn: 24
+Player: BNo, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BNo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  4         5     75    19
+2          BNo             3         5     25    14
+3          IALrJDUhdWDZ    3         5     25    14
+4          uuHex           3         5     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: uuHex, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uuHex won the encounter, gained 5 coins and leveled up!
+
+Turn: 26
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bLbwDNGbFvcCZe won the encounter, gained 5 coins and leveled up!
+
+Turn: 27
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IALrJDUhdWDZ won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: BNo, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+BNo lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  5         5     75    24
+2          uuHex           4         5     50    19
+3          IALrJDUhdWDZ    4         5     25    16
+4          BNo             3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: uuHex, Warrior with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uuHex won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bLbwDNGbFvcCZe won the encounter, gained 2 coins and leveled up!
+
+Turn: 31
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+IALrJDUhdWDZ won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  6         5     75    26
+2          uuHex           5         5     50    21
+3          IALrJDUhdWDZ    5         5     25    18
+4          BNo             3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 32
+Player: uuHex, Warrior with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uuHex won the encounter, gained 2 coins and leveled up!
+
+Turn: 33
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bLbwDNGbFvcCZe won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: IALrJDUhdWDZ, Sorcerer with RiskTaking behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+IALrJDUhdWDZ lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  7         5     75    28
+2          uuHex           6         5     50    23
+3          IALrJDUhdWDZ    5         5     0     18
+4          BNo             3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: uuHex, Warrior with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uuHex won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+bLbwDNGbFvcCZe won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  8         5     75    30
+2          uuHex           7         5     50    28
+3          IALrJDUhdWDZ    5         5     0     18
+4          BNo             3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: uuHex, Warrior with RiskTaking behavior (level 7, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uuHex won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bLbwDNGbFvcCZe won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  9         5     75    35
+2          uuHex           8         5     50    30
+3          IALrJDUhdWDZ    5         5     0     18
+4          BNo             3         5     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 39
+Player: uuHex, Warrior with RiskTaking behavior (level 8, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uuHex won the encounter, gained 5 coins and leveled up!
+
+Turn: 40
+Player: bLbwDNGbFvcCZe, Warrior with RiskTaking behavior (level 9, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+bLbwDNGbFvcCZe won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          bLbwDNGbFvcCZe  10        5     75    40
+2          uuHex           9         5     50    35
+3          IALrJDUhdWDZ    5         5     0     18
+4          BNo             3         5     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: bLbwDNGbFvcCZe
+Congratulations!
+

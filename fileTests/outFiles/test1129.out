@@ -1,0 +1,401 @@
+Game is about to start!
+These are the players:
+
+1. IOM, Warrior with RiskTaking behavior (level 1, force 5)
+2. ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 1, force 5)
+3. OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. uvjicE, Sorcerer with Responsible behavior (level 1, force 5)
+5. DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: IOM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+IOM bought 0 potions!
+
+Turn: 2
+Player: ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+ZRDAKLjhiURi bought 0 potions!
+
+Turn: 3
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+OqqvQqtoyjAv was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: uvjicE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+uvjicE bought 0 potions!
+
+Turn: 5
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+DhTGLOycrkpxU was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DhTGLOycrkpxU   1         4     100   10
+2          IOM             1         5     100   10
+3          OqqvQqtoyjAv    1         6     100   10
+4          ZRDAKLjhiURi    1         5     100   10
+5          uvjicE          1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: IOM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+IOM was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 7
+Player: ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZRDAKLjhiURi lost the encounter and took 25 damage!
+
+Turn: 8
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OqqvQqtoyjAv lost the encounter and took 25 damage!
+
+Turn: 9
+Player: uvjicE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uvjicE lost the encounter and took 25 damage!
+
+Turn: 10
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DhTGLOycrkpxU   2         4     100   12
+2          IOM             1         4     100   10
+3          OqqvQqtoyjAv    1         6     75    10
+4          ZRDAKLjhiURi    1         5     75    10
+5          uvjicE          1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: IOM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IOM won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZRDAKLjhiURi lost the encounter and took 25 damage!
+
+Turn: 13
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OqqvQqtoyjAv lost the encounter and took 25 damage!
+
+Turn: 14
+Player: uvjicE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uvjicE lost the encounter and took 25 damage!
+
+Turn: 15
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DhTGLOycrkpxU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DhTGLOycrkpxU   2         4     75    12
+2          IOM             2         4     100   12
+3          OqqvQqtoyjAv    1         6     50    10
+4          ZRDAKLjhiURi    1         5     50    10
+5          uvjicE          1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 16
+Player: IOM, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IOM lost the encounter and took 25 damage!
+
+Turn: 17
+Player: ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+ZRDAKLjhiURi won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+OqqvQqtoyjAv won the encounter, gained 2 coins and leveled up!
+
+Turn: 19
+Player: uvjicE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uvjicE lost the encounter and took 25 damage!
+
+Turn: 20
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DhTGLOycrkpxU   3         4     75    14
+2          IOM             2         4     75    12
+3          OqqvQqtoyjAv    2         6     50    12
+4          ZRDAKLjhiURi    2         5     50    12
+5          uvjicE          1         5     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: IOM, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IOM won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZRDAKLjhiURi lost the encounter and took 25 damage!
+
+Turn: 23
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OqqvQqtoyjAv lost the encounter and took 25 damage!
+
+Turn: 24
+Player: uvjicE, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uvjicE won the encounter, gained 2 coins and leveled up!
+
+Turn: 25
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DhTGLOycrkpxU   4         4     75    16
+2          IOM             3         4     75    14
+3          OqqvQqtoyjAv    2         6     25    12
+4          ZRDAKLjhiURi    2         5     25    12
+5          uvjicE          2         5     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 26
+Player: IOM, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IOM won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: ZRDAKLjhiURi, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+ZRDAKLjhiURi lost the encounter and took 25 damage!
+
+Turn: 28
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+OqqvQqtoyjAv won the encounter, gained 2 coins and leveled up!
+
+Turn: 29
+Player: uvjicE, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uvjicE won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DhTGLOycrkpxU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DhTGLOycrkpxU   4         4     50    16
+2          IOM             4         4     75    16
+3          OqqvQqtoyjAv    3         6     25    14
+4          uvjicE          3         5     25    14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 31
+Player: IOM, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IOM won the encounter, gained 2 coins and leveled up!
+
+Turn: 32
+Player: OqqvQqtoyjAv, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+OqqvQqtoyjAv lost the encounter and took 25 damage!
+
+Turn: 33
+Player: uvjicE, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uvjicE won the encounter, gained 2 coins and leveled up!
+
+Turn: 34
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DhTGLOycrkpxU lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IOM             5         4     75    18
+2          DhTGLOycrkpxU   4         4     25    16
+3          uvjicE          4         5     25    16
+4          OqqvQqtoyjAv    3         6     0     14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: IOM, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IOM won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: uvjicE, Sorcerer with Responsible behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+uvjicE won the encounter, gained 2 coins and leveled up!
+
+Turn: 37
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IOM             6         4     75    20
+2          DhTGLOycrkpxU   5         4     25    18
+3          uvjicE          5         5     25    18
+4          OqqvQqtoyjAv    3         6     0     14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 38
+Player: IOM, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IOM won the encounter, gained 5 coins and leveled up!
+
+Turn: 39
+Player: uvjicE, Sorcerer with Responsible behavior (level 5, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+uvjicE lost the encounter and took 25 damage!
+
+Turn: 40
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IOM             7         4     75    25
+2          DhTGLOycrkpxU   6         4     25    20
+3          uvjicE          5         5     0     18
+4          OqqvQqtoyjAv    3         6     0     14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 41
+Player: IOM, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IOM won the encounter, gained 5 coins and leveled up!
+
+Turn: 42
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IOM             8         4     75    30
+2          DhTGLOycrkpxU   7         4     25    22
+3          uvjicE          5         5     0     18
+4          OqqvQqtoyjAv    3         6     0     14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: IOM, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IOM won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+DhTGLOycrkpxU won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IOM             9         4     75    32
+2          DhTGLOycrkpxU   8         4     25    24
+3          uvjicE          5         5     0     18
+4          OqqvQqtoyjAv    3         6     0     14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 45
+Player: IOM, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IOM won the encounter, gained 5 coins and leveled up!
+
+Turn: 46
+Player: DhTGLOycrkpxU, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+DhTGLOycrkpxU won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IOM             10        4     75    37
+2          DhTGLOycrkpxU   9         4     25    29
+3          uvjicE          5         5     0     18
+4          OqqvQqtoyjAv    3         6     0     14
+5          ZRDAKLjhiURi    2         5     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: IOM
+Congratulations!
+

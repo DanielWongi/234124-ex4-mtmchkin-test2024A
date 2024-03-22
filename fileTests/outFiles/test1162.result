@@ -1,0 +1,171 @@
+Game is about to start!
+These are the players:
+
+1. DveoLkuVgzhd, Warrior with Responsible behavior (level 1, force 5)
+2. HOzZcHYyG, Sorcerer with Responsible behavior (level 1, force 5)
+3. kuEFZAPwttQcsAM, Warrior with RiskTaking behavior (level 1, force 5)
+4. aZKFhMOcSajXsB, Sorcerer with Responsible behavior (level 1, force 5)
+5. bQC, Sorcerer with RiskTaking behavior (level 1, force 5)
+6. ZtHA, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: DveoLkuVgzhd, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+DveoLkuVgzhd was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: HOzZcHYyG, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+HOzZcHYyG was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: kuEFZAPwttQcsAM, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+kuEFZAPwttQcsAM was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: aZKFhMOcSajXsB, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+aZKFhMOcSajXsB was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: bQC, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+bQC bought 0 potions!
+
+Turn: 6
+Player: ZtHA, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+ZtHA was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DveoLkuVgzhd    1         4     100   10
+2          HOzZcHYyG       1         6     100   10
+3          ZtHA            1         4     100   10
+4          aZKFhMOcSajXsB  1         6     100   10
+5          bQC             1         5     100   10
+6          kuEFZAPwttQcsAM 1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: DveoLkuVgzhd, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 3 members (power 15, loot 6, damage 30)
+DveoLkuVgzhd lost the encounter and took 30 damage!
+
+Turn: 8
+Player: HOzZcHYyG, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 4 members (power 27, loot 11, damage 55)
+HOzZcHYyG lost the encounter and took 55 damage!
+
+Turn: 9
+Player: kuEFZAPwttQcsAM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+kuEFZAPwttQcsAM lost the encounter and took 35 damage!
+
+Turn: 10
+Player: aZKFhMOcSajXsB, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+aZKFhMOcSajXsB lost the encounter and took 35 damage!
+
+Turn: 11
+Player: bQC, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 39, loot 16, damage 80)
+bQC lost the encounter and took 80 damage!
+
+Turn: 12
+Player: ZtHA, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+ZtHA lost the encounter and took 65 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DveoLkuVgzhd    1         4     70    10
+2          HOzZcHYyG       1         6     45    10
+3          ZtHA            1         4     35    10
+4          aZKFhMOcSajXsB  1         6     65    10
+5          bQC             1         5     20    10
+6          kuEFZAPwttQcsAM 1         4     65    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: DveoLkuVgzhd, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 6 members (power 58, loot 24, damage 120)
+DveoLkuVgzhd lost the encounter and took 120 damage!
+
+Turn: 14
+Player: HOzZcHYyG, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+HOzZcHYyG lost the encounter and took 50 damage!
+
+Turn: 15
+Player: kuEFZAPwttQcsAM, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+kuEFZAPwttQcsAM lost the encounter and took 95 damage!
+
+Turn: 16
+Player: aZKFhMOcSajXsB, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+aZKFhMOcSajXsB lost the encounter and took 50 damage!
+
+Turn: 17
+Player: bQC, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 5 members (power 32, loot 13, damage 65)
+bQC lost the encounter and took 65 damage!
+
+Turn: 18
+Player: ZtHA, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+ZtHA lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DveoLkuVgzhd    1         4     0     10
+2          HOzZcHYyG       1         6     0     10
+3          ZtHA            1         4     15    10
+4          aZKFhMOcSajXsB  1         6     15    10
+5          bQC             1         5     0     10
+6          kuEFZAPwttQcsAM 1         4     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: aZKFhMOcSajXsB, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 4 members (power 34, loot 14, damage 70)
+aZKFhMOcSajXsB lost the encounter and took 70 damage!
+
+Turn: 20
+Player: ZtHA, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+ZtHA lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          DveoLkuVgzhd    1         4     0     10
+2          HOzZcHYyG       1         6     0     10
+3          ZtHA            1         4     0     10
+4          aZKFhMOcSajXsB  1         6     0     10
+5          bQC             1         5     0     10
+6          kuEFZAPwttQcsAM 1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,378 @@
+Game is about to start!
+These are the players:
+
+1. FmVu, Sorcerer with Responsible behavior (level 1, force 5)
+2. jicVEkWgJ, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. YQR, Warrior with RiskTaking behavior (level 1, force 5)
+4. iiiP, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: FmVu, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+FmVu was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+jicVEkWgJ bought 0 potions!
+
+Turn: 3
+Player: YQR, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+YQR was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: iiiP, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+iiiP was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FmVu            1         6     100   10
+2          YQR             1         4     100   10
+3          iiiP            1         6     100   10
+4          jicVEkWgJ       1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: FmVu, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+FmVu bought 0 potions!
+
+Turn: 6
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+jicVEkWgJ bought 0 potions!
+
+Turn: 7
+Player: YQR, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: iiiP, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YQR             2         4     100   12
+2          iiiP            2         6     100   12
+3          FmVu            1         6     100   10
+4          jicVEkWgJ       1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: FmVu, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FmVu lost the encounter and took 25 damage!
+
+Turn: 10
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jicVEkWgJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: YQR, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+YQR lost the encounter and took 25 damage!
+
+Turn: 12
+Player: iiiP, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iiiP            3         6     100   14
+2          YQR             2         4     75    12
+3          jicVEkWgJ       2         5     100   12
+4          FmVu            1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: FmVu, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FmVu won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jicVEkWgJ lost the encounter and took 25 damage!
+
+Turn: 15
+Player: YQR, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: iiiP, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iiiP            4         6     100   16
+2          YQR             3         4     75    14
+3          FmVu            2         6     75    12
+4          jicVEkWgJ       2         5     75    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: FmVu, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FmVu won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jicVEkWgJ lost the encounter and took 25 damage!
+
+Turn: 19
+Player: YQR, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+YQR lost the encounter and took 25 damage!
+
+Turn: 20
+Player: iiiP, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iiiP lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iiiP            4         6     75    16
+2          FmVu            3         6     75    14
+3          YQR             3         4     50    14
+4          jicVEkWgJ       2         5     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: FmVu, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FmVu lost the encounter and took 25 damage!
+
+Turn: 22
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jicVEkWgJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: YQR, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: iiiP, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iiiP            5         6     75    18
+2          YQR             4         4     50    16
+3          FmVu            3         6     50    14
+4          jicVEkWgJ       3         5     50    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: FmVu, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FmVu lost the encounter and took 25 damage!
+
+Turn: 26
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jicVEkWgJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: YQR, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: iiiP, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          iiiP            6         6     75    20
+2          YQR             5         4     50    18
+3          jicVEkWgJ       4         5     50    16
+4          FmVu            3         6     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: FmVu, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+FmVu won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jicVEkWgJ lost the encounter and took 25 damage!
+
+Turn: 31
+Player: YQR, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+YQR won the encounter, gained 5 coins and leveled up!
+
+Turn: 32
+Player: iiiP, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+iiiP lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YQR             6         4     50    23
+2          iiiP            6         6     50    20
+3          FmVu            4         6     25    16
+4          jicVEkWgJ       4         5     25    16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: FmVu, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+FmVu lost the encounter and took 25 damage!
+
+Turn: 34
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 4, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jicVEkWgJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 35
+Player: YQR, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+YQR won the encounter, gained 5 coins and leveled up!
+
+Turn: 36
+Player: iiiP, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YQR             7         4     50    28
+2          iiiP            7         6     50    22
+3          jicVEkWgJ       5         5     25    18
+4          FmVu            4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 5, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+jicVEkWgJ won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: YQR, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 39
+Player: iiiP, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YQR             8         4     50    30
+2          iiiP            8         6     50    24
+3          jicVEkWgJ       6         5     25    20
+4          FmVu            4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 40
+Player: jicVEkWgJ, Sorcerer with RiskTaking behavior (level 6, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jicVEkWgJ lost the encounter and took 25 damage!
+
+Turn: 41
+Player: YQR, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 42
+Player: iiiP, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YQR             9         4     50    32
+2          iiiP            9         6     50    26
+3          jicVEkWgJ       6         5     0     20
+4          FmVu            4         6     0     16
+
+----------------------------------------
+
+New round starts!
+
+Turn: 43
+Player: YQR, Warrior with RiskTaking behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+YQR won the encounter, gained 2 coins and leveled up!
+
+Turn: 44
+Player: iiiP, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+iiiP won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          YQR             10        4     50    34
+2          iiiP            10        6     50    28
+3          jicVEkWgJ       6         5     0     20
+4          FmVu            4         6     0     16
+
+----------------------------------------
+
+Game is over!
+The winner is: YQR
+Congratulations!
+

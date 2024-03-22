@@ -1,0 +1,137 @@
+Game is about to start!
+These are the players:
+
+1. FQa, Sorcerer with Responsible behavior (level 1, force 5)
+2. AxYebqwWpvH, Sorcerer with RiskTaking behavior (level 1, force 5)
+3. vnQtGe, Warrior with RiskTaking behavior (level 1, force 5)
+4. ERNc, Sorcerer with RiskTaking behavior (level 1, force 5)
+5. rXWnQMugjqov, Warrior with RiskTaking behavior (level 1, force 5)
+6. nQHbwEhYuH, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: FQa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+FQa was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 2
+Player: AxYebqwWpvH, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+AxYebqwWpvH was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 3
+Player: vnQtGe, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+vnQtGe was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: ERNc, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ERNc was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 5
+Player: rXWnQMugjqov, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+rXWnQMugjqov bought 0 potions!
+
+Turn: 6
+Player: nQHbwEhYuH, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+nQHbwEhYuH was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AxYebqwWpvH     1         6     100   10
+2          ERNc            1         6     100   10
+3          FQa             1         6     100   10
+4          nQHbwEhYuH      1         4     100   10
+5          rXWnQMugjqov    1         5     100   10
+6          vnQtGe          1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: FQa, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 6 members (power 44, loot 18, damage 90)
+FQa lost the encounter and took 90 damage!
+
+Turn: 8
+Player: AxYebqwWpvH, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+AxYebqwWpvH lost the encounter and took 45 damage!
+
+Turn: 9
+Player: vnQtGe, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+vnQtGe lost the encounter and took 60 damage!
+
+Turn: 10
+Player: ERNc, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 5 members (power 46, loot 19, damage 95)
+ERNc lost the encounter and took 95 damage!
+
+Turn: 11
+Player: rXWnQMugjqov, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 6 members (power 65, loot 27, damage 135)
+rXWnQMugjqov lost the encounter and took 135 damage!
+
+Turn: 12
+Player: nQHbwEhYuH, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 6 members (power 165, loot 68, damage 340)
+nQHbwEhYuH lost the encounter and took 340 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AxYebqwWpvH     1         6     55    10
+2          ERNc            1         6     5     10
+3          FQa             1         6     10    10
+4          nQHbwEhYuH      1         4     0     10
+5          rXWnQMugjqov    1         5     0     10
+6          vnQtGe          1         4     40    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: FQa, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Gang of 2 members (power 17, loot 7, damage 35)
+FQa lost the encounter and took 35 damage!
+
+Turn: 14
+Player: AxYebqwWpvH, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 6 members (power 37, loot 15, damage 75)
+AxYebqwWpvH lost the encounter and took 75 damage!
+
+Turn: 15
+Player: vnQtGe, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+vnQtGe lost the encounter and took 50 damage!
+
+Turn: 16
+Player: ERNc, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+ERNc lost the encounter and took 60 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AxYebqwWpvH     1         6     0     10
+2          ERNc            1         6     0     10
+3          FQa             1         6     0     10
+4          nQHbwEhYuH      1         4     0     10
+5          rXWnQMugjqov    1         5     0     10
+6          vnQtGe          1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

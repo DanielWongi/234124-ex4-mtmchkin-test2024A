@@ -1,0 +1,262 @@
+Game is about to start!
+These are the players:
+
+1. IUaUL, Warrior with Responsible behavior (level 1, force 5)
+2. ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: IUaUL, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+IUaUL was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 2
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+ADCEFntSvJpa was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ADCEFntSvJpa    1         6     100   10
+2          IUaUL           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: IUaUL, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+IUaUL bought 0 potions!
+
+Turn: 4
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 6)
+Card: PotionsMerchant
+ADCEFntSvJpa bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ADCEFntSvJpa    1         6     100   10
+2          IUaUL           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: IUaUL, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+IUaUL bought 0 potions!
+
+Turn: 6
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 6)
+Card: SolarEclipse
+ADCEFntSvJpa was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ADCEFntSvJpa    1         7     100   10
+2          IUaUL           1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: IUaUL, Warrior with Responsible behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ADCEFntSvJpa lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           2         4     100   12
+2          ADCEFntSvJpa    1         7     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: IUaUL, Warrior with Responsible behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ADCEFntSvJpa lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           3         4     100   14
+2          ADCEFntSvJpa    1         7     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: IUaUL, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IUaUL lost the encounter and took 25 damage!
+
+Turn: 12
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 1, force 7)
+Card: Goblin (power 5, loot 2, damage 10)
+ADCEFntSvJpa won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           3         4     75    14
+2          ADCEFntSvJpa    2         7     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: IUaUL, Warrior with Responsible behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IUaUL lost the encounter and took 25 damage!
+
+Turn: 14
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ADCEFntSvJpa lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           3         4     50    14
+2          ADCEFntSvJpa    2         7     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: IUaUL, Warrior with Responsible behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: ADCEFntSvJpa, Sorcerer with Responsible behavior (level 2, force 7)
+Card: Giant (power 12, loot 5, damage 25)
+ADCEFntSvJpa lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           4         4     50    16
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: IUaUL, Warrior with Responsible behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           5         4     50    18
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 18
+Player: IUaUL, Warrior with Responsible behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           6         4     50    20
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: IUaUL, Warrior with Responsible behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IUaUL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           7         4     50    25
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 20
+Player: IUaUL, Warrior with Responsible behavior (level 7, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+IUaUL won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           8         4     50    30
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: IUaUL, Warrior with Responsible behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           9         4     50    32
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 22
+Player: IUaUL, Warrior with Responsible behavior (level 9, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+IUaUL won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          IUaUL           10        4     50    34
+2          ADCEFntSvJpa    2         7     0     12
+
+----------------------------------------
+
+Game is over!
+The winner is: IUaUL
+Congratulations!
+

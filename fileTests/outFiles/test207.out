@@ -1,0 +1,133 @@
+Game is about to start!
+These are the players:
+
+1. CWiDFmAMqxRrPUt, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. pBLZUlHVHcvSK, Warrior with RiskTaking behavior (level 1, force 5)
+3. jgHWwDXJSQFTrs, Sorcerer with Responsible behavior (level 1, force 5)
+4. eIGoLM, Warrior with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: CWiDFmAMqxRrPUt, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+CWiDFmAMqxRrPUt lost the encounter and took 9001 damage!
+
+Turn: 2
+Player: pBLZUlHVHcvSK, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+pBLZUlHVHcvSK won the encounter, gained 2 coins and leveled up!
+
+Turn: 3
+Player: jgHWwDXJSQFTrs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jgHWwDXJSQFTrs lost the encounter and took 25 damage!
+
+Turn: 4
+Player: eIGoLM, Warrior with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eIGoLM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIGoLM          2         5     100   12
+2          pBLZUlHVHcvSK   2         5     100   12
+3          CWiDFmAMqxRrPUt 1         5     0     10
+4          jgHWwDXJSQFTrs  1         5     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: pBLZUlHVHcvSK, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+pBLZUlHVHcvSK won the encounter, gained 2 coins and leveled up!
+
+Turn: 6
+Player: jgHWwDXJSQFTrs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+jgHWwDXJSQFTrs lost the encounter and took 25 damage!
+
+Turn: 7
+Player: eIGoLM, Warrior with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eIGoLM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIGoLM          3         5     100   14
+2          pBLZUlHVHcvSK   3         5     100   14
+3          CWiDFmAMqxRrPUt 1         5     0     10
+4          jgHWwDXJSQFTrs  1         5     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: pBLZUlHVHcvSK, Warrior with RiskTaking behavior (level 3, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+pBLZUlHVHcvSK lost the encounter and took 9001 damage!
+
+Turn: 9
+Player: jgHWwDXJSQFTrs, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Gang of 4 members (power 111, loot 325, damage 27128)
+jgHWwDXJSQFTrs lost the encounter and took 27128 damage!
+
+Turn: 10
+Player: eIGoLM, Warrior with Responsible behavior (level 3, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eIGoLM won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIGoLM          4         5     100   16
+2          pBLZUlHVHcvSK   3         5     0     14
+3          CWiDFmAMqxRrPUt 1         5     0     10
+4          jgHWwDXJSQFTrs  1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: eIGoLM, Warrior with Responsible behavior (level 4, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eIGoLM won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIGoLM          5         5     100   21
+2          pBLZUlHVHcvSK   3         5     0     14
+3          CWiDFmAMqxRrPUt 1         5     0     10
+4          jgHWwDXJSQFTrs  1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: eIGoLM, Warrior with Responsible behavior (level 5, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+eIGoLM lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eIGoLM          5         5     0     21
+2          pBLZUlHVHcvSK   3         5     0     14
+3          CWiDFmAMqxRrPUt 1         5     0     10
+4          jgHWwDXJSQFTrs  1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

@@ -1,0 +1,336 @@
+Game is about to start!
+These are the players:
+
+1. WbPljsFYbvE, Warrior with RiskTaking behavior (level 1, force 5)
+2. AXXOMfO, Warrior with RiskTaking behavior (level 1, force 5)
+3. qpNr, Sorcerer with Responsible behavior (level 1, force 5)
+4. PxMpofX, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+WbPljsFYbvE bought 0 potions!
+
+Turn: 2
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+AXXOMfO was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 3
+Player: qpNr, Sorcerer with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+qpNr was affected by a solar eclipse! their force has changed by 1!
+
+Turn: 4
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+PxMpofX was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          AXXOMfO         1         4     100   10
+2          PxMpofX         1         6     100   10
+3          WbPljsFYbvE     1         5     100   10
+4          qpNr            1         6     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+WbPljsFYbvE was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+AXXOMfO bought 0 potions!
+
+Turn: 7
+Player: qpNr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+qpNr lost the encounter and took 25 damage!
+
+Turn: 8
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         2         6     100   12
+2          AXXOMfO         1         4     100   10
+3          WbPljsFYbvE     1         4     100   10
+4          qpNr            1         6     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AXXOMfO lost the encounter and took 25 damage!
+
+Turn: 11
+Player: qpNr, Sorcerer with Responsible behavior (level 1, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+qpNr won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         3         6     100   14
+2          WbPljsFYbvE     2         4     100   12
+3          qpNr            2         6     75    12
+4          AXXOMfO         1         4     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 14
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AXXOMfO lost the encounter and took 25 damage!
+
+Turn: 15
+Player: qpNr, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+qpNr lost the encounter and took 25 damage!
+
+Turn: 16
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         4         6     100   16
+2          WbPljsFYbvE     3         4     100   14
+3          qpNr            2         6     50    12
+4          AXXOMfO         1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+WbPljsFYbvE lost the encounter and took 25 damage!
+
+Turn: 18
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AXXOMfO lost the encounter and took 25 damage!
+
+Turn: 19
+Player: qpNr, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+qpNr lost the encounter and took 25 damage!
+
+Turn: 20
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PxMpofX lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         4         6     75    16
+2          WbPljsFYbvE     3         4     75    14
+3          qpNr            2         6     25    12
+4          AXXOMfO         1         4     25    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 21
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 22
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+AXXOMfO won the encounter, gained 2 coins and leveled up!
+
+Turn: 23
+Player: qpNr, Sorcerer with Responsible behavior (level 2, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+qpNr won the encounter, gained 2 coins and leveled up!
+
+Turn: 24
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 4, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         5         6     75    18
+2          WbPljsFYbvE     4         4     75    16
+3          qpNr            3         6     25    14
+4          AXXOMfO         2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 25
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 26
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+AXXOMfO won the encounter, gained 2 coins and leveled up!
+
+Turn: 27
+Player: qpNr, Sorcerer with Responsible behavior (level 3, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+qpNr won the encounter, gained 2 coins and leveled up!
+
+Turn: 28
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 5, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         6         6     75    20
+2          WbPljsFYbvE     5         4     75    18
+3          qpNr            4         6     25    16
+4          AXXOMfO         3         4     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 29
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 5, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 30
+Player: AXXOMfO, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+AXXOMfO lost the encounter and took 25 damage!
+
+Turn: 31
+Player: qpNr, Sorcerer with Responsible behavior (level 4, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+qpNr lost the encounter and took 25 damage!
+
+Turn: 32
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 6, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         7         6     75    22
+2          WbPljsFYbvE     6         4     75    20
+3          qpNr            4         6     0     16
+4          AXXOMfO         3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 33
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 6, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+WbPljsFYbvE won the encounter, gained 5 coins and leveled up!
+
+Turn: 34
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 7, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         8         6     75    24
+2          WbPljsFYbvE     7         4     75    25
+3          qpNr            4         6     0     16
+4          AXXOMfO         3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 35
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 7, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 36
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 8, force 6)
+Card: Goblin (power 5, loot 2, damage 10)
+PxMpofX won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         9         6     75    26
+2          WbPljsFYbvE     8         4     75    27
+3          qpNr            4         6     0     16
+4          AXXOMfO         3         4     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 37
+Player: WbPljsFYbvE, Warrior with RiskTaking behavior (level 8, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+WbPljsFYbvE won the encounter, gained 2 coins and leveled up!
+
+Turn: 38
+Player: PxMpofX, Sorcerer with RiskTaking behavior (level 9, force 6)
+Card: Giant (power 12, loot 5, damage 25)
+PxMpofX won the encounter, gained 5 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          PxMpofX         10        6     75    31
+2          WbPljsFYbvE     9         4     75    29
+3          qpNr            4         6     0     16
+4          AXXOMfO         3         4     0     14
+
+----------------------------------------
+
+Game is over!
+The winner is: PxMpofX
+Congratulations!
+

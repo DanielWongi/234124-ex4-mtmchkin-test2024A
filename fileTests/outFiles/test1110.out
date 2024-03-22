@@ -1,0 +1,206 @@
+Game is about to start!
+These are the players:
+
+1. eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 5)
+2. ohxYstAf, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+eQTNkKpZhaJnn bought 0 potions!
+
+Turn: 2
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+ohxYstAf was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   1         5     100   10
+2          ohxYstAf        1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 5)
+Card: PotionsMerchant
+eQTNkKpZhaJnn bought 0 potions!
+
+Turn: 4
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 1, force 4)
+Card: PotionsMerchant
+ohxYstAf bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   1         5     100   10
+2          ohxYstAf        1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+eQTNkKpZhaJnn was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 6
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 1, force 4)
+Card: SolarEclipse
+ohxYstAf was affected by a solar eclipse! their force has changed by -1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   1         4     100   10
+2          ohxYstAf        1         3     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eQTNkKpZhaJnn lost the encounter and took 25 damage!
+
+Turn: 8
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ohxYstAf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   1         4     75    10
+2          ohxYstAf        1         3     75    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eQTNkKpZhaJnn lost the encounter and took 25 damage!
+
+Turn: 10
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 1, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+ohxYstAf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ohxYstAf        2         3     75    12
+2          eQTNkKpZhaJnn   1         4     50    10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 11
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 1, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eQTNkKpZhaJnn won the encounter, gained 2 coins and leveled up!
+
+Turn: 12
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 2, force 3)
+Card: Goblin (power 5, loot 2, damage 10)
+ohxYstAf won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ohxYstAf        3         3     75    14
+2          eQTNkKpZhaJnn   2         4     50    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 13
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eQTNkKpZhaJnn lost the encounter and took 25 damage!
+
+Turn: 14
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ohxYstAf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          ohxYstAf        3         3     50    14
+2          eQTNkKpZhaJnn   2         4     25    12
+
+----------------------------------------
+
+New round starts!
+
+Turn: 15
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 2, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eQTNkKpZhaJnn won the encounter, gained 2 coins and leveled up!
+
+Turn: 16
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ohxYstAf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   3         4     25    14
+2          ohxYstAf        3         3     25    14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 17
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 3, force 4)
+Card: Goblin (power 5, loot 2, damage 10)
+eQTNkKpZhaJnn won the encounter, gained 2 coins and leveled up!
+
+Turn: 18
+Player: ohxYstAf, Warrior with RiskTaking behavior (level 3, force 3)
+Card: Giant (power 12, loot 5, damage 25)
+ohxYstAf lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   4         4     25    16
+2          ohxYstAf        3         3     0     14
+
+----------------------------------------
+
+New round starts!
+
+Turn: 19
+Player: eQTNkKpZhaJnn, Warrior with RiskTaking behavior (level 4, force 4)
+Card: Giant (power 12, loot 5, damage 25)
+eQTNkKpZhaJnn lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          eQTNkKpZhaJnn   4         4     0     16
+2          ohxYstAf        3         3     0     14
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

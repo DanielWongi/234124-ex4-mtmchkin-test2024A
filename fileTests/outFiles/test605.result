@@ -1,0 +1,136 @@
+Game is about to start!
+These are the players:
+
+1. jGi, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. FzciEF, Warrior with RiskTaking behavior (level 1, force 5)
+3. caOTOHQho, Sorcerer with Responsible behavior (level 1, force 5)
+4. aJM, Sorcerer with Responsible behavior (level 1, force 5)
+5. VgcESIUbb, Sorcerer with Responsible behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: jGi, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 39, loot 109, damage 9046)
+jGi lost the encounter and took 9046 damage!
+
+Turn: 2
+Player: FzciEF, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+FzciEF lost the encounter and took 25 damage!
+
+Turn: 3
+Player: caOTOHQho, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+caOTOHQho lost the encounter and took 9001 damage!
+
+Turn: 4
+Player: aJM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+aJM lost the encounter and took 25 damage!
+
+Turn: 5
+Player: VgcESIUbb, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VgcESIUbb lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          FzciEF          1         5     75    10
+2          VgcESIUbb       1         5     75    10
+3          aJM             1         5     75    10
+4          caOTOHQho       1         5     0     10
+5          jGi             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: FzciEF, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Gang of 3 members (power 29, loot 12, damage 60)
+FzciEF lost the encounter and took 60 damage!
+
+Turn: 7
+Player: aJM, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+aJM won the encounter, gained 2 coins and leveled up!
+
+Turn: 8
+Player: VgcESIUbb, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+VgcESIUbb lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aJM             2         5     75    12
+2          FzciEF          1         5     15    10
+3          VgcESIUbb       1         5     50    10
+4          caOTOHQho       1         5     0     10
+5          jGi             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: FzciEF, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+FzciEF won the encounter, gained 2 coins and leveled up!
+
+Turn: 10
+Player: aJM, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+aJM won the encounter, gained 2 coins and leveled up!
+
+Turn: 11
+Player: VgcESIUbb, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+VgcESIUbb won the encounter, gained 2 coins and leveled up!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aJM             3         5     75    14
+2          FzciEF          2         5     15    12
+3          VgcESIUbb       2         5     50    12
+4          caOTOHQho       1         5     0     10
+5          jGi             1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 12
+Player: FzciEF, Warrior with RiskTaking behavior (level 2, force 5)
+Card: Gang of 4 members (power 27, loot 11, damage 55)
+FzciEF lost the encounter and took 55 damage!
+
+Turn: 13
+Player: aJM, Sorcerer with Responsible behavior (level 3, force 5)
+Card: Gang of 2 members (power 22, loot 102, damage 9011)
+aJM lost the encounter and took 9011 damage!
+
+Turn: 14
+Player: VgcESIUbb, Sorcerer with Responsible behavior (level 2, force 5)
+Card: Gang of 2 members (power 24, loot 10, damage 50)
+VgcESIUbb lost the encounter and took 50 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          aJM             3         5     0     14
+2          FzciEF          2         5     0     12
+3          VgcESIUbb       2         5     0     12
+4          caOTOHQho       1         5     0     10
+5          jGi             1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

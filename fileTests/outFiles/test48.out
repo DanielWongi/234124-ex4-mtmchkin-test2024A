@@ -1,0 +1,116 @@
+Game is about to start!
+These are the players:
+
+1. KscRuQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+2. VzdK, Warrior with Responsible behavior (level 1, force 5)
+3. eUw, Sorcerer with RiskTaking behavior (level 1, force 5)
+4. ulTq, Sorcerer with Responsible behavior (level 1, force 5)
+5. vRRmA, Warrior with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: KscRuQ, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KscRuQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 2
+Player: VzdK, Warrior with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+VzdK lost the encounter and took 9001 damage!
+
+Turn: 3
+Player: eUw, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+eUw won the encounter, gained 2 coins and leveled up!
+
+Turn: 4
+Player: ulTq, Sorcerer with Responsible behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+ulTq lost the encounter and took 9001 damage!
+
+Turn: 5
+Player: vRRmA, Warrior with RiskTaking behavior (level 1, force 5)
+Card: Dragon (power 17, loot 100, damage 9001)
+vRRmA lost the encounter and took 9001 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KscRuQ          2         5     100   12
+2          eUw             2         5     100   12
+3          VzdK            1         5     0     10
+4          ulTq            1         5     0     10
+5          vRRmA           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 6
+Player: KscRuQ, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Goblin (power 5, loot 2, damage 10)
+KscRuQ won the encounter, gained 2 coins and leveled up!
+
+Turn: 7
+Player: eUw, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 4 members (power 27, loot 11, damage 55)
+eUw lost the encounter and took 55 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KscRuQ          3         5     100   14
+2          eUw             2         5     45    12
+3          VzdK            1         5     0     10
+4          ulTq            1         5     0     10
+5          vRRmA           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 8
+Player: KscRuQ, Sorcerer with RiskTaking behavior (level 3, force 5)
+Card: Gang of 4 members (power 56, loot 302, damage 27013)
+KscRuQ lost the encounter and took 27013 damage!
+
+Turn: 9
+Player: eUw, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Giant (power 12, loot 5, damage 25)
+eUw lost the encounter and took 25 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KscRuQ          3         5     0     14
+2          eUw             2         5     20    12
+3          VzdK            1         5     0     10
+4          ulTq            1         5     0     10
+5          vRRmA           1         5     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: eUw, Sorcerer with RiskTaking behavior (level 2, force 5)
+Card: Gang of 4 members (power 51, loot 207, damage 18037)
+eUw lost the encounter and took 18037 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          KscRuQ          3         5     0     14
+2          eUw             2         5     0     12
+3          VzdK            1         5     0     10
+4          ulTq            1         5     0     10
+5          vRRmA           1         5     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!

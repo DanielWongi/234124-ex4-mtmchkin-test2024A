@@ -1,0 +1,121 @@
+Game is about to start!
+These are the players:
+
+1. kgPlhkWnnJs, Warrior with Responsible behavior (level 1, force 5)
+2. kPYt, Sorcerer with RiskTaking behavior (level 1, force 5)
+
+----------------------------------------
+
+New round starts!
+
+Turn: 1
+Player: kgPlhkWnnJs, Warrior with Responsible behavior (level 1, force 5)
+Card: PotionsMerchant
+kgPlhkWnnJs bought 0 potions!
+
+Turn: 2
+Player: kPYt, Sorcerer with RiskTaking behavior (level 1, force 5)
+Card: SolarEclipse
+kPYt was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kPYt            1         6     100   10
+2          kgPlhkWnnJs     1         5     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 3
+Player: kgPlhkWnnJs, Warrior with Responsible behavior (level 1, force 5)
+Card: SolarEclipse
+kgPlhkWnnJs was affected by a solar eclipse! their force has changed by -1!
+
+Turn: 4
+Player: kPYt, Sorcerer with RiskTaking behavior (level 1, force 6)
+Card: SolarEclipse
+kPYt was affected by a solar eclipse! their force has changed by 1!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kPYt            1         7     100   10
+2          kgPlhkWnnJs     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 5
+Player: kgPlhkWnnJs, Warrior with Responsible behavior (level 1, force 4)
+Card: PotionsMerchant
+kgPlhkWnnJs bought 0 potions!
+
+Turn: 6
+Player: kPYt, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: PotionsMerchant
+kPYt bought 0 potions!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kPYt            1         7     100   10
+2          kgPlhkWnnJs     1         4     100   10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 7
+Player: kgPlhkWnnJs, Warrior with Responsible behavior (level 1, force 4)
+Card: Gang of 6 members (power 163, loot 67, damage 335)
+kgPlhkWnnJs lost the encounter and took 335 damage!
+
+Turn: 8
+Player: kPYt, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 3 members (power 22, loot 9, damage 45)
+kPYt lost the encounter and took 45 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kPYt            1         7     55    10
+2          kgPlhkWnnJs     1         4     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 9
+Player: kPYt, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 2 members (power 10, loot 4, damage 20)
+kPYt lost the encounter and took 20 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kPYt            1         7     35    10
+2          kgPlhkWnnJs     1         4     0     10
+
+----------------------------------------
+
+New round starts!
+
+Turn: 10
+Player: kPYt, Sorcerer with RiskTaking behavior (level 1, force 7)
+Card: Gang of 6 members (power 58, loot 24, damage 120)
+kPYt lost the encounter and took 120 damage!
+
+Round has ended!
+Leader board is as follows:
+Ranking    Player Name     Level     Force HP    Coins
+1          kPYt            1         7     0     10
+2          kgPlhkWnnJs     1         4     0     10
+
+----------------------------------------
+
+Game is over!
+There are no winners in this game.
+Better luck next time!
