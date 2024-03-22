@@ -7,6 +7,9 @@
 make -f makefileMtmchkinTests
 ```
 ```bash
+chmod +x tester.sh
+```
+```bash
 ./tester.sh
 ```
 
