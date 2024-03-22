@@ -70,4 +70,4 @@ ${NC}"
 else
     echo -e "\n${RED}Failed $FAILED_TESTS tests.\n\n${NC}"
 fi
-echo "Increase TESTS_TO_RUN in tester.sh to run more tests (up to 4030)."
+echo "Increase TESTS_TO_RUN in tester.sh to run more tests (up to 1231)."
