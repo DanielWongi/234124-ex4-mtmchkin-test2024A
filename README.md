@@ -1,4 +1,4 @@
-![Header Image](https://i.imgur.com/l9dk1ZL.png)
+![Header Image](https://i.imgur.com/82ZlW45.png)
 # 234124-ex4-mtmchkin-test2024A
 1. **First**, create a `test` folder in the root directory of the project. 
 
