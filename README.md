@@ -20,6 +20,7 @@ project/
     ├── makefileMtmchkinTests
     ├── testMain.cpp
     ├── tester.sh
+    ├── diff.sh
     └── fileTests/
 ```
 This structure ensures that your project files and test directory are organized correctly within your project's root directory.
@@ -36,3 +37,14 @@ chmod +x tester.sh
 ./tester.sh
 ```
 
+
+## Diagnosing Failed Tests with diff.sh
+If you encounter any failed tests, the diff.sh script is here to help. This utility allows you to compare the expected and actual outputs of a test, providing clarity on what went wrong.
+```bash
+chmod +x diff.sh
+```
+```bash
+./diff.sh <test_number>
+```
+This command will display any discrepancies, aiding in your debugging process.
+No Differences Found? If diff.sh does not show any differences, it suggests that the test's expected and actual results match. The failure may be due to external factors or configurations.
