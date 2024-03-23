@@ -27,7 +27,7 @@ fi
 
 # Use the diff command to show the differences between the expected output and the actual result
 echo "Showing differences for test $TEST_NUMBER:"
-DIFF_OUTPUT=$(diff "$EXPECTED_OUTPUT_PATH" "$ACTUAL_RESULT_PATH")
+DIFF_OUTPUT=$(diff -u --color=always "$EXPECTED_OUTPUT_PATH" "$ACTUAL_RESULT_PATH")
 
 if [ -z "$DIFF_OUTPUT" ]; then
     echo "There are no differences."
