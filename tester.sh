@@ -12,6 +12,24 @@ FAILED_TEST_NUMBERS=""
 # Number of tests to run, can be increased as needed
 TESTS_TO_RUN=1231
 
+echo "
+     XXXXXXXXY          XXXXXXX
+        XXXXX            XXXXX
+        XXXXX           XXXXX   X             X                                      XX
+        XXXXXX         XXXXXX   XXXXXXXXXXXXXXX XXXXXXX         XXXXXX     XXXXXXXXXXX XXXXXX     XXXXXX  XXXXXW  XXXXXXXXXXXXYXXXXXXX     XXXXXX
+        XXXXXXX       XXXXXXX   X    WXXX     X   XXXXX         XXXX     XXXX       XX  XXXX        XXX    XXXX   XXX     XXX    XXXXXX      XXX
+        XX XXXXX     XXX XXXXY       XXXX          XXXXX       XXXXX   XXXXX         X  YXXX       XXXX    XXXW  XX       XXX    XXX XXXX    XXY
+        XX  XXXXX   XXX   XXXX       YXXX         XX XXXY     XX XXX   XXXX             YXXX       WXXX    XXXWXXX        XXX    XXX  XXXX   XX
+       XXX   XXXXX XXX    XXXX       YXXX         XX  XXXY   XX  XXXX XXXX               XXXXXXXXXXXXXX    XXXXXXXX       XXXX   XXX   XXXX  XXX
+       XXX    XXXX XX     XXXX       YXXX         XX   XXXX XX   XXXX XXXX              XXXX        XXX    XXX  XXXX      XXX    XX      XXXXXX
+       XXX     XXXXX      XXXX       YXXX         XX   XXXXXX    XXXX  XXXX          X   XXX       XXXX    XXXZ  XXXX     XXXX   XX       XXXXX
+       XXX     XXXXX      XXXX       YXXX         XX    XXXXY    XXXX   XXXXX      XXX  WXXX       XXXX    XXX     XXXX   XXXX   XX        XXXX
+     XXXXXXX    XXX     XXXXXXX     XXXXXXX     XXXXX    XXX    XXXXXX   WXXXXXXXXXXXX WXXXXX     XXXXXXX XXXXX     XXXX XXXXX YXXXXX        XX
+                 Y                                        X                          XX                               XXXX                    X
+                                                                                                                        XXX         X
+                                                                                                                          XXXXXXXXX
+"
+
 # Main loop for running tests
 for i in fileTests/inFiles/test*.in; do
     testNumber=${i//[^0-9]/} # Extracting test number from filename
@@ -79,6 +97,23 @@ if [ $FAILED_TESTS -eq 0 ]; then
             ┗┻┛┗┻┛┗┻┛•┗┻┛┗┛┛┗┗┛┻•┻┗┛
 ${NC}"
 else
+    echo -e "${RED}
+     XXXXXXXXY          XXXXXXX
+        XXXXX            XXXXX
+        XXXXX           XXXXX   X             X                                      XX
+        XXXXXX         XXXXXX   XXXXXXXXXXXXXXX XXXXXXX         XXXXXX     XXXXXXXXXXX XXXXXX     XXXXXX  XXXXXW  XXXXXXXXXXXXYXXXXXXX     XXXXXX
+        XXXXXXX       XXXXXXX   X    WXXX     X   XXXXX         XXXX     XXXX       XX  XXXX        XXX    XXXX   XXX     XXX    XXXXXX      XXX
+        XX XXXXX     XXX XXXXY       XXXX          XXXXX       XXXXX   XXXXX         X  YXXX       XXXX    XXXW  XX       XXX    XXX XXXX    XXY
+        XX  XXXXX   XXX   XXXX       YXXX         XX XXXY     XX XXX   XXXX             YXXX       WXXX    XXXWXXX        XXX    XXX  XXXX   XX
+       XXX   XXXXX XXX    XXXX       YXXX         XX  XXXY   XX  XXXX XXXX               XXXXXXXXXXXXXX    XXXXXXXX       XXXX   XXX   XXXX  XXX
+       XXX    XXXX XX     XXXX       YXXX         XX   XXXX XX   XXXX XXXX              XXXX        XXX    XXX  XXXX      XXX    XX      XXXXXX
+       XXX     XXXXX      XXXX       YXXX         XX   XXXXXX    XXXX  XXXX          X   XXX       XXXX    XXXZ  XXXX     XXXX   XX       XXXXX
+       XXX     XXXXX      XXXX       YXXX         XX    XXXXY    XXXX   XXXXX      XXX  WXXX       XXXX    XXX     XXXX   XXXX   XX        XXXX
+     XXXXXXX    XXX     XXXXXXX     XXXXXXX     XXXXX    XXX    XXXXXX   WXXXXXXXXXXXX WXXXXX     XXXXXXX XXXXX     XXXX XXXXX YXXXXX        XX
+                 Y                                        X                          XX                               XXXX                    X
+                                                                                                                        XXX         X
+                                                                                                                          XXXXXXXXX
+    "
     echo -e "\n${RED}Failed $FAILED_TESTS tests.${NC}"
     echo -e "Failed tests: \n${PURPLE}${FAILED_TEST_NUMBERS}${NC}\n"
     echo "To see the differences for a failed test, use the diff.sh script. For example:"
