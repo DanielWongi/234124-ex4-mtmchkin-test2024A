@@ -10,7 +10,7 @@ FAILED_TESTS=0
 FAILED_TEST_NUMBERS=""
 
 # Number of tests to run, can be increased as needed
-TESTS_TO_RUN=1231
+TESTS_TO_RUN=1233
 
 echo "
      XXXXXXXXY          XXXXXXX
@@ -31,20 +31,20 @@ echo "
 "
 
 # Main loop for running tests
-for i in fileTests/inFiles/test*.in; do
-    testNumber=${i//[^0-9]/} # Extracting test number from filename
-
-    if [[ $testNumber -gt $TESTS_TO_RUN ]]; then
-        continue
-    fi
+for ((testNumber=0; testNumber<=TESTS_TO_RUN; testNumber++)); do
+    inFile="fileTests/inFiles/test${testNumber}.in"
+    deckFile="fileTests/inFiles/test${testNumber}.deck"
+    resultFile="fileTests/outFiles/test${testNumber}.result"
+    expectedFile="fileTests/outFiles/test${testNumber}.out"
+    valgrindLogFile="fileTests/inFiles/test${testNumber}.valgrind_log"
 
     echo "Running test $testNumber >>>"
 
     # Run the game simulation and output results to a file
-    ./FileTester "fileTests/inFiles/test${testNumber}.deck" "$i" "fileTests/outFiles/test${testNumber}.result"
+    ./FileTester "$deckFile" "$inFile" "$resultFile"
 
     # Compare the generated result with the expected result
-    if diff "fileTests/outFiles/test${testNumber}.out" "fileTests/outFiles/test${testNumber}.result" > /dev/null; then
+    if diff "$expectedFile" "$resultFile" > /dev/null; then
         echo -e "Game Simulation: ${GREEN}pass${NC},"
     else
         echo -e "Game Simulation: ${RED}fail${NC}"
@@ -53,8 +53,7 @@ for i in fileTests/inFiles/test*.in; do
     fi
 
     # Run Valgrind to check for memory leaks
-    valgrindLogFile="fileTests/inFiles/test${testNumber}.valgrind_log"
-    valgrind --log-file="$valgrindLogFile" --leak-check=full ./FileTester "$i" "fileTests/inFiles/test${testNumber}.deck" "fileTests/outFiles/test${testNumber}.vresult" > /dev/null 2>&1
+    valgrind --log-file="$valgrindLogFile" --leak-check=full ./FileTester "$inFile" "$deckFile" "fileTests/outFiles/test${testNumber}.vresult" > /dev/null 2>&1
 
     # Clean up the Valgrind result file as it's no longer needed
     rm -f "fileTests/outFiles/test${testNumber}.vresult"
@@ -121,4 +120,4 @@ else
     echo "Make sure you have given execute permission to the script before using it. Run the following command to do so:"
     echo -e "${BLUE}chmod +x diff.sh${NC}"
 fi
-echo "Increase TESTS_TO_RUN in tester.sh to run more tests (up to 1231)."
+echo "Increase TESTS_TO_RUN in tester.sh to run more tests (up to 1233)."
