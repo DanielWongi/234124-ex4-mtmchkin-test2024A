@@ -10,7 +10,7 @@ FAILED_TESTS=0
 FAILED_TEST_NUMBERS=""
 
 # Number of tests to run, can be increased as needed
-TESTS_TO_RUN=1233
+TESTS_TO_RUN=1232
 
 echo "
      XXXXXXXXY          XXXXXXX
@@ -120,4 +120,4 @@ else
     echo "Make sure you have given execute permission to the script before using it. Run the following command to do so:"
     echo -e "${BLUE}chmod +x diff.sh${NC}"
 fi
-echo "Increase TESTS_TO_RUN in tester.sh to run more tests (up to 1233)."
+echo "Increase TESTS_TO_RUN in tester.sh to run more tests (up to 1232)."
