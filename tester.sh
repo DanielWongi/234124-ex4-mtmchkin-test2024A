@@ -53,7 +53,7 @@ for ((testNumber=0; testNumber<=TESTS_TO_RUN; testNumber++)); do
     fi
 
     # Run Valgrind to check for memory leaks
-    valgrind --log-file="$valgrindLogFile" --leak-check=full ./FileTester "$inFile" "$deckFile" "fileTests/outFiles/test${testNumber}.vresult" > /dev/null 2>&1
+    valgrind --log-file="$valgrindLogFile" --leak-check=full ./FileTester "$deckFile" "$inFile" "fileTests/outFiles/test${testNumber}.vresult" > /dev/null 2>&1
 
     # Clean up the Valgrind result file as it's no longer needed
     rm -f "fileTests/outFiles/test${testNumber}.vresult"
